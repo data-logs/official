@@ -1,0 +1,3271 @@
+Date,GEO,value,Age,Sex
+2018-01-06,New Brunswick,180,all ages,Both sexes
+2018-01-06,New Brunswick,90,all ages,Males
+2018-01-06,New Brunswick,95,all ages,Females
+2018-01-06,New Brunswick,5,0 to 44 years,Both sexes
+2018-01-06,New Brunswick,0,0 to 44 years,Males
+2018-01-06,New Brunswick,5,0 to 44 years,Females
+2018-01-06,New Brunswick,35,45 to 64 years,Both sexes
+2018-01-06,New Brunswick,20,45 to 64 years,Males
+2018-01-06,New Brunswick,15,45 to 64 years,Females
+2018-01-06,New Brunswick,75,65 to 84 years,Both sexes
+2018-01-06,New Brunswick,40,65 to 84 years,Males
+2018-01-06,New Brunswick,35,65 to 84 years,Females
+2018-01-06,New Brunswick,70,85 years and over,Both sexes
+2018-01-06,New Brunswick,30,85 years and over,Males
+2018-01-06,New Brunswick,40,85 years and over,Females
+2018-01-13,New Brunswick,185,all ages,Both sexes
+2018-01-13,New Brunswick,95,all ages,Males
+2018-01-13,New Brunswick,90,all ages,Females
+2018-01-13,New Brunswick,5,0 to 44 years,Both sexes
+2018-01-13,New Brunswick,5,0 to 44 years,Males
+2018-01-13,New Brunswick,0,0 to 44 years,Females
+2018-01-13,New Brunswick,30,45 to 64 years,Both sexes
+2018-01-13,New Brunswick,20,45 to 64 years,Males
+2018-01-13,New Brunswick,10,45 to 64 years,Females
+2018-01-13,New Brunswick,85,65 to 84 years,Both sexes
+2018-01-13,New Brunswick,50,65 to 84 years,Males
+2018-01-13,New Brunswick,40,65 to 84 years,Females
+2018-01-13,New Brunswick,60,85 years and over,Both sexes
+2018-01-13,New Brunswick,20,85 years and over,Males
+2018-01-13,New Brunswick,45,85 years and over,Females
+2018-01-20,New Brunswick,175,all ages,Both sexes
+2018-01-20,New Brunswick,95,all ages,Males
+2018-01-20,New Brunswick,75,all ages,Females
+2018-01-20,New Brunswick,10,0 to 44 years,Both sexes
+2018-01-20,New Brunswick,5,0 to 44 years,Males
+2018-01-20,New Brunswick,0,0 to 44 years,Females
+2018-01-20,New Brunswick,25,45 to 64 years,Both sexes
+2018-01-20,New Brunswick,20,45 to 64 years,Males
+2018-01-20,New Brunswick,10,45 to 64 years,Females
+2018-01-20,New Brunswick,65,65 to 84 years,Both sexes
+2018-01-20,New Brunswick,50,65 to 84 years,Males
+2018-01-20,New Brunswick,20,65 to 84 years,Females
+2018-01-20,New Brunswick,70,85 years and over,Both sexes
+2018-01-20,New Brunswick,25,85 years and over,Males
+2018-01-20,New Brunswick,45,85 years and over,Females
+2018-01-27,New Brunswick,150,all ages,Both sexes
+2018-01-27,New Brunswick,65,all ages,Males
+2018-01-27,New Brunswick,85,all ages,Females
+2018-01-27,New Brunswick,5,0 to 44 years,Both sexes
+2018-01-27,New Brunswick,5,0 to 44 years,Males
+2018-01-27,New Brunswick,0,0 to 44 years,Females
+2018-01-27,New Brunswick,25,45 to 64 years,Both sexes
+2018-01-27,New Brunswick,15,45 to 64 years,Males
+2018-01-27,New Brunswick,15,45 to 64 years,Females
+2018-01-27,New Brunswick,70,65 to 84 years,Both sexes
+2018-01-27,New Brunswick,35,65 to 84 years,Males
+2018-01-27,New Brunswick,35,65 to 84 years,Females
+2018-01-27,New Brunswick,60,85 years and over,Both sexes
+2018-01-27,New Brunswick,20,85 years and over,Males
+2018-01-27,New Brunswick,45,85 years and over,Females
+2018-02-03,New Brunswick,155,all ages,Both sexes
+2018-02-03,New Brunswick,80,all ages,Males
+2018-02-03,New Brunswick,75,all ages,Females
+2018-02-03,New Brunswick,5,0 to 44 years,Both sexes
+2018-02-03,New Brunswick,5,0 to 44 years,Males
+2018-02-03,New Brunswick,0,0 to 44 years,Females
+2018-02-03,New Brunswick,20,45 to 64 years,Both sexes
+2018-02-03,New Brunswick,10,45 to 64 years,Males
+2018-02-03,New Brunswick,5,45 to 64 years,Females
+2018-02-03,New Brunswick,80,65 to 84 years,Both sexes
+2018-02-03,New Brunswick,45,65 to 84 years,Males
+2018-02-03,New Brunswick,30,65 to 84 years,Females
+2018-02-03,New Brunswick,50,85 years and over,Both sexes
+2018-02-03,New Brunswick,15,85 years and over,Males
+2018-02-03,New Brunswick,35,85 years and over,Females
+2018-02-10,New Brunswick,135,all ages,Both sexes
+2018-02-10,New Brunswick,70,all ages,Males
+2018-02-10,New Brunswick,65,all ages,Females
+2018-02-10,New Brunswick,10,0 to 44 years,Both sexes
+2018-02-10,New Brunswick,5,0 to 44 years,Males
+2018-02-10,New Brunswick,0,0 to 44 years,Females
+2018-02-10,New Brunswick,25,45 to 64 years,Both sexes
+2018-02-10,New Brunswick,20,45 to 64 years,Males
+2018-02-10,New Brunswick,5,45 to 64 years,Females
+2018-02-10,New Brunswick,55,65 to 84 years,Both sexes
+2018-02-10,New Brunswick,40,65 to 84 years,Males
+2018-02-10,New Brunswick,20,65 to 84 years,Females
+2018-02-10,New Brunswick,45,85 years and over,Both sexes
+2018-02-10,New Brunswick,10,85 years and over,Males
+2018-02-10,New Brunswick,35,85 years and over,Females
+2018-02-17,New Brunswick,165,all ages,Both sexes
+2018-02-17,New Brunswick,75,all ages,Males
+2018-02-17,New Brunswick,85,all ages,Females
+2018-02-17,New Brunswick,5,0 to 44 years,Both sexes
+2018-02-17,New Brunswick,0,0 to 44 years,Males
+2018-02-17,New Brunswick,0,0 to 44 years,Females
+2018-02-17,New Brunswick,25,45 to 64 years,Both sexes
+2018-02-17,New Brunswick,15,45 to 64 years,Males
+2018-02-17,New Brunswick,10,45 to 64 years,Females
+2018-02-17,New Brunswick,75,65 to 84 years,Both sexes
+2018-02-17,New Brunswick,35,65 to 84 years,Males
+2018-02-17,New Brunswick,40,65 to 84 years,Females
+2018-02-17,New Brunswick,55,85 years and over,Both sexes
+2018-02-17,New Brunswick,25,85 years and over,Males
+2018-02-17,New Brunswick,30,85 years and over,Females
+2018-02-24,New Brunswick,160,all ages,Both sexes
+2018-02-24,New Brunswick,80,all ages,Males
+2018-02-24,New Brunswick,80,all ages,Females
+2018-02-24,New Brunswick,10,0 to 44 years,Both sexes
+2018-02-24,New Brunswick,5,0 to 44 years,Males
+2018-02-24,New Brunswick,5,0 to 44 years,Females
+2018-02-24,New Brunswick,20,45 to 64 years,Both sexes
+2018-02-24,New Brunswick,15,45 to 64 years,Males
+2018-02-24,New Brunswick,10,45 to 64 years,Females
+2018-02-24,New Brunswick,70,65 to 84 years,Both sexes
+2018-02-24,New Brunswick,45,65 to 84 years,Males
+2018-02-24,New Brunswick,30,65 to 84 years,Females
+2018-02-24,New Brunswick,55,85 years and over,Both sexes
+2018-02-24,New Brunswick,20,85 years and over,Males
+2018-02-24,New Brunswick,35,85 years and over,Females
+2018-03-03,New Brunswick,145,all ages,Both sexes
+2018-03-03,New Brunswick,65,all ages,Males
+2018-03-03,New Brunswick,80,all ages,Females
+2018-03-03,New Brunswick,5,0 to 44 years,Both sexes
+2018-03-03,New Brunswick,5,0 to 44 years,Males
+2018-03-03,New Brunswick,0,0 to 44 years,Females
+2018-03-03,New Brunswick,20,45 to 64 years,Both sexes
+2018-03-03,New Brunswick,15,45 to 64 years,Males
+2018-03-03,New Brunswick,5,45 to 64 years,Females
+2018-03-03,New Brunswick,65,65 to 84 years,Both sexes
+2018-03-03,New Brunswick,30,65 to 84 years,Males
+2018-03-03,New Brunswick,35,65 to 84 years,Females
+2018-03-03,New Brunswick,55,85 years and over,Both sexes
+2018-03-03,New Brunswick,20,85 years and over,Males
+2018-03-03,New Brunswick,40,85 years and over,Females
+2018-03-10,New Brunswick,140,all ages,Both sexes
+2018-03-10,New Brunswick,75,all ages,Males
+2018-03-10,New Brunswick,65,all ages,Females
+2018-03-10,New Brunswick,0,0 to 44 years,Both sexes
+2018-03-10,New Brunswick,0,0 to 44 years,Males
+2018-03-10,New Brunswick,0,0 to 44 years,Females
+2018-03-10,New Brunswick,25,45 to 64 years,Both sexes
+2018-03-10,New Brunswick,10,45 to 64 years,Males
+2018-03-10,New Brunswick,10,45 to 64 years,Females
+2018-03-10,New Brunswick,65,65 to 84 years,Both sexes
+2018-03-10,New Brunswick,40,65 to 84 years,Males
+2018-03-10,New Brunswick,25,65 to 84 years,Females
+2018-03-10,New Brunswick,50,85 years and over,Both sexes
+2018-03-10,New Brunswick,25,85 years and over,Males
+2018-03-10,New Brunswick,30,85 years and over,Females
+2018-03-17,New Brunswick,155,all ages,Both sexes
+2018-03-17,New Brunswick,85,all ages,Males
+2018-03-17,New Brunswick,75,all ages,Females
+2018-03-17,New Brunswick,5,0 to 44 years,Both sexes
+2018-03-17,New Brunswick,5,0 to 44 years,Males
+2018-03-17,New Brunswick,0,0 to 44 years,Females
+2018-03-17,New Brunswick,20,45 to 64 years,Both sexes
+2018-03-17,New Brunswick,15,45 to 64 years,Males
+2018-03-17,New Brunswick,5,45 to 64 years,Females
+2018-03-17,New Brunswick,70,65 to 84 years,Both sexes
+2018-03-17,New Brunswick,40,65 to 84 years,Males
+2018-03-17,New Brunswick,30,65 to 84 years,Females
+2018-03-17,New Brunswick,55,85 years and over,Both sexes
+2018-03-17,New Brunswick,20,85 years and over,Males
+2018-03-17,New Brunswick,35,85 years and over,Females
+2018-03-24,New Brunswick,180,all ages,Both sexes
+2018-03-24,New Brunswick,100,all ages,Males
+2018-03-24,New Brunswick,75,all ages,Females
+2018-03-24,New Brunswick,10,0 to 44 years,Both sexes
+2018-03-24,New Brunswick,5,0 to 44 years,Males
+2018-03-24,New Brunswick,5,0 to 44 years,Females
+2018-03-24,New Brunswick,35,45 to 64 years,Both sexes
+2018-03-24,New Brunswick,25,45 to 64 years,Males
+2018-03-24,New Brunswick,10,45 to 64 years,Females
+2018-03-24,New Brunswick,85,65 to 84 years,Both sexes
+2018-03-24,New Brunswick,50,65 to 84 years,Males
+2018-03-24,New Brunswick,35,65 to 84 years,Females
+2018-03-24,New Brunswick,60,85 years and over,Both sexes
+2018-03-24,New Brunswick,25,85 years and over,Males
+2018-03-24,New Brunswick,35,85 years and over,Females
+2018-03-31,New Brunswick,160,all ages,Both sexes
+2018-03-31,New Brunswick,75,all ages,Males
+2018-03-31,New Brunswick,85,all ages,Females
+2018-03-31,New Brunswick,5,0 to 44 years,Both sexes
+2018-03-31,New Brunswick,0,0 to 44 years,Males
+2018-03-31,New Brunswick,0,0 to 44 years,Females
+2018-03-31,New Brunswick,30,45 to 64 years,Both sexes
+2018-03-31,New Brunswick,20,45 to 64 years,Males
+2018-03-31,New Brunswick,15,45 to 64 years,Females
+2018-03-31,New Brunswick,60,65 to 84 years,Both sexes
+2018-03-31,New Brunswick,40,65 to 84 years,Males
+2018-03-31,New Brunswick,20,65 to 84 years,Females
+2018-03-31,New Brunswick,60,85 years and over,Both sexes
+2018-03-31,New Brunswick,20,85 years and over,Males
+2018-03-31,New Brunswick,40,85 years and over,Females
+2018-04-07,New Brunswick,160,all ages,Both sexes
+2018-04-07,New Brunswick,80,all ages,Males
+2018-04-07,New Brunswick,80,all ages,Females
+2018-04-07,New Brunswick,5,0 to 44 years,Both sexes
+2018-04-07,New Brunswick,0,0 to 44 years,Males
+2018-04-07,New Brunswick,0,0 to 44 years,Females
+2018-04-07,New Brunswick,25,45 to 64 years,Both sexes
+2018-04-07,New Brunswick,15,45 to 64 years,Males
+2018-04-07,New Brunswick,10,45 to 64 years,Females
+2018-04-07,New Brunswick,70,65 to 84 years,Both sexes
+2018-04-07,New Brunswick,45,65 to 84 years,Males
+2018-04-07,New Brunswick,25,65 to 84 years,Females
+2018-04-07,New Brunswick,60,85 years and over,Both sexes
+2018-04-07,New Brunswick,20,85 years and over,Males
+2018-04-07,New Brunswick,40,85 years and over,Females
+2018-04-14,New Brunswick,160,all ages,Both sexes
+2018-04-14,New Brunswick,80,all ages,Males
+2018-04-14,New Brunswick,75,all ages,Females
+2018-04-14,New Brunswick,5,0 to 44 years,Both sexes
+2018-04-14,New Brunswick,0,0 to 44 years,Males
+2018-04-14,New Brunswick,0,0 to 44 years,Females
+2018-04-14,New Brunswick,20,45 to 64 years,Both sexes
+2018-04-14,New Brunswick,15,45 to 64 years,Males
+2018-04-14,New Brunswick,10,45 to 64 years,Females
+2018-04-14,New Brunswick,80,65 to 84 years,Both sexes
+2018-04-14,New Brunswick,45,65 to 84 years,Males
+2018-04-14,New Brunswick,35,65 to 84 years,Females
+2018-04-14,New Brunswick,60,85 years and over,Both sexes
+2018-04-14,New Brunswick,20,85 years and over,Males
+2018-04-14,New Brunswick,30,85 years and over,Females
+2018-04-21,New Brunswick,150,all ages,Both sexes
+2018-04-21,New Brunswick,80,all ages,Males
+2018-04-21,New Brunswick,70,all ages,Females
+2018-04-21,New Brunswick,0,0 to 44 years,Both sexes
+2018-04-21,New Brunswick,0,0 to 44 years,Males
+2018-04-21,New Brunswick,5,0 to 44 years,Females
+2018-04-21,New Brunswick,20,45 to 64 years,Both sexes
+2018-04-21,New Brunswick,10,45 to 64 years,Males
+2018-04-21,New Brunswick,10,45 to 64 years,Females
+2018-04-21,New Brunswick,75,65 to 84 years,Both sexes
+2018-04-21,New Brunswick,40,65 to 84 years,Males
+2018-04-21,New Brunswick,35,65 to 84 years,Females
+2018-04-21,New Brunswick,50,85 years and over,Both sexes
+2018-04-21,New Brunswick,20,85 years and over,Males
+2018-04-21,New Brunswick,30,85 years and over,Females
+2018-04-28,New Brunswick,140,all ages,Both sexes
+2018-04-28,New Brunswick,75,all ages,Males
+2018-04-28,New Brunswick,65,all ages,Females
+2018-04-28,New Brunswick,5,0 to 44 years,Both sexes
+2018-04-28,New Brunswick,5,0 to 44 years,Males
+2018-04-28,New Brunswick,0,0 to 44 years,Females
+2018-04-28,New Brunswick,25,45 to 64 years,Both sexes
+2018-04-28,New Brunswick,15,45 to 64 years,Males
+2018-04-28,New Brunswick,10,45 to 64 years,Females
+2018-04-28,New Brunswick,70,65 to 84 years,Both sexes
+2018-04-28,New Brunswick,45,65 to 84 years,Males
+2018-04-28,New Brunswick,25,65 to 84 years,Females
+2018-04-28,New Brunswick,40,85 years and over,Both sexes
+2018-04-28,New Brunswick,15,85 years and over,Males
+2018-04-28,New Brunswick,30,85 years and over,Females
+2018-05-05,New Brunswick,160,all ages,Both sexes
+2018-05-05,New Brunswick,85,all ages,Males
+2018-05-05,New Brunswick,75,all ages,Females
+2018-05-05,New Brunswick,5,0 to 44 years,Both sexes
+2018-05-05,New Brunswick,5,0 to 44 years,Males
+2018-05-05,New Brunswick,0,0 to 44 years,Females
+2018-05-05,New Brunswick,15,45 to 64 years,Both sexes
+2018-05-05,New Brunswick,10,45 to 64 years,Males
+2018-05-05,New Brunswick,10,45 to 64 years,Females
+2018-05-05,New Brunswick,75,65 to 84 years,Both sexes
+2018-05-05,New Brunswick,45,65 to 84 years,Males
+2018-05-05,New Brunswick,35,65 to 84 years,Females
+2018-05-05,New Brunswick,65,85 years and over,Both sexes
+2018-05-05,New Brunswick,30,85 years and over,Males
+2018-05-05,New Brunswick,35,85 years and over,Females
+2018-05-12,New Brunswick,160,all ages,Both sexes
+2018-05-12,New Brunswick,85,all ages,Males
+2018-05-12,New Brunswick,75,all ages,Females
+2018-05-12,New Brunswick,5,0 to 44 years,Both sexes
+2018-05-12,New Brunswick,5,0 to 44 years,Males
+2018-05-12,New Brunswick,5,0 to 44 years,Females
+2018-05-12,New Brunswick,30,45 to 64 years,Both sexes
+2018-05-12,New Brunswick,20,45 to 64 years,Males
+2018-05-12,New Brunswick,10,45 to 64 years,Females
+2018-05-12,New Brunswick,75,65 to 84 years,Both sexes
+2018-05-12,New Brunswick,40,65 to 84 years,Males
+2018-05-12,New Brunswick,30,65 to 84 years,Females
+2018-05-12,New Brunswick,50,85 years and over,Both sexes
+2018-05-12,New Brunswick,20,85 years and over,Males
+2018-05-12,New Brunswick,30,85 years and over,Females
+2018-05-19,New Brunswick,145,all ages,Both sexes
+2018-05-19,New Brunswick,70,all ages,Males
+2018-05-19,New Brunswick,75,all ages,Females
+2018-05-19,New Brunswick,5,0 to 44 years,Both sexes
+2018-05-19,New Brunswick,5,0 to 44 years,Males
+2018-05-19,New Brunswick,5,0 to 44 years,Females
+2018-05-19,New Brunswick,25,45 to 64 years,Both sexes
+2018-05-19,New Brunswick,15,45 to 64 years,Males
+2018-05-19,New Brunswick,15,45 to 64 years,Females
+2018-05-19,New Brunswick,55,65 to 84 years,Both sexes
+2018-05-19,New Brunswick,35,65 to 84 years,Males
+2018-05-19,New Brunswick,25,65 to 84 years,Females
+2018-05-19,New Brunswick,55,85 years and over,Both sexes
+2018-05-19,New Brunswick,20,85 years and over,Males
+2018-05-19,New Brunswick,35,85 years and over,Females
+2018-05-26,New Brunswick,140,all ages,Both sexes
+2018-05-26,New Brunswick,70,all ages,Males
+2018-05-26,New Brunswick,70,all ages,Females
+2018-05-26,New Brunswick,10,0 to 44 years,Both sexes
+2018-05-26,New Brunswick,0,0 to 44 years,Males
+2018-05-26,New Brunswick,0,0 to 44 years,Females
+2018-05-26,New Brunswick,20,45 to 64 years,Both sexes
+2018-05-26,New Brunswick,10,45 to 64 years,Males
+2018-05-26,New Brunswick,10,45 to 64 years,Females
+2018-05-26,New Brunswick,70,65 to 84 years,Both sexes
+2018-05-26,New Brunswick,35,65 to 84 years,Males
+2018-05-26,New Brunswick,35,65 to 84 years,Females
+2018-05-26,New Brunswick,40,85 years and over,Both sexes
+2018-05-26,New Brunswick,15,85 years and over,Males
+2018-05-26,New Brunswick,25,85 years and over,Females
+2018-06-02,New Brunswick,145,all ages,Both sexes
+2018-06-02,New Brunswick,80,all ages,Males
+2018-06-02,New Brunswick,65,all ages,Females
+2018-06-02,New Brunswick,5,0 to 44 years,Both sexes
+2018-06-02,New Brunswick,0,0 to 44 years,Males
+2018-06-02,New Brunswick,5,0 to 44 years,Females
+2018-06-02,New Brunswick,25,45 to 64 years,Both sexes
+2018-06-02,New Brunswick,15,45 to 64 years,Males
+2018-06-02,New Brunswick,10,45 to 64 years,Females
+2018-06-02,New Brunswick,65,65 to 84 years,Both sexes
+2018-06-02,New Brunswick,40,65 to 84 years,Males
+2018-06-02,New Brunswick,25,65 to 84 years,Females
+2018-06-02,New Brunswick,50,85 years and over,Both sexes
+2018-06-02,New Brunswick,25,85 years and over,Males
+2018-06-02,New Brunswick,30,85 years and over,Females
+2018-06-09,New Brunswick,155,all ages,Both sexes
+2018-06-09,New Brunswick,80,all ages,Males
+2018-06-09,New Brunswick,75,all ages,Females
+2018-06-09,New Brunswick,0,0 to 44 years,Both sexes
+2018-06-09,New Brunswick,5,0 to 44 years,Males
+2018-06-09,New Brunswick,5,0 to 44 years,Females
+2018-06-09,New Brunswick,35,45 to 64 years,Both sexes
+2018-06-09,New Brunswick,20,45 to 64 years,Males
+2018-06-09,New Brunswick,10,45 to 64 years,Females
+2018-06-09,New Brunswick,70,65 to 84 years,Both sexes
+2018-06-09,New Brunswick,40,65 to 84 years,Males
+2018-06-09,New Brunswick,35,65 to 84 years,Females
+2018-06-09,New Brunswick,45,85 years and over,Both sexes
+2018-06-09,New Brunswick,20,85 years and over,Males
+2018-06-09,New Brunswick,25,85 years and over,Females
+2018-06-16,New Brunswick,130,all ages,Both sexes
+2018-06-16,New Brunswick,70,all ages,Males
+2018-06-16,New Brunswick,60,all ages,Females
+2018-06-16,New Brunswick,0,0 to 44 years,Both sexes
+2018-06-16,New Brunswick,0,0 to 44 years,Males
+2018-06-16,New Brunswick,0,0 to 44 years,Females
+2018-06-16,New Brunswick,20,45 to 64 years,Both sexes
+2018-06-16,New Brunswick,20,45 to 64 years,Males
+2018-06-16,New Brunswick,10,45 to 64 years,Females
+2018-06-16,New Brunswick,60,65 to 84 years,Both sexes
+2018-06-16,New Brunswick,40,65 to 84 years,Males
+2018-06-16,New Brunswick,25,65 to 84 years,Females
+2018-06-16,New Brunswick,45,85 years and over,Both sexes
+2018-06-16,New Brunswick,15,85 years and over,Males
+2018-06-16,New Brunswick,30,85 years and over,Females
+2018-06-23,New Brunswick,150,all ages,Both sexes
+2018-06-23,New Brunswick,60,all ages,Males
+2018-06-23,New Brunswick,85,all ages,Females
+2018-06-23,New Brunswick,0,0 to 44 years,Both sexes
+2018-06-23,New Brunswick,0,0 to 44 years,Males
+2018-06-23,New Brunswick,0,0 to 44 years,Females
+2018-06-23,New Brunswick,15,45 to 64 years,Both sexes
+2018-06-23,New Brunswick,5,45 to 64 years,Males
+2018-06-23,New Brunswick,10,45 to 64 years,Females
+2018-06-23,New Brunswick,70,65 to 84 years,Both sexes
+2018-06-23,New Brunswick,40,65 to 84 years,Males
+2018-06-23,New Brunswick,35,65 to 84 years,Females
+2018-06-23,New Brunswick,55,85 years and over,Both sexes
+2018-06-23,New Brunswick,15,85 years and over,Males
+2018-06-23,New Brunswick,45,85 years and over,Females
+2018-06-30,New Brunswick,125,all ages,Both sexes
+2018-06-30,New Brunswick,60,all ages,Males
+2018-06-30,New Brunswick,60,all ages,Females
+2018-06-30,New Brunswick,5,0 to 44 years,Both sexes
+2018-06-30,New Brunswick,5,0 to 44 years,Males
+2018-06-30,New Brunswick,5,0 to 44 years,Females
+2018-06-30,New Brunswick,20,45 to 64 years,Both sexes
+2018-06-30,New Brunswick,15,45 to 64 years,Males
+2018-06-30,New Brunswick,10,45 to 64 years,Females
+2018-06-30,New Brunswick,50,65 to 84 years,Both sexes
+2018-06-30,New Brunswick,25,65 to 84 years,Males
+2018-06-30,New Brunswick,20,65 to 84 years,Females
+2018-06-30,New Brunswick,40,85 years and over,Both sexes
+2018-06-30,New Brunswick,15,85 years and over,Males
+2018-06-30,New Brunswick,30,85 years and over,Females
+2018-07-07,New Brunswick,120,all ages,Both sexes
+2018-07-07,New Brunswick,55,all ages,Males
+2018-07-07,New Brunswick,65,all ages,Females
+2018-07-07,New Brunswick,5,0 to 44 years,Both sexes
+2018-07-07,New Brunswick,0,0 to 44 years,Males
+2018-07-07,New Brunswick,5,0 to 44 years,Females
+2018-07-07,New Brunswick,25,45 to 64 years,Both sexes
+2018-07-07,New Brunswick,15,45 to 64 years,Males
+2018-07-07,New Brunswick,5,45 to 64 years,Females
+2018-07-07,New Brunswick,60,65 to 84 years,Both sexes
+2018-07-07,New Brunswick,25,65 to 84 years,Males
+2018-07-07,New Brunswick,25,65 to 84 years,Females
+2018-07-07,New Brunswick,35,85 years and over,Both sexes
+2018-07-07,New Brunswick,10,85 years and over,Males
+2018-07-07,New Brunswick,20,85 years and over,Females
+2018-07-14,New Brunswick,135,all ages,Both sexes
+2018-07-14,New Brunswick,65,all ages,Males
+2018-07-14,New Brunswick,70,all ages,Females
+2018-07-14,New Brunswick,5,0 to 44 years,Both sexes
+2018-07-14,New Brunswick,0,0 to 44 years,Males
+2018-07-14,New Brunswick,0,0 to 44 years,Females
+2018-07-14,New Brunswick,15,45 to 64 years,Both sexes
+2018-07-14,New Brunswick,5,45 to 64 years,Males
+2018-07-14,New Brunswick,10,45 to 64 years,Females
+2018-07-14,New Brunswick,75,65 to 84 years,Both sexes
+2018-07-14,New Brunswick,40,65 to 84 years,Males
+2018-07-14,New Brunswick,30,65 to 84 years,Females
+2018-07-14,New Brunswick,45,85 years and over,Both sexes
+2018-07-14,New Brunswick,20,85 years and over,Males
+2018-07-14,New Brunswick,30,85 years and over,Females
+2018-07-21,New Brunswick,125,all ages,Both sexes
+2018-07-21,New Brunswick,50,all ages,Males
+2018-07-21,New Brunswick,70,all ages,Females
+2018-07-21,New Brunswick,5,0 to 44 years,Both sexes
+2018-07-21,New Brunswick,5,0 to 44 years,Males
+2018-07-21,New Brunswick,0,0 to 44 years,Females
+2018-07-21,New Brunswick,20,45 to 64 years,Both sexes
+2018-07-21,New Brunswick,10,45 to 64 years,Males
+2018-07-21,New Brunswick,5,45 to 64 years,Females
+2018-07-21,New Brunswick,50,65 to 84 years,Both sexes
+2018-07-21,New Brunswick,25,65 to 84 years,Males
+2018-07-21,New Brunswick,30,65 to 84 years,Females
+2018-07-21,New Brunswick,45,85 years and over,Both sexes
+2018-07-21,New Brunswick,15,85 years and over,Males
+2018-07-21,New Brunswick,30,85 years and over,Females
+2018-07-28,New Brunswick,115,all ages,Both sexes
+2018-07-28,New Brunswick,55,all ages,Males
+2018-07-28,New Brunswick,60,all ages,Females
+2018-07-28,New Brunswick,5,0 to 44 years,Both sexes
+2018-07-28,New Brunswick,5,0 to 44 years,Males
+2018-07-28,New Brunswick,0,0 to 44 years,Females
+2018-07-28,New Brunswick,15,45 to 64 years,Both sexes
+2018-07-28,New Brunswick,10,45 to 64 years,Males
+2018-07-28,New Brunswick,5,45 to 64 years,Females
+2018-07-28,New Brunswick,45,65 to 84 years,Both sexes
+2018-07-28,New Brunswick,25,65 to 84 years,Males
+2018-07-28,New Brunswick,15,65 to 84 years,Females
+2018-07-28,New Brunswick,50,85 years and over,Both sexes
+2018-07-28,New Brunswick,15,85 years and over,Males
+2018-07-28,New Brunswick,30,85 years and over,Females
+2018-08-04,New Brunswick,140,all ages,Both sexes
+2018-08-04,New Brunswick,65,all ages,Males
+2018-08-04,New Brunswick,75,all ages,Females
+2018-08-04,New Brunswick,10,0 to 44 years,Both sexes
+2018-08-04,New Brunswick,5,0 to 44 years,Males
+2018-08-04,New Brunswick,0,0 to 44 years,Females
+2018-08-04,New Brunswick,20,45 to 64 years,Both sexes
+2018-08-04,New Brunswick,10,45 to 64 years,Males
+2018-08-04,New Brunswick,10,45 to 64 years,Females
+2018-08-04,New Brunswick,60,65 to 84 years,Both sexes
+2018-08-04,New Brunswick,30,65 to 84 years,Males
+2018-08-04,New Brunswick,25,65 to 84 years,Females
+2018-08-04,New Brunswick,55,85 years and over,Both sexes
+2018-08-04,New Brunswick,20,85 years and over,Males
+2018-08-04,New Brunswick,35,85 years and over,Females
+2018-08-11,New Brunswick,130,all ages,Both sexes
+2018-08-11,New Brunswick,70,all ages,Males
+2018-08-11,New Brunswick,60,all ages,Females
+2018-08-11,New Brunswick,10,0 to 44 years,Both sexes
+2018-08-11,New Brunswick,5,0 to 44 years,Males
+2018-08-11,New Brunswick,5,0 to 44 years,Females
+2018-08-11,New Brunswick,15,45 to 64 years,Both sexes
+2018-08-11,New Brunswick,5,45 to 64 years,Males
+2018-08-11,New Brunswick,5,45 to 64 years,Females
+2018-08-11,New Brunswick,75,65 to 84 years,Both sexes
+2018-08-11,New Brunswick,50,65 to 84 years,Males
+2018-08-11,New Brunswick,25,65 to 84 years,Females
+2018-08-11,New Brunswick,35,85 years and over,Both sexes
+2018-08-11,New Brunswick,10,85 years and over,Males
+2018-08-11,New Brunswick,25,85 years and over,Females
+2018-08-18,New Brunswick,145,all ages,Both sexes
+2018-08-18,New Brunswick,80,all ages,Males
+2018-08-18,New Brunswick,60,all ages,Females
+2018-08-18,New Brunswick,10,0 to 44 years,Both sexes
+2018-08-18,New Brunswick,5,0 to 44 years,Males
+2018-08-18,New Brunswick,0,0 to 44 years,Females
+2018-08-18,New Brunswick,20,45 to 64 years,Both sexes
+2018-08-18,New Brunswick,15,45 to 64 years,Males
+2018-08-18,New Brunswick,5,45 to 64 years,Females
+2018-08-18,New Brunswick,65,65 to 84 years,Both sexes
+2018-08-18,New Brunswick,40,65 to 84 years,Males
+2018-08-18,New Brunswick,30,65 to 84 years,Females
+2018-08-18,New Brunswick,50,85 years and over,Both sexes
+2018-08-18,New Brunswick,20,85 years and over,Males
+2018-08-18,New Brunswick,30,85 years and over,Females
+2018-08-25,New Brunswick,120,all ages,Both sexes
+2018-08-25,New Brunswick,55,all ages,Males
+2018-08-25,New Brunswick,65,all ages,Females
+2018-08-25,New Brunswick,5,0 to 44 years,Both sexes
+2018-08-25,New Brunswick,0,0 to 44 years,Males
+2018-08-25,New Brunswick,5,0 to 44 years,Females
+2018-08-25,New Brunswick,20,45 to 64 years,Both sexes
+2018-08-25,New Brunswick,15,45 to 64 years,Males
+2018-08-25,New Brunswick,5,45 to 64 years,Females
+2018-08-25,New Brunswick,55,65 to 84 years,Both sexes
+2018-08-25,New Brunswick,30,65 to 84 years,Males
+2018-08-25,New Brunswick,25,65 to 84 years,Females
+2018-08-25,New Brunswick,45,85 years and over,Both sexes
+2018-08-25,New Brunswick,15,85 years and over,Males
+2018-08-25,New Brunswick,30,85 years and over,Females
+2018-09-01,New Brunswick,150,all ages,Both sexes
+2018-09-01,New Brunswick,75,all ages,Males
+2018-09-01,New Brunswick,75,all ages,Females
+2018-09-01,New Brunswick,5,0 to 44 years,Both sexes
+2018-09-01,New Brunswick,5,0 to 44 years,Males
+2018-09-01,New Brunswick,5,0 to 44 years,Females
+2018-09-01,New Brunswick,15,45 to 64 years,Both sexes
+2018-09-01,New Brunswick,5,45 to 64 years,Males
+2018-09-01,New Brunswick,10,45 to 64 years,Females
+2018-09-01,New Brunswick,80,65 to 84 years,Both sexes
+2018-09-01,New Brunswick,45,65 to 84 years,Males
+2018-09-01,New Brunswick,35,65 to 84 years,Females
+2018-09-01,New Brunswick,50,85 years and over,Both sexes
+2018-09-01,New Brunswick,25,85 years and over,Males
+2018-09-01,New Brunswick,25,85 years and over,Females
+2018-09-08,New Brunswick,145,all ages,Both sexes
+2018-09-08,New Brunswick,80,all ages,Males
+2018-09-08,New Brunswick,65,all ages,Females
+2018-09-08,New Brunswick,5,0 to 44 years,Both sexes
+2018-09-08,New Brunswick,5,0 to 44 years,Males
+2018-09-08,New Brunswick,0,0 to 44 years,Females
+2018-09-08,New Brunswick,20,45 to 64 years,Both sexes
+2018-09-08,New Brunswick,15,45 to 64 years,Males
+2018-09-08,New Brunswick,5,45 to 64 years,Females
+2018-09-08,New Brunswick,70,65 to 84 years,Both sexes
+2018-09-08,New Brunswick,40,65 to 84 years,Males
+2018-09-08,New Brunswick,30,65 to 84 years,Females
+2018-09-08,New Brunswick,50,85 years and over,Both sexes
+2018-09-08,New Brunswick,20,85 years and over,Males
+2018-09-08,New Brunswick,30,85 years and over,Females
+2018-09-15,New Brunswick,135,all ages,Both sexes
+2018-09-15,New Brunswick,70,all ages,Males
+2018-09-15,New Brunswick,70,all ages,Females
+2018-09-15,New Brunswick,10,0 to 44 years,Both sexes
+2018-09-15,New Brunswick,5,0 to 44 years,Males
+2018-09-15,New Brunswick,5,0 to 44 years,Females
+2018-09-15,New Brunswick,25,45 to 64 years,Both sexes
+2018-09-15,New Brunswick,10,45 to 64 years,Males
+2018-09-15,New Brunswick,10,45 to 64 years,Females
+2018-09-15,New Brunswick,50,65 to 84 years,Both sexes
+2018-09-15,New Brunswick,30,65 to 84 years,Males
+2018-09-15,New Brunswick,20,65 to 84 years,Females
+2018-09-15,New Brunswick,55,85 years and over,Both sexes
+2018-09-15,New Brunswick,20,85 years and over,Males
+2018-09-15,New Brunswick,35,85 years and over,Females
+2018-09-22,New Brunswick,140,all ages,Both sexes
+2018-09-22,New Brunswick,70,all ages,Males
+2018-09-22,New Brunswick,70,all ages,Females
+2018-09-22,New Brunswick,5,0 to 44 years,Both sexes
+2018-09-22,New Brunswick,5,0 to 44 years,Males
+2018-09-22,New Brunswick,0,0 to 44 years,Females
+2018-09-22,New Brunswick,20,45 to 64 years,Both sexes
+2018-09-22,New Brunswick,15,45 to 64 years,Males
+2018-09-22,New Brunswick,5,45 to 64 years,Females
+2018-09-22,New Brunswick,75,65 to 84 years,Both sexes
+2018-09-22,New Brunswick,45,65 to 84 years,Males
+2018-09-22,New Brunswick,30,65 to 84 years,Females
+2018-09-22,New Brunswick,40,85 years and over,Both sexes
+2018-09-22,New Brunswick,15,85 years and over,Males
+2018-09-22,New Brunswick,30,85 years and over,Females
+2018-09-29,New Brunswick,120,all ages,Both sexes
+2018-09-29,New Brunswick,55,all ages,Males
+2018-09-29,New Brunswick,70,all ages,Females
+2018-09-29,New Brunswick,5,0 to 44 years,Both sexes
+2018-09-29,New Brunswick,0,0 to 44 years,Males
+2018-09-29,New Brunswick,5,0 to 44 years,Females
+2018-09-29,New Brunswick,20,45 to 64 years,Both sexes
+2018-09-29,New Brunswick,10,45 to 64 years,Males
+2018-09-29,New Brunswick,10,45 to 64 years,Females
+2018-09-29,New Brunswick,55,65 to 84 years,Both sexes
+2018-09-29,New Brunswick,30,65 to 84 years,Males
+2018-09-29,New Brunswick,25,65 to 84 years,Females
+2018-09-29,New Brunswick,35,85 years and over,Both sexes
+2018-09-29,New Brunswick,10,85 years and over,Males
+2018-09-29,New Brunswick,25,85 years and over,Females
+2018-10-06,New Brunswick,145,all ages,Both sexes
+2018-10-06,New Brunswick,80,all ages,Males
+2018-10-06,New Brunswick,65,all ages,Females
+2018-10-06,New Brunswick,5,0 to 44 years,Both sexes
+2018-10-06,New Brunswick,0,0 to 44 years,Males
+2018-10-06,New Brunswick,0,0 to 44 years,Females
+2018-10-06,New Brunswick,20,45 to 64 years,Both sexes
+2018-10-06,New Brunswick,10,45 to 64 years,Males
+2018-10-06,New Brunswick,5,45 to 64 years,Females
+2018-10-06,New Brunswick,75,65 to 84 years,Both sexes
+2018-10-06,New Brunswick,40,65 to 84 years,Males
+2018-10-06,New Brunswick,30,65 to 84 years,Females
+2018-10-06,New Brunswick,45,85 years and over,Both sexes
+2018-10-06,New Brunswick,20,85 years and over,Males
+2018-10-06,New Brunswick,25,85 years and over,Females
+2018-10-13,New Brunswick,155,all ages,Both sexes
+2018-10-13,New Brunswick,80,all ages,Males
+2018-10-13,New Brunswick,70,all ages,Females
+2018-10-13,New Brunswick,5,0 to 44 years,Both sexes
+2018-10-13,New Brunswick,5,0 to 44 years,Males
+2018-10-13,New Brunswick,0,0 to 44 years,Females
+2018-10-13,New Brunswick,20,45 to 64 years,Both sexes
+2018-10-13,New Brunswick,10,45 to 64 years,Males
+2018-10-13,New Brunswick,10,45 to 64 years,Females
+2018-10-13,New Brunswick,70,65 to 84 years,Both sexes
+2018-10-13,New Brunswick,40,65 to 84 years,Males
+2018-10-13,New Brunswick,30,65 to 84 years,Females
+2018-10-13,New Brunswick,60,85 years and over,Both sexes
+2018-10-13,New Brunswick,25,85 years and over,Males
+2018-10-13,New Brunswick,35,85 years and over,Females
+2018-10-20,New Brunswick,145,all ages,Both sexes
+2018-10-20,New Brunswick,75,all ages,Males
+2018-10-20,New Brunswick,70,all ages,Females
+2018-10-20,New Brunswick,5,0 to 44 years,Both sexes
+2018-10-20,New Brunswick,5,0 to 44 years,Males
+2018-10-20,New Brunswick,5,0 to 44 years,Females
+2018-10-20,New Brunswick,20,45 to 64 years,Both sexes
+2018-10-20,New Brunswick,10,45 to 64 years,Males
+2018-10-20,New Brunswick,10,45 to 64 years,Females
+2018-10-20,New Brunswick,70,65 to 84 years,Both sexes
+2018-10-20,New Brunswick,45,65 to 84 years,Males
+2018-10-20,New Brunswick,30,65 to 84 years,Females
+2018-10-20,New Brunswick,40,85 years and over,Both sexes
+2018-10-20,New Brunswick,15,85 years and over,Males
+2018-10-20,New Brunswick,30,85 years and over,Females
+2018-10-27,New Brunswick,160,all ages,Both sexes
+2018-10-27,New Brunswick,75,all ages,Males
+2018-10-27,New Brunswick,80,all ages,Females
+2018-10-27,New Brunswick,5,0 to 44 years,Both sexes
+2018-10-27,New Brunswick,0,0 to 44 years,Males
+2018-10-27,New Brunswick,0,0 to 44 years,Females
+2018-10-27,New Brunswick,25,45 to 64 years,Both sexes
+2018-10-27,New Brunswick,15,45 to 64 years,Males
+2018-10-27,New Brunswick,5,45 to 64 years,Females
+2018-10-27,New Brunswick,80,65 to 84 years,Both sexes
+2018-10-27,New Brunswick,40,65 to 84 years,Males
+2018-10-27,New Brunswick,45,65 to 84 years,Females
+2018-10-27,New Brunswick,50,85 years and over,Both sexes
+2018-10-27,New Brunswick,20,85 years and over,Males
+2018-10-27,New Brunswick,30,85 years and over,Females
+2018-11-03,New Brunswick,160,all ages,Both sexes
+2018-11-03,New Brunswick,90,all ages,Males
+2018-11-03,New Brunswick,65,all ages,Females
+2018-11-03,New Brunswick,10,0 to 44 years,Both sexes
+2018-11-03,New Brunswick,5,0 to 44 years,Males
+2018-11-03,New Brunswick,0,0 to 44 years,Females
+2018-11-03,New Brunswick,25,45 to 64 years,Both sexes
+2018-11-03,New Brunswick,15,45 to 64 years,Males
+2018-11-03,New Brunswick,10,45 to 64 years,Females
+2018-11-03,New Brunswick,70,65 to 84 years,Both sexes
+2018-11-03,New Brunswick,45,65 to 84 years,Males
+2018-11-03,New Brunswick,25,65 to 84 years,Females
+2018-11-03,New Brunswick,50,85 years and over,Both sexes
+2018-11-03,New Brunswick,25,85 years and over,Males
+2018-11-03,New Brunswick,35,85 years and over,Females
+2018-11-10,New Brunswick,140,all ages,Both sexes
+2018-11-10,New Brunswick,65,all ages,Males
+2018-11-10,New Brunswick,70,all ages,Females
+2018-11-10,New Brunswick,0,0 to 44 years,Both sexes
+2018-11-10,New Brunswick,0,0 to 44 years,Males
+2018-11-10,New Brunswick,0,0 to 44 years,Females
+2018-11-10,New Brunswick,15,45 to 64 years,Both sexes
+2018-11-10,New Brunswick,10,45 to 64 years,Males
+2018-11-10,New Brunswick,10,45 to 64 years,Females
+2018-11-10,New Brunswick,70,65 to 84 years,Both sexes
+2018-11-10,New Brunswick,40,65 to 84 years,Males
+2018-11-10,New Brunswick,30,65 to 84 years,Females
+2018-11-10,New Brunswick,45,85 years and over,Both sexes
+2018-11-10,New Brunswick,15,85 years and over,Males
+2018-11-10,New Brunswick,30,85 years and over,Females
+2018-11-17,New Brunswick,140,all ages,Both sexes
+2018-11-17,New Brunswick,70,all ages,Males
+2018-11-17,New Brunswick,70,all ages,Females
+2018-11-17,New Brunswick,10,0 to 44 years,Both sexes
+2018-11-17,New Brunswick,5,0 to 44 years,Males
+2018-11-17,New Brunswick,5,0 to 44 years,Females
+2018-11-17,New Brunswick,25,45 to 64 years,Both sexes
+2018-11-17,New Brunswick,20,45 to 64 years,Males
+2018-11-17,New Brunswick,10,45 to 64 years,Females
+2018-11-17,New Brunswick,65,65 to 84 years,Both sexes
+2018-11-17,New Brunswick,35,65 to 84 years,Males
+2018-11-17,New Brunswick,25,65 to 84 years,Females
+2018-11-17,New Brunswick,45,85 years and over,Both sexes
+2018-11-17,New Brunswick,15,85 years and over,Males
+2018-11-17,New Brunswick,30,85 years and over,Females
+2018-11-24,New Brunswick,130,all ages,Both sexes
+2018-11-24,New Brunswick,70,all ages,Males
+2018-11-24,New Brunswick,60,all ages,Females
+2018-11-24,New Brunswick,5,0 to 44 years,Both sexes
+2018-11-24,New Brunswick,5,0 to 44 years,Males
+2018-11-24,New Brunswick,5,0 to 44 years,Females
+2018-11-24,New Brunswick,15,45 to 64 years,Both sexes
+2018-11-24,New Brunswick,10,45 to 64 years,Males
+2018-11-24,New Brunswick,5,45 to 64 years,Females
+2018-11-24,New Brunswick,65,65 to 84 years,Both sexes
+2018-11-24,New Brunswick,40,65 to 84 years,Males
+2018-11-24,New Brunswick,25,65 to 84 years,Females
+2018-11-24,New Brunswick,45,85 years and over,Both sexes
+2018-11-24,New Brunswick,20,85 years and over,Males
+2018-11-24,New Brunswick,30,85 years and over,Females
+2018-12-01,New Brunswick,155,all ages,Both sexes
+2018-12-01,New Brunswick,85,all ages,Males
+2018-12-01,New Brunswick,75,all ages,Females
+2018-12-01,New Brunswick,5,0 to 44 years,Both sexes
+2018-12-01,New Brunswick,5,0 to 44 years,Males
+2018-12-01,New Brunswick,5,0 to 44 years,Females
+2018-12-01,New Brunswick,25,45 to 64 years,Both sexes
+2018-12-01,New Brunswick,15,45 to 64 years,Males
+2018-12-01,New Brunswick,5,45 to 64 years,Females
+2018-12-01,New Brunswick,80,65 to 84 years,Both sexes
+2018-12-01,New Brunswick,40,65 to 84 years,Males
+2018-12-01,New Brunswick,35,65 to 84 years,Females
+2018-12-01,New Brunswick,55,85 years and over,Both sexes
+2018-12-01,New Brunswick,20,85 years and over,Males
+2018-12-01,New Brunswick,35,85 years and over,Females
+2018-12-08,New Brunswick,150,all ages,Both sexes
+2018-12-08,New Brunswick,75,all ages,Males
+2018-12-08,New Brunswick,75,all ages,Females
+2018-12-08,New Brunswick,5,0 to 44 years,Both sexes
+2018-12-08,New Brunswick,5,0 to 44 years,Males
+2018-12-08,New Brunswick,0,0 to 44 years,Females
+2018-12-08,New Brunswick,30,45 to 64 years,Both sexes
+2018-12-08,New Brunswick,15,45 to 64 years,Males
+2018-12-08,New Brunswick,10,45 to 64 years,Females
+2018-12-08,New Brunswick,65,65 to 84 years,Both sexes
+2018-12-08,New Brunswick,35,65 to 84 years,Males
+2018-12-08,New Brunswick,30,65 to 84 years,Females
+2018-12-08,New Brunswick,50,85 years and over,Both sexes
+2018-12-08,New Brunswick,25,85 years and over,Males
+2018-12-08,New Brunswick,30,85 years and over,Females
+2018-12-15,New Brunswick,145,all ages,Both sexes
+2018-12-15,New Brunswick,75,all ages,Males
+2018-12-15,New Brunswick,70,all ages,Females
+2018-12-15,New Brunswick,5,0 to 44 years,Both sexes
+2018-12-15,New Brunswick,5,0 to 44 years,Males
+2018-12-15,New Brunswick,0,0 to 44 years,Females
+2018-12-15,New Brunswick,20,45 to 64 years,Both sexes
+2018-12-15,New Brunswick,10,45 to 64 years,Males
+2018-12-15,New Brunswick,10,45 to 64 years,Females
+2018-12-15,New Brunswick,75,65 to 84 years,Both sexes
+2018-12-15,New Brunswick,45,65 to 84 years,Males
+2018-12-15,New Brunswick,35,65 to 84 years,Females
+2018-12-15,New Brunswick,45,85 years and over,Both sexes
+2018-12-15,New Brunswick,20,85 years and over,Males
+2018-12-15,New Brunswick,25,85 years and over,Females
+2018-12-22,New Brunswick,175,all ages,Both sexes
+2018-12-22,New Brunswick,90,all ages,Males
+2018-12-22,New Brunswick,80,all ages,Females
+2018-12-22,New Brunswick,5,0 to 44 years,Both sexes
+2018-12-22,New Brunswick,5,0 to 44 years,Males
+2018-12-22,New Brunswick,5,0 to 44 years,Females
+2018-12-22,New Brunswick,30,45 to 64 years,Both sexes
+2018-12-22,New Brunswick,10,45 to 64 years,Males
+2018-12-22,New Brunswick,15,45 to 64 years,Females
+2018-12-22,New Brunswick,85,65 to 84 years,Both sexes
+2018-12-22,New Brunswick,50,65 to 84 years,Males
+2018-12-22,New Brunswick,35,65 to 84 years,Females
+2018-12-22,New Brunswick,55,85 years and over,Both sexes
+2018-12-22,New Brunswick,25,85 years and over,Males
+2018-12-22,New Brunswick,35,85 years and over,Females
+2018-12-29,New Brunswick,140,all ages,Both sexes
+2018-12-29,New Brunswick,75,all ages,Males
+2018-12-29,New Brunswick,65,all ages,Females
+2018-12-29,New Brunswick,5,0 to 44 years,Both sexes
+2018-12-29,New Brunswick,0,0 to 44 years,Males
+2018-12-29,New Brunswick,0,0 to 44 years,Females
+2018-12-29,New Brunswick,25,45 to 64 years,Both sexes
+2018-12-29,New Brunswick,15,45 to 64 years,Males
+2018-12-29,New Brunswick,10,45 to 64 years,Females
+2018-12-29,New Brunswick,65,65 to 84 years,Both sexes
+2018-12-29,New Brunswick,40,65 to 84 years,Males
+2018-12-29,New Brunswick,30,65 to 84 years,Females
+2018-12-29,New Brunswick,45,85 years and over,Both sexes
+2018-12-29,New Brunswick,20,85 years and over,Males
+2018-12-29,New Brunswick,20,85 years and over,Females
+2019-01-05,New Brunswick,160,all ages,Both sexes
+2019-01-05,New Brunswick,75,all ages,Males
+2019-01-05,New Brunswick,85,all ages,Females
+2019-01-05,New Brunswick,5,0 to 44 years,Both sexes
+2019-01-05,New Brunswick,0,0 to 44 years,Males
+2019-01-05,New Brunswick,0,0 to 44 years,Females
+2019-01-05,New Brunswick,25,45 to 64 years,Both sexes
+2019-01-05,New Brunswick,15,45 to 64 years,Males
+2019-01-05,New Brunswick,10,45 to 64 years,Females
+2019-01-05,New Brunswick,75,65 to 84 years,Both sexes
+2019-01-05,New Brunswick,35,65 to 84 years,Males
+2019-01-05,New Brunswick,35,65 to 84 years,Females
+2019-01-05,New Brunswick,60,85 years and over,Both sexes
+2019-01-05,New Brunswick,15,85 years and over,Males
+2019-01-05,New Brunswick,35,85 years and over,Females
+2019-01-12,New Brunswick,155,all ages,Both sexes
+2019-01-12,New Brunswick,80,all ages,Males
+2019-01-12,New Brunswick,75,all ages,Females
+2019-01-12,New Brunswick,10,0 to 44 years,Both sexes
+2019-01-12,New Brunswick,5,0 to 44 years,Males
+2019-01-12,New Brunswick,5,0 to 44 years,Females
+2019-01-12,New Brunswick,20,45 to 64 years,Both sexes
+2019-01-12,New Brunswick,10,45 to 64 years,Males
+2019-01-12,New Brunswick,10,45 to 64 years,Females
+2019-01-12,New Brunswick,75,65 to 84 years,Both sexes
+2019-01-12,New Brunswick,40,65 to 84 years,Males
+2019-01-12,New Brunswick,30,65 to 84 years,Females
+2019-01-12,New Brunswick,55,85 years and over,Both sexes
+2019-01-12,New Brunswick,20,85 years and over,Males
+2019-01-12,New Brunswick,30,85 years and over,Females
+2019-01-19,New Brunswick,170,all ages,Both sexes
+2019-01-19,New Brunswick,80,all ages,Males
+2019-01-19,New Brunswick,85,all ages,Females
+2019-01-19,New Brunswick,0,0 to 44 years,Both sexes
+2019-01-19,New Brunswick,5,0 to 44 years,Males
+2019-01-19,New Brunswick,0,0 to 44 years,Females
+2019-01-19,New Brunswick,20,45 to 64 years,Both sexes
+2019-01-19,New Brunswick,10,45 to 64 years,Males
+2019-01-19,New Brunswick,10,45 to 64 years,Females
+2019-01-19,New Brunswick,90,65 to 84 years,Both sexes
+2019-01-19,New Brunswick,55,65 to 84 years,Males
+2019-01-19,New Brunswick,35,65 to 84 years,Females
+2019-01-19,New Brunswick,55,85 years and over,Both sexes
+2019-01-19,New Brunswick,20,85 years and over,Males
+2019-01-19,New Brunswick,35,85 years and over,Females
+2019-01-26,New Brunswick,160,all ages,Both sexes
+2019-01-26,New Brunswick,85,all ages,Males
+2019-01-26,New Brunswick,75,all ages,Females
+2019-01-26,New Brunswick,5,0 to 44 years,Both sexes
+2019-01-26,New Brunswick,5,0 to 44 years,Males
+2019-01-26,New Brunswick,0,0 to 44 years,Females
+2019-01-26,New Brunswick,20,45 to 64 years,Both sexes
+2019-01-26,New Brunswick,15,45 to 64 years,Males
+2019-01-26,New Brunswick,15,45 to 64 years,Females
+2019-01-26,New Brunswick,80,65 to 84 years,Both sexes
+2019-01-26,New Brunswick,50,65 to 84 years,Males
+2019-01-26,New Brunswick,35,65 to 84 years,Females
+2019-01-26,New Brunswick,50,85 years and over,Both sexes
+2019-01-26,New Brunswick,20,85 years and over,Males
+2019-01-26,New Brunswick,35,85 years and over,Females
+2019-02-02,New Brunswick,165,all ages,Both sexes
+2019-02-02,New Brunswick,85,all ages,Males
+2019-02-02,New Brunswick,85,all ages,Females
+2019-02-02,New Brunswick,5,0 to 44 years,Both sexes
+2019-02-02,New Brunswick,5,0 to 44 years,Males
+2019-02-02,New Brunswick,0,0 to 44 years,Females
+2019-02-02,New Brunswick,20,45 to 64 years,Both sexes
+2019-02-02,New Brunswick,10,45 to 64 years,Males
+2019-02-02,New Brunswick,5,45 to 64 years,Females
+2019-02-02,New Brunswick,85,65 to 84 years,Both sexes
+2019-02-02,New Brunswick,45,65 to 84 years,Males
+2019-02-02,New Brunswick,40,65 to 84 years,Females
+2019-02-02,New Brunswick,55,85 years and over,Both sexes
+2019-02-02,New Brunswick,20,85 years and over,Males
+2019-02-02,New Brunswick,30,85 years and over,Females
+2019-02-09,New Brunswick,170,all ages,Both sexes
+2019-02-09,New Brunswick,75,all ages,Males
+2019-02-09,New Brunswick,100,all ages,Females
+2019-02-09,New Brunswick,5,0 to 44 years,Both sexes
+2019-02-09,New Brunswick,0,0 to 44 years,Males
+2019-02-09,New Brunswick,0,0 to 44 years,Females
+2019-02-09,New Brunswick,30,45 to 64 years,Both sexes
+2019-02-09,New Brunswick,15,45 to 64 years,Males
+2019-02-09,New Brunswick,20,45 to 64 years,Females
+2019-02-09,New Brunswick,80,65 to 84 years,Both sexes
+2019-02-09,New Brunswick,35,65 to 84 years,Males
+2019-02-09,New Brunswick,40,65 to 84 years,Females
+2019-02-09,New Brunswick,60,85 years and over,Both sexes
+2019-02-09,New Brunswick,20,85 years and over,Males
+2019-02-09,New Brunswick,40,85 years and over,Females
+2019-02-16,New Brunswick,115,all ages,Both sexes
+2019-02-16,New Brunswick,55,all ages,Males
+2019-02-16,New Brunswick,65,all ages,Females
+2019-02-16,New Brunswick,0,0 to 44 years,Both sexes
+2019-02-16,New Brunswick,0,0 to 44 years,Males
+2019-02-16,New Brunswick,5,0 to 44 years,Females
+2019-02-16,New Brunswick,25,45 to 64 years,Both sexes
+2019-02-16,New Brunswick,10,45 to 64 years,Males
+2019-02-16,New Brunswick,10,45 to 64 years,Females
+2019-02-16,New Brunswick,50,65 to 84 years,Both sexes
+2019-02-16,New Brunswick,25,65 to 84 years,Males
+2019-02-16,New Brunswick,25,65 to 84 years,Females
+2019-02-16,New Brunswick,45,85 years and over,Both sexes
+2019-02-16,New Brunswick,15,85 years and over,Males
+2019-02-16,New Brunswick,25,85 years and over,Females
+2019-02-23,New Brunswick,185,all ages,Both sexes
+2019-02-23,New Brunswick,95,all ages,Males
+2019-02-23,New Brunswick,85,all ages,Females
+2019-02-23,New Brunswick,0,0 to 44 years,Both sexes
+2019-02-23,New Brunswick,5,0 to 44 years,Males
+2019-02-23,New Brunswick,0,0 to 44 years,Females
+2019-02-23,New Brunswick,25,45 to 64 years,Both sexes
+2019-02-23,New Brunswick,15,45 to 64 years,Males
+2019-02-23,New Brunswick,10,45 to 64 years,Females
+2019-02-23,New Brunswick,90,65 to 84 years,Both sexes
+2019-02-23,New Brunswick,55,65 to 84 years,Males
+2019-02-23,New Brunswick,30,65 to 84 years,Females
+2019-02-23,New Brunswick,65,85 years and over,Both sexes
+2019-02-23,New Brunswick,20,85 years and over,Males
+2019-02-23,New Brunswick,45,85 years and over,Females
+2019-03-02,New Brunswick,170,all ages,Both sexes
+2019-03-02,New Brunswick,95,all ages,Males
+2019-03-02,New Brunswick,80,all ages,Females
+2019-03-02,New Brunswick,10,0 to 44 years,Both sexes
+2019-03-02,New Brunswick,5,0 to 44 years,Males
+2019-03-02,New Brunswick,0,0 to 44 years,Females
+2019-03-02,New Brunswick,25,45 to 64 years,Both sexes
+2019-03-02,New Brunswick,20,45 to 64 years,Males
+2019-03-02,New Brunswick,10,45 to 64 years,Females
+2019-03-02,New Brunswick,75,65 to 84 years,Both sexes
+2019-03-02,New Brunswick,40,65 to 84 years,Males
+2019-03-02,New Brunswick,30,65 to 84 years,Females
+2019-03-02,New Brunswick,65,85 years and over,Both sexes
+2019-03-02,New Brunswick,30,85 years and over,Males
+2019-03-02,New Brunswick,40,85 years and over,Females
+2019-03-09,New Brunswick,130,all ages,Both sexes
+2019-03-09,New Brunswick,80,all ages,Males
+2019-03-09,New Brunswick,50,all ages,Females
+2019-03-09,New Brunswick,0,0 to 44 years,Both sexes
+2019-03-09,New Brunswick,5,0 to 44 years,Males
+2019-03-09,New Brunswick,0,0 to 44 years,Females
+2019-03-09,New Brunswick,20,45 to 64 years,Both sexes
+2019-03-09,New Brunswick,10,45 to 64 years,Males
+2019-03-09,New Brunswick,0,45 to 64 years,Females
+2019-03-09,New Brunswick,65,65 to 84 years,Both sexes
+2019-03-09,New Brunswick,40,65 to 84 years,Males
+2019-03-09,New Brunswick,25,65 to 84 years,Females
+2019-03-09,New Brunswick,45,85 years and over,Both sexes
+2019-03-09,New Brunswick,25,85 years and over,Males
+2019-03-09,New Brunswick,20,85 years and over,Females
+2019-03-16,New Brunswick,135,all ages,Both sexes
+2019-03-16,New Brunswick,65,all ages,Males
+2019-03-16,New Brunswick,65,all ages,Females
+2019-03-16,New Brunswick,0,0 to 44 years,Both sexes
+2019-03-16,New Brunswick,5,0 to 44 years,Males
+2019-03-16,New Brunswick,0,0 to 44 years,Females
+2019-03-16,New Brunswick,15,45 to 64 years,Both sexes
+2019-03-16,New Brunswick,5,45 to 64 years,Males
+2019-03-16,New Brunswick,5,45 to 64 years,Females
+2019-03-16,New Brunswick,65,65 to 84 years,Both sexes
+2019-03-16,New Brunswick,35,65 to 84 years,Males
+2019-03-16,New Brunswick,30,65 to 84 years,Females
+2019-03-16,New Brunswick,50,85 years and over,Both sexes
+2019-03-16,New Brunswick,15,85 years and over,Males
+2019-03-16,New Brunswick,35,85 years and over,Females
+2019-03-23,New Brunswick,145,all ages,Both sexes
+2019-03-23,New Brunswick,75,all ages,Males
+2019-03-23,New Brunswick,70,all ages,Females
+2019-03-23,New Brunswick,5,0 to 44 years,Both sexes
+2019-03-23,New Brunswick,5,0 to 44 years,Males
+2019-03-23,New Brunswick,5,0 to 44 years,Females
+2019-03-23,New Brunswick,15,45 to 64 years,Both sexes
+2019-03-23,New Brunswick,10,45 to 64 years,Males
+2019-03-23,New Brunswick,5,45 to 64 years,Females
+2019-03-23,New Brunswick,85,65 to 84 years,Both sexes
+2019-03-23,New Brunswick,45,65 to 84 years,Males
+2019-03-23,New Brunswick,40,65 to 84 years,Females
+2019-03-23,New Brunswick,35,85 years and over,Both sexes
+2019-03-23,New Brunswick,20,85 years and over,Males
+2019-03-23,New Brunswick,20,85 years and over,Females
+2019-03-30,New Brunswick,160,all ages,Both sexes
+2019-03-30,New Brunswick,80,all ages,Males
+2019-03-30,New Brunswick,75,all ages,Females
+2019-03-30,New Brunswick,5,0 to 44 years,Both sexes
+2019-03-30,New Brunswick,0,0 to 44 years,Males
+2019-03-30,New Brunswick,5,0 to 44 years,Females
+2019-03-30,New Brunswick,20,45 to 64 years,Both sexes
+2019-03-30,New Brunswick,15,45 to 64 years,Males
+2019-03-30,New Brunswick,5,45 to 64 years,Females
+2019-03-30,New Brunswick,75,65 to 84 years,Both sexes
+2019-03-30,New Brunswick,45,65 to 84 years,Males
+2019-03-30,New Brunswick,25,65 to 84 years,Females
+2019-03-30,New Brunswick,60,85 years and over,Both sexes
+2019-03-30,New Brunswick,20,85 years and over,Males
+2019-03-30,New Brunswick,40,85 years and over,Females
+2019-04-06,New Brunswick,160,all ages,Both sexes
+2019-04-06,New Brunswick,80,all ages,Males
+2019-04-06,New Brunswick,80,all ages,Females
+2019-04-06,New Brunswick,5,0 to 44 years,Both sexes
+2019-04-06,New Brunswick,5,0 to 44 years,Males
+2019-04-06,New Brunswick,5,0 to 44 years,Females
+2019-04-06,New Brunswick,20,45 to 64 years,Both sexes
+2019-04-06,New Brunswick,15,45 to 64 years,Males
+2019-04-06,New Brunswick,5,45 to 64 years,Females
+2019-04-06,New Brunswick,80,65 to 84 years,Both sexes
+2019-04-06,New Brunswick,40,65 to 84 years,Males
+2019-04-06,New Brunswick,45,65 to 84 years,Females
+2019-04-06,New Brunswick,55,85 years and over,Both sexes
+2019-04-06,New Brunswick,20,85 years and over,Males
+2019-04-06,New Brunswick,35,85 years and over,Females
+2019-04-13,New Brunswick,155,all ages,Both sexes
+2019-04-13,New Brunswick,80,all ages,Males
+2019-04-13,New Brunswick,70,all ages,Females
+2019-04-13,New Brunswick,5,0 to 44 years,Both sexes
+2019-04-13,New Brunswick,5,0 to 44 years,Males
+2019-04-13,New Brunswick,0,0 to 44 years,Females
+2019-04-13,New Brunswick,25,45 to 64 years,Both sexes
+2019-04-13,New Brunswick,15,45 to 64 years,Males
+2019-04-13,New Brunswick,10,45 to 64 years,Females
+2019-04-13,New Brunswick,80,65 to 84 years,Both sexes
+2019-04-13,New Brunswick,50,65 to 84 years,Males
+2019-04-13,New Brunswick,35,65 to 84 years,Females
+2019-04-13,New Brunswick,45,85 years and over,Both sexes
+2019-04-13,New Brunswick,15,85 years and over,Males
+2019-04-13,New Brunswick,25,85 years and over,Females
+2019-04-20,New Brunswick,150,all ages,Both sexes
+2019-04-20,New Brunswick,80,all ages,Males
+2019-04-20,New Brunswick,70,all ages,Females
+2019-04-20,New Brunswick,5,0 to 44 years,Both sexes
+2019-04-20,New Brunswick,0,0 to 44 years,Males
+2019-04-20,New Brunswick,0,0 to 44 years,Females
+2019-04-20,New Brunswick,10,45 to 64 years,Both sexes
+2019-04-20,New Brunswick,10,45 to 64 years,Males
+2019-04-20,New Brunswick,5,45 to 64 years,Females
+2019-04-20,New Brunswick,75,65 to 84 years,Both sexes
+2019-04-20,New Brunswick,40,65 to 84 years,Males
+2019-04-20,New Brunswick,35,65 to 84 years,Females
+2019-04-20,New Brunswick,60,85 years and over,Both sexes
+2019-04-20,New Brunswick,25,85 years and over,Males
+2019-04-20,New Brunswick,30,85 years and over,Females
+2019-04-27,New Brunswick,170,all ages,Both sexes
+2019-04-27,New Brunswick,85,all ages,Males
+2019-04-27,New Brunswick,80,all ages,Females
+2019-04-27,New Brunswick,5,0 to 44 years,Both sexes
+2019-04-27,New Brunswick,5,0 to 44 years,Males
+2019-04-27,New Brunswick,0,0 to 44 years,Females
+2019-04-27,New Brunswick,25,45 to 64 years,Both sexes
+2019-04-27,New Brunswick,15,45 to 64 years,Males
+2019-04-27,New Brunswick,5,45 to 64 years,Females
+2019-04-27,New Brunswick,70,65 to 84 years,Both sexes
+2019-04-27,New Brunswick,40,65 to 84 years,Males
+2019-04-27,New Brunswick,35,65 to 84 years,Females
+2019-04-27,New Brunswick,70,85 years and over,Both sexes
+2019-04-27,New Brunswick,30,85 years and over,Males
+2019-04-27,New Brunswick,40,85 years and over,Females
+2019-05-04,New Brunswick,140,all ages,Both sexes
+2019-05-04,New Brunswick,65,all ages,Males
+2019-05-04,New Brunswick,75,all ages,Females
+2019-05-04,New Brunswick,10,0 to 44 years,Both sexes
+2019-05-04,New Brunswick,5,0 to 44 years,Males
+2019-05-04,New Brunswick,0,0 to 44 years,Females
+2019-05-04,New Brunswick,30,45 to 64 years,Both sexes
+2019-05-04,New Brunswick,10,45 to 64 years,Males
+2019-05-04,New Brunswick,10,45 to 64 years,Females
+2019-05-04,New Brunswick,60,65 to 84 years,Both sexes
+2019-05-04,New Brunswick,35,65 to 84 years,Males
+2019-05-04,New Brunswick,25,65 to 84 years,Females
+2019-05-04,New Brunswick,50,85 years and over,Both sexes
+2019-05-04,New Brunswick,10,85 years and over,Males
+2019-05-04,New Brunswick,30,85 years and over,Females
+2019-05-11,New Brunswick,175,all ages,Both sexes
+2019-05-11,New Brunswick,90,all ages,Males
+2019-05-11,New Brunswick,85,all ages,Females
+2019-05-11,New Brunswick,10,0 to 44 years,Both sexes
+2019-05-11,New Brunswick,0,0 to 44 years,Males
+2019-05-11,New Brunswick,0,0 to 44 years,Females
+2019-05-11,New Brunswick,20,45 to 64 years,Both sexes
+2019-05-11,New Brunswick,10,45 to 64 years,Males
+2019-05-11,New Brunswick,10,45 to 64 years,Females
+2019-05-11,New Brunswick,85,65 to 84 years,Both sexes
+2019-05-11,New Brunswick,50,65 to 84 years,Males
+2019-05-11,New Brunswick,35,65 to 84 years,Females
+2019-05-11,New Brunswick,65,85 years and over,Both sexes
+2019-05-11,New Brunswick,25,85 years and over,Males
+2019-05-11,New Brunswick,35,85 years and over,Females
+2019-05-18,New Brunswick,150,all ages,Both sexes
+2019-05-18,New Brunswick,80,all ages,Males
+2019-05-18,New Brunswick,70,all ages,Females
+2019-05-18,New Brunswick,5,0 to 44 years,Both sexes
+2019-05-18,New Brunswick,0,0 to 44 years,Males
+2019-05-18,New Brunswick,0,0 to 44 years,Females
+2019-05-18,New Brunswick,15,45 to 64 years,Both sexes
+2019-05-18,New Brunswick,10,45 to 64 years,Males
+2019-05-18,New Brunswick,0,45 to 64 years,Females
+2019-05-18,New Brunswick,85,65 to 84 years,Both sexes
+2019-05-18,New Brunswick,50,65 to 84 years,Males
+2019-05-18,New Brunswick,35,65 to 84 years,Females
+2019-05-18,New Brunswick,50,85 years and over,Both sexes
+2019-05-18,New Brunswick,20,85 years and over,Males
+2019-05-18,New Brunswick,25,85 years and over,Females
+2019-05-25,New Brunswick,145,all ages,Both sexes
+2019-05-25,New Brunswick,85,all ages,Males
+2019-05-25,New Brunswick,65,all ages,Females
+2019-05-25,New Brunswick,0,0 to 44 years,Both sexes
+2019-05-25,New Brunswick,0,0 to 44 years,Males
+2019-05-25,New Brunswick,0,0 to 44 years,Females
+2019-05-25,New Brunswick,20,45 to 64 years,Both sexes
+2019-05-25,New Brunswick,15,45 to 64 years,Males
+2019-05-25,New Brunswick,5,45 to 64 years,Females
+2019-05-25,New Brunswick,75,65 to 84 years,Both sexes
+2019-05-25,New Brunswick,45,65 to 84 years,Males
+2019-05-25,New Brunswick,30,65 to 84 years,Females
+2019-05-25,New Brunswick,50,85 years and over,Both sexes
+2019-05-25,New Brunswick,20,85 years and over,Males
+2019-05-25,New Brunswick,35,85 years and over,Females
+2019-06-01,New Brunswick,150,all ages,Both sexes
+2019-06-01,New Brunswick,80,all ages,Males
+2019-06-01,New Brunswick,65,all ages,Females
+2019-06-01,New Brunswick,10,0 to 44 years,Both sexes
+2019-06-01,New Brunswick,10,0 to 44 years,Males
+2019-06-01,New Brunswick,0,0 to 44 years,Females
+2019-06-01,New Brunswick,20,45 to 64 years,Both sexes
+2019-06-01,New Brunswick,10,45 to 64 years,Males
+2019-06-01,New Brunswick,10,45 to 64 years,Females
+2019-06-01,New Brunswick,70,65 to 84 years,Both sexes
+2019-06-01,New Brunswick,45,65 to 84 years,Males
+2019-06-01,New Brunswick,30,65 to 84 years,Females
+2019-06-01,New Brunswick,50,85 years and over,Both sexes
+2019-06-01,New Brunswick,15,85 years and over,Males
+2019-06-01,New Brunswick,35,85 years and over,Females
+2019-06-08,New Brunswick,140,all ages,Both sexes
+2019-06-08,New Brunswick,75,all ages,Males
+2019-06-08,New Brunswick,65,all ages,Females
+2019-06-08,New Brunswick,5,0 to 44 years,Both sexes
+2019-06-08,New Brunswick,5,0 to 44 years,Males
+2019-06-08,New Brunswick,0,0 to 44 years,Females
+2019-06-08,New Brunswick,25,45 to 64 years,Both sexes
+2019-06-08,New Brunswick,15,45 to 64 years,Males
+2019-06-08,New Brunswick,15,45 to 64 years,Females
+2019-06-08,New Brunswick,65,65 to 84 years,Both sexes
+2019-06-08,New Brunswick,40,65 to 84 years,Males
+2019-06-08,New Brunswick,25,65 to 84 years,Females
+2019-06-08,New Brunswick,45,85 years and over,Both sexes
+2019-06-08,New Brunswick,20,85 years and over,Males
+2019-06-08,New Brunswick,30,85 years and over,Females
+2019-06-15,New Brunswick,130,all ages,Both sexes
+2019-06-15,New Brunswick,60,all ages,Males
+2019-06-15,New Brunswick,70,all ages,Females
+2019-06-15,New Brunswick,5,0 to 44 years,Both sexes
+2019-06-15,New Brunswick,5,0 to 44 years,Males
+2019-06-15,New Brunswick,0,0 to 44 years,Females
+2019-06-15,New Brunswick,20,45 to 64 years,Both sexes
+2019-06-15,New Brunswick,10,45 to 64 years,Males
+2019-06-15,New Brunswick,10,45 to 64 years,Females
+2019-06-15,New Brunswick,60,65 to 84 years,Both sexes
+2019-06-15,New Brunswick,35,65 to 84 years,Males
+2019-06-15,New Brunswick,30,65 to 84 years,Females
+2019-06-15,New Brunswick,50,85 years and over,Both sexes
+2019-06-15,New Brunswick,20,85 years and over,Males
+2019-06-15,New Brunswick,30,85 years and over,Females
+2019-06-22,New Brunswick,135,all ages,Both sexes
+2019-06-22,New Brunswick,75,all ages,Males
+2019-06-22,New Brunswick,65,all ages,Females
+2019-06-22,New Brunswick,5,0 to 44 years,Both sexes
+2019-06-22,New Brunswick,5,0 to 44 years,Males
+2019-06-22,New Brunswick,0,0 to 44 years,Females
+2019-06-22,New Brunswick,20,45 to 64 years,Both sexes
+2019-06-22,New Brunswick,15,45 to 64 years,Males
+2019-06-22,New Brunswick,5,45 to 64 years,Females
+2019-06-22,New Brunswick,70,65 to 84 years,Both sexes
+2019-06-22,New Brunswick,35,65 to 84 years,Males
+2019-06-22,New Brunswick,35,65 to 84 years,Females
+2019-06-22,New Brunswick,45,85 years and over,Both sexes
+2019-06-22,New Brunswick,20,85 years and over,Males
+2019-06-22,New Brunswick,25,85 years and over,Females
+2019-06-29,New Brunswick,135,all ages,Both sexes
+2019-06-29,New Brunswick,85,all ages,Males
+2019-06-29,New Brunswick,50,all ages,Females
+2019-06-29,New Brunswick,10,0 to 44 years,Both sexes
+2019-06-29,New Brunswick,5,0 to 44 years,Males
+2019-06-29,New Brunswick,0,0 to 44 years,Females
+2019-06-29,New Brunswick,20,45 to 64 years,Both sexes
+2019-06-29,New Brunswick,15,45 to 64 years,Males
+2019-06-29,New Brunswick,5,45 to 64 years,Females
+2019-06-29,New Brunswick,65,65 to 84 years,Both sexes
+2019-06-29,New Brunswick,40,65 to 84 years,Males
+2019-06-29,New Brunswick,20,65 to 84 years,Females
+2019-06-29,New Brunswick,40,85 years and over,Both sexes
+2019-06-29,New Brunswick,25,85 years and over,Males
+2019-06-29,New Brunswick,20,85 years and over,Females
+2019-07-06,New Brunswick,135,all ages,Both sexes
+2019-07-06,New Brunswick,60,all ages,Males
+2019-07-06,New Brunswick,65,all ages,Females
+2019-07-06,New Brunswick,5,0 to 44 years,Both sexes
+2019-07-06,New Brunswick,5,0 to 44 years,Males
+2019-07-06,New Brunswick,0,0 to 44 years,Females
+2019-07-06,New Brunswick,15,45 to 64 years,Both sexes
+2019-07-06,New Brunswick,10,45 to 64 years,Males
+2019-07-06,New Brunswick,5,45 to 64 years,Females
+2019-07-06,New Brunswick,65,65 to 84 years,Both sexes
+2019-07-06,New Brunswick,35,65 to 84 years,Males
+2019-07-06,New Brunswick,30,65 to 84 years,Females
+2019-07-06,New Brunswick,50,85 years and over,Both sexes
+2019-07-06,New Brunswick,15,85 years and over,Males
+2019-07-06,New Brunswick,35,85 years and over,Females
+2019-07-13,New Brunswick,145,all ages,Both sexes
+2019-07-13,New Brunswick,80,all ages,Males
+2019-07-13,New Brunswick,65,all ages,Females
+2019-07-13,New Brunswick,5,0 to 44 years,Both sexes
+2019-07-13,New Brunswick,0,0 to 44 years,Males
+2019-07-13,New Brunswick,0,0 to 44 years,Females
+2019-07-13,New Brunswick,15,45 to 64 years,Both sexes
+2019-07-13,New Brunswick,15,45 to 64 years,Males
+2019-07-13,New Brunswick,10,45 to 64 years,Females
+2019-07-13,New Brunswick,70,65 to 84 years,Both sexes
+2019-07-13,New Brunswick,40,65 to 84 years,Males
+2019-07-13,New Brunswick,30,65 to 84 years,Females
+2019-07-13,New Brunswick,50,85 years and over,Both sexes
+2019-07-13,New Brunswick,25,85 years and over,Males
+2019-07-13,New Brunswick,25,85 years and over,Females
+2019-07-20,New Brunswick,135,all ages,Both sexes
+2019-07-20,New Brunswick,80,all ages,Males
+2019-07-20,New Brunswick,55,all ages,Females
+2019-07-20,New Brunswick,5,0 to 44 years,Both sexes
+2019-07-20,New Brunswick,5,0 to 44 years,Males
+2019-07-20,New Brunswick,5,0 to 44 years,Females
+2019-07-20,New Brunswick,15,45 to 64 years,Both sexes
+2019-07-20,New Brunswick,10,45 to 64 years,Males
+2019-07-20,New Brunswick,5,45 to 64 years,Females
+2019-07-20,New Brunswick,65,65 to 84 years,Both sexes
+2019-07-20,New Brunswick,45,65 to 84 years,Males
+2019-07-20,New Brunswick,20,65 to 84 years,Females
+2019-07-20,New Brunswick,50,85 years and over,Both sexes
+2019-07-20,New Brunswick,20,85 years and over,Males
+2019-07-20,New Brunswick,30,85 years and over,Females
+2019-07-27,New Brunswick,135,all ages,Both sexes
+2019-07-27,New Brunswick,65,all ages,Males
+2019-07-27,New Brunswick,70,all ages,Females
+2019-07-27,New Brunswick,5,0 to 44 years,Both sexes
+2019-07-27,New Brunswick,5,0 to 44 years,Males
+2019-07-27,New Brunswick,0,0 to 44 years,Females
+2019-07-27,New Brunswick,20,45 to 64 years,Both sexes
+2019-07-27,New Brunswick,10,45 to 64 years,Males
+2019-07-27,New Brunswick,10,45 to 64 years,Females
+2019-07-27,New Brunswick,65,65 to 84 years,Both sexes
+2019-07-27,New Brunswick,40,65 to 84 years,Males
+2019-07-27,New Brunswick,25,65 to 84 years,Females
+2019-07-27,New Brunswick,45,85 years and over,Both sexes
+2019-07-27,New Brunswick,10,85 years and over,Males
+2019-07-27,New Brunswick,30,85 years and over,Females
+2019-08-03,New Brunswick,150,all ages,Both sexes
+2019-08-03,New Brunswick,65,all ages,Males
+2019-08-03,New Brunswick,85,all ages,Females
+2019-08-03,New Brunswick,10,0 to 44 years,Both sexes
+2019-08-03,New Brunswick,5,0 to 44 years,Males
+2019-08-03,New Brunswick,5,0 to 44 years,Females
+2019-08-03,New Brunswick,20,45 to 64 years,Both sexes
+2019-08-03,New Brunswick,5,45 to 64 years,Males
+2019-08-03,New Brunswick,10,45 to 64 years,Females
+2019-08-03,New Brunswick,70,65 to 84 years,Both sexes
+2019-08-03,New Brunswick,35,65 to 84 years,Males
+2019-08-03,New Brunswick,40,65 to 84 years,Females
+2019-08-03,New Brunswick,55,85 years and over,Both sexes
+2019-08-03,New Brunswick,20,85 years and over,Males
+2019-08-03,New Brunswick,35,85 years and over,Females
+2019-08-10,New Brunswick,145,all ages,Both sexes
+2019-08-10,New Brunswick,65,all ages,Males
+2019-08-10,New Brunswick,80,all ages,Females
+2019-08-10,New Brunswick,15,0 to 44 years,Both sexes
+2019-08-10,New Brunswick,10,0 to 44 years,Males
+2019-08-10,New Brunswick,5,0 to 44 years,Females
+2019-08-10,New Brunswick,20,45 to 64 years,Both sexes
+2019-08-10,New Brunswick,10,45 to 64 years,Males
+2019-08-10,New Brunswick,10,45 to 64 years,Females
+2019-08-10,New Brunswick,80,65 to 84 years,Both sexes
+2019-08-10,New Brunswick,35,65 to 84 years,Males
+2019-08-10,New Brunswick,40,65 to 84 years,Females
+2019-08-10,New Brunswick,35,85 years and over,Both sexes
+2019-08-10,New Brunswick,10,85 years and over,Males
+2019-08-10,New Brunswick,30,85 years and over,Females
+2019-08-17,New Brunswick,150,all ages,Both sexes
+2019-08-17,New Brunswick,75,all ages,Males
+2019-08-17,New Brunswick,75,all ages,Females
+2019-08-17,New Brunswick,5,0 to 44 years,Both sexes
+2019-08-17,New Brunswick,5,0 to 44 years,Males
+2019-08-17,New Brunswick,0,0 to 44 years,Females
+2019-08-17,New Brunswick,20,45 to 64 years,Both sexes
+2019-08-17,New Brunswick,10,45 to 64 years,Males
+2019-08-17,New Brunswick,5,45 to 64 years,Females
+2019-08-17,New Brunswick,65,65 to 84 years,Both sexes
+2019-08-17,New Brunswick,35,65 to 84 years,Males
+2019-08-17,New Brunswick,30,65 to 84 years,Females
+2019-08-17,New Brunswick,65,85 years and over,Both sexes
+2019-08-17,New Brunswick,30,85 years and over,Males
+2019-08-17,New Brunswick,35,85 years and over,Females
+2019-08-24,New Brunswick,145,all ages,Both sexes
+2019-08-24,New Brunswick,90,all ages,Males
+2019-08-24,New Brunswick,60,all ages,Females
+2019-08-24,New Brunswick,5,0 to 44 years,Both sexes
+2019-08-24,New Brunswick,5,0 to 44 years,Males
+2019-08-24,New Brunswick,0,0 to 44 years,Females
+2019-08-24,New Brunswick,15,45 to 64 years,Both sexes
+2019-08-24,New Brunswick,10,45 to 64 years,Males
+2019-08-24,New Brunswick,5,45 to 64 years,Females
+2019-08-24,New Brunswick,65,65 to 84 years,Both sexes
+2019-08-24,New Brunswick,40,65 to 84 years,Males
+2019-08-24,New Brunswick,25,65 to 84 years,Females
+2019-08-24,New Brunswick,60,85 years and over,Both sexes
+2019-08-24,New Brunswick,35,85 years and over,Males
+2019-08-24,New Brunswick,25,85 years and over,Females
+2019-08-31,New Brunswick,135,all ages,Both sexes
+2019-08-31,New Brunswick,55,all ages,Males
+2019-08-31,New Brunswick,70,all ages,Females
+2019-08-31,New Brunswick,5,0 to 44 years,Both sexes
+2019-08-31,New Brunswick,5,0 to 44 years,Males
+2019-08-31,New Brunswick,0,0 to 44 years,Females
+2019-08-31,New Brunswick,15,45 to 64 years,Both sexes
+2019-08-31,New Brunswick,10,45 to 64 years,Males
+2019-08-31,New Brunswick,10,45 to 64 years,Females
+2019-08-31,New Brunswick,55,65 to 84 years,Both sexes
+2019-08-31,New Brunswick,30,65 to 84 years,Males
+2019-08-31,New Brunswick,25,65 to 84 years,Females
+2019-08-31,New Brunswick,50,85 years and over,Both sexes
+2019-08-31,New Brunswick,10,85 years and over,Males
+2019-08-31,New Brunswick,35,85 years and over,Females
+2019-09-07,New Brunswick,145,all ages,Both sexes
+2019-09-07,New Brunswick,65,all ages,Males
+2019-09-07,New Brunswick,80,all ages,Females
+2019-09-07,New Brunswick,10,0 to 44 years,Both sexes
+2019-09-07,New Brunswick,5,0 to 44 years,Males
+2019-09-07,New Brunswick,5,0 to 44 years,Females
+2019-09-07,New Brunswick,10,45 to 64 years,Both sexes
+2019-09-07,New Brunswick,10,45 to 64 years,Males
+2019-09-07,New Brunswick,5,45 to 64 years,Females
+2019-09-07,New Brunswick,70,65 to 84 years,Both sexes
+2019-09-07,New Brunswick,35,65 to 84 years,Males
+2019-09-07,New Brunswick,30,65 to 84 years,Females
+2019-09-07,New Brunswick,55,85 years and over,Both sexes
+2019-09-07,New Brunswick,15,85 years and over,Males
+2019-09-07,New Brunswick,40,85 years and over,Females
+2019-09-14,New Brunswick,140,all ages,Both sexes
+2019-09-14,New Brunswick,70,all ages,Males
+2019-09-14,New Brunswick,75,all ages,Females
+2019-09-14,New Brunswick,0,0 to 44 years,Both sexes
+2019-09-14,New Brunswick,0,0 to 44 years,Males
+2019-09-14,New Brunswick,0,0 to 44 years,Females
+2019-09-14,New Brunswick,25,45 to 64 years,Both sexes
+2019-09-14,New Brunswick,15,45 to 64 years,Males
+2019-09-14,New Brunswick,10,45 to 64 years,Females
+2019-09-14,New Brunswick,65,65 to 84 years,Both sexes
+2019-09-14,New Brunswick,45,65 to 84 years,Males
+2019-09-14,New Brunswick,25,65 to 84 years,Females
+2019-09-14,New Brunswick,55,85 years and over,Both sexes
+2019-09-14,New Brunswick,15,85 years and over,Males
+2019-09-14,New Brunswick,40,85 years and over,Females
+2019-09-21,New Brunswick,140,all ages,Both sexes
+2019-09-21,New Brunswick,65,all ages,Males
+2019-09-21,New Brunswick,75,all ages,Females
+2019-09-21,New Brunswick,5,0 to 44 years,Both sexes
+2019-09-21,New Brunswick,5,0 to 44 years,Males
+2019-09-21,New Brunswick,5,0 to 44 years,Females
+2019-09-21,New Brunswick,20,45 to 64 years,Both sexes
+2019-09-21,New Brunswick,10,45 to 64 years,Males
+2019-09-21,New Brunswick,10,45 to 64 years,Females
+2019-09-21,New Brunswick,60,65 to 84 years,Both sexes
+2019-09-21,New Brunswick,40,65 to 84 years,Males
+2019-09-21,New Brunswick,25,65 to 84 years,Females
+2019-09-21,New Brunswick,50,85 years and over,Both sexes
+2019-09-21,New Brunswick,10,85 years and over,Males
+2019-09-21,New Brunswick,40,85 years and over,Females
+2019-09-28,New Brunswick,145,all ages,Both sexes
+2019-09-28,New Brunswick,75,all ages,Males
+2019-09-28,New Brunswick,75,all ages,Females
+2019-09-28,New Brunswick,5,0 to 44 years,Both sexes
+2019-09-28,New Brunswick,5,0 to 44 years,Males
+2019-09-28,New Brunswick,0,0 to 44 years,Females
+2019-09-28,New Brunswick,30,45 to 64 years,Both sexes
+2019-09-28,New Brunswick,15,45 to 64 years,Males
+2019-09-28,New Brunswick,15,45 to 64 years,Females
+2019-09-28,New Brunswick,75,65 to 84 years,Both sexes
+2019-09-28,New Brunswick,40,65 to 84 years,Males
+2019-09-28,New Brunswick,35,65 to 84 years,Females
+2019-09-28,New Brunswick,35,85 years and over,Both sexes
+2019-09-28,New Brunswick,15,85 years and over,Males
+2019-09-28,New Brunswick,25,85 years and over,Females
+2019-10-05,New Brunswick,160,all ages,Both sexes
+2019-10-05,New Brunswick,80,all ages,Males
+2019-10-05,New Brunswick,80,all ages,Females
+2019-10-05,New Brunswick,5,0 to 44 years,Both sexes
+2019-10-05,New Brunswick,0,0 to 44 years,Males
+2019-10-05,New Brunswick,0,0 to 44 years,Females
+2019-10-05,New Brunswick,25,45 to 64 years,Both sexes
+2019-10-05,New Brunswick,15,45 to 64 years,Males
+2019-10-05,New Brunswick,10,45 to 64 years,Females
+2019-10-05,New Brunswick,75,65 to 84 years,Both sexes
+2019-10-05,New Brunswick,35,65 to 84 years,Males
+2019-10-05,New Brunswick,40,65 to 84 years,Females
+2019-10-05,New Brunswick,55,85 years and over,Both sexes
+2019-10-05,New Brunswick,25,85 years and over,Males
+2019-10-05,New Brunswick,30,85 years and over,Females
+2019-10-12,New Brunswick,135,all ages,Both sexes
+2019-10-12,New Brunswick,75,all ages,Males
+2019-10-12,New Brunswick,60,all ages,Females
+2019-10-12,New Brunswick,5,0 to 44 years,Both sexes
+2019-10-12,New Brunswick,5,0 to 44 years,Males
+2019-10-12,New Brunswick,0,0 to 44 years,Females
+2019-10-12,New Brunswick,30,45 to 64 years,Both sexes
+2019-10-12,New Brunswick,20,45 to 64 years,Males
+2019-10-12,New Brunswick,10,45 to 64 years,Females
+2019-10-12,New Brunswick,60,65 to 84 years,Both sexes
+2019-10-12,New Brunswick,40,65 to 84 years,Males
+2019-10-12,New Brunswick,25,65 to 84 years,Females
+2019-10-12,New Brunswick,40,85 years and over,Both sexes
+2019-10-12,New Brunswick,20,85 years and over,Males
+2019-10-12,New Brunswick,25,85 years and over,Females
+2019-10-19,New Brunswick,145,all ages,Both sexes
+2019-10-19,New Brunswick,70,all ages,Males
+2019-10-19,New Brunswick,80,all ages,Females
+2019-10-19,New Brunswick,5,0 to 44 years,Both sexes
+2019-10-19,New Brunswick,5,0 to 44 years,Males
+2019-10-19,New Brunswick,0,0 to 44 years,Females
+2019-10-19,New Brunswick,15,45 to 64 years,Both sexes
+2019-10-19,New Brunswick,10,45 to 64 years,Males
+2019-10-19,New Brunswick,5,45 to 64 years,Females
+2019-10-19,New Brunswick,75,65 to 84 years,Both sexes
+2019-10-19,New Brunswick,40,65 to 84 years,Males
+2019-10-19,New Brunswick,35,65 to 84 years,Females
+2019-10-19,New Brunswick,50,85 years and over,Both sexes
+2019-10-19,New Brunswick,10,85 years and over,Males
+2019-10-19,New Brunswick,35,85 years and over,Females
+2019-10-26,New Brunswick,150,all ages,Both sexes
+2019-10-26,New Brunswick,75,all ages,Males
+2019-10-26,New Brunswick,75,all ages,Females
+2019-10-26,New Brunswick,10,0 to 44 years,Both sexes
+2019-10-26,New Brunswick,5,0 to 44 years,Males
+2019-10-26,New Brunswick,5,0 to 44 years,Females
+2019-10-26,New Brunswick,25,45 to 64 years,Both sexes
+2019-10-26,New Brunswick,15,45 to 64 years,Males
+2019-10-26,New Brunswick,10,45 to 64 years,Females
+2019-10-26,New Brunswick,70,65 to 84 years,Both sexes
+2019-10-26,New Brunswick,30,65 to 84 years,Males
+2019-10-26,New Brunswick,40,65 to 84 years,Females
+2019-10-26,New Brunswick,45,85 years and over,Both sexes
+2019-10-26,New Brunswick,25,85 years and over,Males
+2019-10-26,New Brunswick,20,85 years and over,Females
+2019-11-02,New Brunswick,160,all ages,Both sexes
+2019-11-02,New Brunswick,70,all ages,Males
+2019-11-02,New Brunswick,90,all ages,Females
+2019-11-02,New Brunswick,10,0 to 44 years,Both sexes
+2019-11-02,New Brunswick,5,0 to 44 years,Males
+2019-11-02,New Brunswick,5,0 to 44 years,Females
+2019-11-02,New Brunswick,20,45 to 64 years,Both sexes
+2019-11-02,New Brunswick,10,45 to 64 years,Males
+2019-11-02,New Brunswick,10,45 to 64 years,Females
+2019-11-02,New Brunswick,75,65 to 84 years,Both sexes
+2019-11-02,New Brunswick,30,65 to 84 years,Males
+2019-11-02,New Brunswick,40,65 to 84 years,Females
+2019-11-02,New Brunswick,60,85 years and over,Both sexes
+2019-11-02,New Brunswick,20,85 years and over,Males
+2019-11-02,New Brunswick,35,85 years and over,Females
+2019-11-09,New Brunswick,150,all ages,Both sexes
+2019-11-09,New Brunswick,70,all ages,Males
+2019-11-09,New Brunswick,80,all ages,Females
+2019-11-09,New Brunswick,5,0 to 44 years,Both sexes
+2019-11-09,New Brunswick,5,0 to 44 years,Males
+2019-11-09,New Brunswick,0,0 to 44 years,Females
+2019-11-09,New Brunswick,15,45 to 64 years,Both sexes
+2019-11-09,New Brunswick,10,45 to 64 years,Males
+2019-11-09,New Brunswick,10,45 to 64 years,Females
+2019-11-09,New Brunswick,60,65 to 84 years,Both sexes
+2019-11-09,New Brunswick,35,65 to 84 years,Males
+2019-11-09,New Brunswick,25,65 to 84 years,Females
+2019-11-09,New Brunswick,60,85 years and over,Both sexes
+2019-11-09,New Brunswick,20,85 years and over,Males
+2019-11-09,New Brunswick,40,85 years and over,Females
+2019-11-16,New Brunswick,150,all ages,Both sexes
+2019-11-16,New Brunswick,85,all ages,Males
+2019-11-16,New Brunswick,70,all ages,Females
+2019-11-16,New Brunswick,5,0 to 44 years,Both sexes
+2019-11-16,New Brunswick,0,0 to 44 years,Males
+2019-11-16,New Brunswick,0,0 to 44 years,Females
+2019-11-16,New Brunswick,20,45 to 64 years,Both sexes
+2019-11-16,New Brunswick,15,45 to 64 years,Males
+2019-11-16,New Brunswick,10,45 to 64 years,Females
+2019-11-16,New Brunswick,80,65 to 84 years,Both sexes
+2019-11-16,New Brunswick,50,65 to 84 years,Males
+2019-11-16,New Brunswick,30,65 to 84 years,Females
+2019-11-16,New Brunswick,45,85 years and over,Both sexes
+2019-11-16,New Brunswick,15,85 years and over,Males
+2019-11-16,New Brunswick,25,85 years and over,Females
+2019-11-23,New Brunswick,155,all ages,Both sexes
+2019-11-23,New Brunswick,85,all ages,Males
+2019-11-23,New Brunswick,65,all ages,Females
+2019-11-23,New Brunswick,5,0 to 44 years,Both sexes
+2019-11-23,New Brunswick,5,0 to 44 years,Males
+2019-11-23,New Brunswick,0,0 to 44 years,Females
+2019-11-23,New Brunswick,15,45 to 64 years,Both sexes
+2019-11-23,New Brunswick,10,45 to 64 years,Males
+2019-11-23,New Brunswick,5,45 to 64 years,Females
+2019-11-23,New Brunswick,80,65 to 84 years,Both sexes
+2019-11-23,New Brunswick,50,65 to 84 years,Males
+2019-11-23,New Brunswick,35,65 to 84 years,Females
+2019-11-23,New Brunswick,50,85 years and over,Both sexes
+2019-11-23,New Brunswick,25,85 years and over,Males
+2019-11-23,New Brunswick,30,85 years and over,Females
+2019-11-30,New Brunswick,150,all ages,Both sexes
+2019-11-30,New Brunswick,80,all ages,Males
+2019-11-30,New Brunswick,70,all ages,Females
+2019-11-30,New Brunswick,0,0 to 44 years,Both sexes
+2019-11-30,New Brunswick,0,0 to 44 years,Males
+2019-11-30,New Brunswick,5,0 to 44 years,Females
+2019-11-30,New Brunswick,20,45 to 64 years,Both sexes
+2019-11-30,New Brunswick,10,45 to 64 years,Males
+2019-11-30,New Brunswick,5,45 to 64 years,Females
+2019-11-30,New Brunswick,70,65 to 84 years,Both sexes
+2019-11-30,New Brunswick,35,65 to 84 years,Males
+2019-11-30,New Brunswick,35,65 to 84 years,Females
+2019-11-30,New Brunswick,60,85 years and over,Both sexes
+2019-11-30,New Brunswick,35,85 years and over,Males
+2019-11-30,New Brunswick,30,85 years and over,Females
+2019-12-07,New Brunswick,150,all ages,Both sexes
+2019-12-07,New Brunswick,85,all ages,Males
+2019-12-07,New Brunswick,70,all ages,Females
+2019-12-07,New Brunswick,10,0 to 44 years,Both sexes
+2019-12-07,New Brunswick,5,0 to 44 years,Males
+2019-12-07,New Brunswick,10,0 to 44 years,Females
+2019-12-07,New Brunswick,20,45 to 64 years,Both sexes
+2019-12-07,New Brunswick,15,45 to 64 years,Males
+2019-12-07,New Brunswick,5,45 to 64 years,Females
+2019-12-07,New Brunswick,90,65 to 84 years,Both sexes
+2019-12-07,New Brunswick,50,65 to 84 years,Males
+2019-12-07,New Brunswick,40,65 to 84 years,Females
+2019-12-07,New Brunswick,40,85 years and over,Both sexes
+2019-12-07,New Brunswick,15,85 years and over,Males
+2019-12-07,New Brunswick,20,85 years and over,Females
+2019-12-14,New Brunswick,175,all ages,Both sexes
+2019-12-14,New Brunswick,95,all ages,Males
+2019-12-14,New Brunswick,85,all ages,Females
+2019-12-14,New Brunswick,10,0 to 44 years,Both sexes
+2019-12-14,New Brunswick,5,0 to 44 years,Males
+2019-12-14,New Brunswick,5,0 to 44 years,Females
+2019-12-14,New Brunswick,30,45 to 64 years,Both sexes
+2019-12-14,New Brunswick,15,45 to 64 years,Males
+2019-12-14,New Brunswick,15,45 to 64 years,Females
+2019-12-14,New Brunswick,80,65 to 84 years,Both sexes
+2019-12-14,New Brunswick,50,65 to 84 years,Males
+2019-12-14,New Brunswick,30,65 to 84 years,Females
+2019-12-14,New Brunswick,60,85 years and over,Both sexes
+2019-12-14,New Brunswick,25,85 years and over,Males
+2019-12-14,New Brunswick,35,85 years and over,Females
+2019-12-21,New Brunswick,155,all ages,Both sexes
+2019-12-21,New Brunswick,85,all ages,Males
+2019-12-21,New Brunswick,70,all ages,Females
+2019-12-21,New Brunswick,5,0 to 44 years,Both sexes
+2019-12-21,New Brunswick,5,0 to 44 years,Males
+2019-12-21,New Brunswick,0,0 to 44 years,Females
+2019-12-21,New Brunswick,25,45 to 64 years,Both sexes
+2019-12-21,New Brunswick,10,45 to 64 years,Males
+2019-12-21,New Brunswick,10,45 to 64 years,Females
+2019-12-21,New Brunswick,80,65 to 84 years,Both sexes
+2019-12-21,New Brunswick,45,65 to 84 years,Males
+2019-12-21,New Brunswick,35,65 to 84 years,Females
+2019-12-21,New Brunswick,50,85 years and over,Both sexes
+2019-12-21,New Brunswick,20,85 years and over,Males
+2019-12-21,New Brunswick,30,85 years and over,Females
+2019-12-28,New Brunswick,130,all ages,Both sexes
+2019-12-28,New Brunswick,65,all ages,Males
+2019-12-28,New Brunswick,60,all ages,Females
+2019-12-28,New Brunswick,0,0 to 44 years,Both sexes
+2019-12-28,New Brunswick,0,0 to 44 years,Males
+2019-12-28,New Brunswick,0,0 to 44 years,Females
+2019-12-28,New Brunswick,20,45 to 64 years,Both sexes
+2019-12-28,New Brunswick,10,45 to 64 years,Males
+2019-12-28,New Brunswick,10,45 to 64 years,Females
+2019-12-28,New Brunswick,55,65 to 84 years,Both sexes
+2019-12-28,New Brunswick,35,65 to 84 years,Males
+2019-12-28,New Brunswick,25,65 to 84 years,Females
+2019-12-28,New Brunswick,50,85 years and over,Both sexes
+2019-12-28,New Brunswick,20,85 years and over,Males
+2019-12-28,New Brunswick,30,85 years and over,Females
+2020-01-04,New Brunswick,180,all ages,Both sexes
+2020-01-04,New Brunswick,90,all ages,Males
+2020-01-04,New Brunswick,90,all ages,Females
+2020-01-04,New Brunswick,10,0 to 44 years,Both sexes
+2020-01-04,New Brunswick,5,0 to 44 years,Males
+2020-01-04,New Brunswick,5,0 to 44 years,Females
+2020-01-04,New Brunswick,30,45 to 64 years,Both sexes
+2020-01-04,New Brunswick,15,45 to 64 years,Males
+2020-01-04,New Brunswick,15,45 to 64 years,Females
+2020-01-04,New Brunswick,80,65 to 84 years,Both sexes
+2020-01-04,New Brunswick,45,65 to 84 years,Males
+2020-01-04,New Brunswick,35,65 to 84 years,Females
+2020-01-04,New Brunswick,60,85 years and over,Both sexes
+2020-01-04,New Brunswick,20,85 years and over,Males
+2020-01-04,New Brunswick,40,85 years and over,Females
+2020-01-11,New Brunswick,140,all ages,Both sexes
+2020-01-11,New Brunswick,75,all ages,Males
+2020-01-11,New Brunswick,60,all ages,Females
+2020-01-11,New Brunswick,0,0 to 44 years,Both sexes
+2020-01-11,New Brunswick,0,0 to 44 years,Males
+2020-01-11,New Brunswick,5,0 to 44 years,Females
+2020-01-11,New Brunswick,15,45 to 64 years,Both sexes
+2020-01-11,New Brunswick,10,45 to 64 years,Males
+2020-01-11,New Brunswick,10,45 to 64 years,Females
+2020-01-11,New Brunswick,65,65 to 84 years,Both sexes
+2020-01-11,New Brunswick,40,65 to 84 years,Males
+2020-01-11,New Brunswick,20,65 to 84 years,Females
+2020-01-11,New Brunswick,50,85 years and over,Both sexes
+2020-01-11,New Brunswick,25,85 years and over,Males
+2020-01-11,New Brunswick,30,85 years and over,Females
+2020-01-18,New Brunswick,150,all ages,Both sexes
+2020-01-18,New Brunswick,65,all ages,Males
+2020-01-18,New Brunswick,85,all ages,Females
+2020-01-18,New Brunswick,5,0 to 44 years,Both sexes
+2020-01-18,New Brunswick,5,0 to 44 years,Males
+2020-01-18,New Brunswick,0,0 to 44 years,Females
+2020-01-18,New Brunswick,15,45 to 64 years,Both sexes
+2020-01-18,New Brunswick,10,45 to 64 years,Males
+2020-01-18,New Brunswick,10,45 to 64 years,Females
+2020-01-18,New Brunswick,65,65 to 84 years,Both sexes
+2020-01-18,New Brunswick,30,65 to 84 years,Males
+2020-01-18,New Brunswick,35,65 to 84 years,Females
+2020-01-18,New Brunswick,65,85 years and over,Both sexes
+2020-01-18,New Brunswick,25,85 years and over,Males
+2020-01-18,New Brunswick,40,85 years and over,Females
+2020-01-25,New Brunswick,150,all ages,Both sexes
+2020-01-25,New Brunswick,75,all ages,Males
+2020-01-25,New Brunswick,75,all ages,Females
+2020-01-25,New Brunswick,0,0 to 44 years,Both sexes
+2020-01-25,New Brunswick,5,0 to 44 years,Males
+2020-01-25,New Brunswick,0,0 to 44 years,Females
+2020-01-25,New Brunswick,15,45 to 64 years,Both sexes
+2020-01-25,New Brunswick,10,45 to 64 years,Males
+2020-01-25,New Brunswick,10,45 to 64 years,Females
+2020-01-25,New Brunswick,80,65 to 84 years,Both sexes
+2020-01-25,New Brunswick,50,65 to 84 years,Males
+2020-01-25,New Brunswick,35,65 to 84 years,Females
+2020-01-25,New Brunswick,50,85 years and over,Both sexes
+2020-01-25,New Brunswick,15,85 years and over,Males
+2020-01-25,New Brunswick,35,85 years and over,Females
+2020-02-01,New Brunswick,140,all ages,Both sexes
+2020-02-01,New Brunswick,60,all ages,Males
+2020-02-01,New Brunswick,75,all ages,Females
+2020-02-01,New Brunswick,5,0 to 44 years,Both sexes
+2020-02-01,New Brunswick,0,0 to 44 years,Males
+2020-02-01,New Brunswick,5,0 to 44 years,Females
+2020-02-01,New Brunswick,15,45 to 64 years,Both sexes
+2020-02-01,New Brunswick,5,45 to 64 years,Males
+2020-02-01,New Brunswick,10,45 to 64 years,Females
+2020-02-01,New Brunswick,65,65 to 84 years,Both sexes
+2020-02-01,New Brunswick,35,65 to 84 years,Males
+2020-02-01,New Brunswick,25,65 to 84 years,Females
+2020-02-01,New Brunswick,55,85 years and over,Both sexes
+2020-02-01,New Brunswick,15,85 years and over,Males
+2020-02-01,New Brunswick,45,85 years and over,Females
+2020-02-08,New Brunswick,165,all ages,Both sexes
+2020-02-08,New Brunswick,95,all ages,Males
+2020-02-08,New Brunswick,70,all ages,Females
+2020-02-08,New Brunswick,10,0 to 44 years,Both sexes
+2020-02-08,New Brunswick,10,0 to 44 years,Males
+2020-02-08,New Brunswick,0,0 to 44 years,Females
+2020-02-08,New Brunswick,25,45 to 64 years,Both sexes
+2020-02-08,New Brunswick,20,45 to 64 years,Males
+2020-02-08,New Brunswick,10,45 to 64 years,Females
+2020-02-08,New Brunswick,75,65 to 84 years,Both sexes
+2020-02-08,New Brunswick,50,65 to 84 years,Males
+2020-02-08,New Brunswick,25,65 to 84 years,Females
+2020-02-08,New Brunswick,55,85 years and over,Both sexes
+2020-02-08,New Brunswick,20,85 years and over,Males
+2020-02-08,New Brunswick,30,85 years and over,Females
+2020-02-15,New Brunswick,140,all ages,Both sexes
+2020-02-15,New Brunswick,65,all ages,Males
+2020-02-15,New Brunswick,70,all ages,Females
+2020-02-15,New Brunswick,0,0 to 44 years,Both sexes
+2020-02-15,New Brunswick,0,0 to 44 years,Males
+2020-02-15,New Brunswick,0,0 to 44 years,Females
+2020-02-15,New Brunswick,15,45 to 64 years,Both sexes
+2020-02-15,New Brunswick,10,45 to 64 years,Males
+2020-02-15,New Brunswick,5,45 to 64 years,Females
+2020-02-15,New Brunswick,70,65 to 84 years,Both sexes
+2020-02-15,New Brunswick,30,65 to 84 years,Males
+2020-02-15,New Brunswick,30,65 to 84 years,Females
+2020-02-15,New Brunswick,50,85 years and over,Both sexes
+2020-02-15,New Brunswick,25,85 years and over,Males
+2020-02-15,New Brunswick,30,85 years and over,Females
+2020-02-22,New Brunswick,150,all ages,Both sexes
+2020-02-22,New Brunswick,70,all ages,Males
+2020-02-22,New Brunswick,75,all ages,Females
+2020-02-22,New Brunswick,10,0 to 44 years,Both sexes
+2020-02-22,New Brunswick,0,0 to 44 years,Males
+2020-02-22,New Brunswick,5,0 to 44 years,Females
+2020-02-22,New Brunswick,20,45 to 64 years,Both sexes
+2020-02-22,New Brunswick,10,45 to 64 years,Males
+2020-02-22,New Brunswick,10,45 to 64 years,Females
+2020-02-22,New Brunswick,85,65 to 84 years,Both sexes
+2020-02-22,New Brunswick,45,65 to 84 years,Males
+2020-02-22,New Brunswick,40,65 to 84 years,Females
+2020-02-22,New Brunswick,40,85 years and over,Both sexes
+2020-02-22,New Brunswick,15,85 years and over,Males
+2020-02-22,New Brunswick,20,85 years and over,Females
+2020-02-29,New Brunswick,150,all ages,Both sexes
+2020-02-29,New Brunswick,65,all ages,Males
+2020-02-29,New Brunswick,85,all ages,Females
+2020-02-29,New Brunswick,5,0 to 44 years,Both sexes
+2020-02-29,New Brunswick,5,0 to 44 years,Males
+2020-02-29,New Brunswick,0,0 to 44 years,Females
+2020-02-29,New Brunswick,10,45 to 64 years,Both sexes
+2020-02-29,New Brunswick,15,45 to 64 years,Males
+2020-02-29,New Brunswick,5,45 to 64 years,Females
+2020-02-29,New Brunswick,60,65 to 84 years,Both sexes
+2020-02-29,New Brunswick,35,65 to 84 years,Males
+2020-02-29,New Brunswick,30,65 to 84 years,Females
+2020-02-29,New Brunswick,65,85 years and over,Both sexes
+2020-02-29,New Brunswick,20,85 years and over,Males
+2020-02-29,New Brunswick,50,85 years and over,Females
+2020-03-07,New Brunswick,145,all ages,Both sexes
+2020-03-07,New Brunswick,65,all ages,Males
+2020-03-07,New Brunswick,80,all ages,Females
+2020-03-07,New Brunswick,5,0 to 44 years,Both sexes
+2020-03-07,New Brunswick,0,0 to 44 years,Males
+2020-03-07,New Brunswick,5,0 to 44 years,Females
+2020-03-07,New Brunswick,25,45 to 64 years,Both sexes
+2020-03-07,New Brunswick,10,45 to 64 years,Males
+2020-03-07,New Brunswick,15,45 to 64 years,Females
+2020-03-07,New Brunswick,75,65 to 84 years,Both sexes
+2020-03-07,New Brunswick,35,65 to 84 years,Males
+2020-03-07,New Brunswick,40,65 to 84 years,Females
+2020-03-07,New Brunswick,40,85 years and over,Both sexes
+2020-03-07,New Brunswick,15,85 years and over,Males
+2020-03-07,New Brunswick,20,85 years and over,Females
+2020-03-14,New Brunswick,130,all ages,Both sexes
+2020-03-14,New Brunswick,75,all ages,Males
+2020-03-14,New Brunswick,65,all ages,Females
+2020-03-14,New Brunswick,5,0 to 44 years,Both sexes
+2020-03-14,New Brunswick,5,0 to 44 years,Males
+2020-03-14,New Brunswick,0,0 to 44 years,Females
+2020-03-14,New Brunswick,15,45 to 64 years,Both sexes
+2020-03-14,New Brunswick,5,45 to 64 years,Males
+2020-03-14,New Brunswick,5,45 to 64 years,Females
+2020-03-14,New Brunswick,60,65 to 84 years,Both sexes
+2020-03-14,New Brunswick,45,65 to 84 years,Males
+2020-03-14,New Brunswick,15,65 to 84 years,Females
+2020-03-14,New Brunswick,45,85 years and over,Both sexes
+2020-03-14,New Brunswick,10,85 years and over,Males
+2020-03-14,New Brunswick,30,85 years and over,Females
+2020-03-21,New Brunswick,150,all ages,Both sexes
+2020-03-21,New Brunswick,70,all ages,Males
+2020-03-21,New Brunswick,75,all ages,Females
+2020-03-21,New Brunswick,5,0 to 44 years,Both sexes
+2020-03-21,New Brunswick,5,0 to 44 years,Males
+2020-03-21,New Brunswick,5,0 to 44 years,Females
+2020-03-21,New Brunswick,20,45 to 64 years,Both sexes
+2020-03-21,New Brunswick,15,45 to 64 years,Males
+2020-03-21,New Brunswick,10,45 to 64 years,Females
+2020-03-21,New Brunswick,70,65 to 84 years,Both sexes
+2020-03-21,New Brunswick,35,65 to 84 years,Males
+2020-03-21,New Brunswick,35,65 to 84 years,Females
+2020-03-21,New Brunswick,50,85 years and over,Both sexes
+2020-03-21,New Brunswick,20,85 years and over,Males
+2020-03-21,New Brunswick,30,85 years and over,Females
+2020-03-28,New Brunswick,150,all ages,Both sexes
+2020-03-28,New Brunswick,80,all ages,Males
+2020-03-28,New Brunswick,75,all ages,Females
+2020-03-28,New Brunswick,5,0 to 44 years,Both sexes
+2020-03-28,New Brunswick,5,0 to 44 years,Males
+2020-03-28,New Brunswick,0,0 to 44 years,Females
+2020-03-28,New Brunswick,15,45 to 64 years,Both sexes
+2020-03-28,New Brunswick,10,45 to 64 years,Males
+2020-03-28,New Brunswick,5,45 to 64 years,Females
+2020-03-28,New Brunswick,75,65 to 84 years,Both sexes
+2020-03-28,New Brunswick,50,65 to 84 years,Males
+2020-03-28,New Brunswick,30,65 to 84 years,Females
+2020-03-28,New Brunswick,55,85 years and over,Both sexes
+2020-03-28,New Brunswick,15,85 years and over,Males
+2020-03-28,New Brunswick,40,85 years and over,Females
+2020-04-04,New Brunswick,145,all ages,Both sexes
+2020-04-04,New Brunswick,70,all ages,Males
+2020-04-04,New Brunswick,75,all ages,Females
+2020-04-04,New Brunswick,5,0 to 44 years,Both sexes
+2020-04-04,New Brunswick,5,0 to 44 years,Males
+2020-04-04,New Brunswick,5,0 to 44 years,Females
+2020-04-04,New Brunswick,30,45 to 64 years,Both sexes
+2020-04-04,New Brunswick,15,45 to 64 years,Males
+2020-04-04,New Brunswick,20,45 to 64 years,Females
+2020-04-04,New Brunswick,60,65 to 84 years,Both sexes
+2020-04-04,New Brunswick,40,65 to 84 years,Males
+2020-04-04,New Brunswick,20,65 to 84 years,Females
+2020-04-04,New Brunswick,50,85 years and over,Both sexes
+2020-04-04,New Brunswick,10,85 years and over,Males
+2020-04-04,New Brunswick,35,85 years and over,Females
+2020-04-11,New Brunswick,135,all ages,Both sexes
+2020-04-11,New Brunswick,70,all ages,Males
+2020-04-11,New Brunswick,65,all ages,Females
+2020-04-11,New Brunswick,5,0 to 44 years,Both sexes
+2020-04-11,New Brunswick,5,0 to 44 years,Males
+2020-04-11,New Brunswick,5,0 to 44 years,Females
+2020-04-11,New Brunswick,20,45 to 64 years,Both sexes
+2020-04-11,New Brunswick,15,45 to 64 years,Males
+2020-04-11,New Brunswick,5,45 to 64 years,Females
+2020-04-11,New Brunswick,65,65 to 84 years,Both sexes
+2020-04-11,New Brunswick,30,65 to 84 years,Males
+2020-04-11,New Brunswick,30,65 to 84 years,Females
+2020-04-11,New Brunswick,50,85 years and over,Both sexes
+2020-04-11,New Brunswick,25,85 years and over,Males
+2020-04-11,New Brunswick,30,85 years and over,Females
+2020-04-18,New Brunswick,145,all ages,Both sexes
+2020-04-18,New Brunswick,70,all ages,Males
+2020-04-18,New Brunswick,75,all ages,Females
+2020-04-18,New Brunswick,5,0 to 44 years,Both sexes
+2020-04-18,New Brunswick,0,0 to 44 years,Males
+2020-04-18,New Brunswick,0,0 to 44 years,Females
+2020-04-18,New Brunswick,20,45 to 64 years,Both sexes
+2020-04-18,New Brunswick,15,45 to 64 years,Males
+2020-04-18,New Brunswick,10,45 to 64 years,Females
+2020-04-18,New Brunswick,65,65 to 84 years,Both sexes
+2020-04-18,New Brunswick,35,65 to 84 years,Males
+2020-04-18,New Brunswick,25,65 to 84 years,Females
+2020-04-18,New Brunswick,55,85 years and over,Both sexes
+2020-04-18,New Brunswick,20,85 years and over,Males
+2020-04-18,New Brunswick,40,85 years and over,Females
+2020-04-25,New Brunswick,160,all ages,Both sexes
+2020-04-25,New Brunswick,90,all ages,Males
+2020-04-25,New Brunswick,75,all ages,Females
+2020-04-25,New Brunswick,5,0 to 44 years,Both sexes
+2020-04-25,New Brunswick,5,0 to 44 years,Males
+2020-04-25,New Brunswick,0,0 to 44 years,Females
+2020-04-25,New Brunswick,20,45 to 64 years,Both sexes
+2020-04-25,New Brunswick,15,45 to 64 years,Males
+2020-04-25,New Brunswick,10,45 to 64 years,Females
+2020-04-25,New Brunswick,75,65 to 84 years,Both sexes
+2020-04-25,New Brunswick,50,65 to 84 years,Males
+2020-04-25,New Brunswick,25,65 to 84 years,Females
+2020-04-25,New Brunswick,65,85 years and over,Both sexes
+2020-04-25,New Brunswick,25,85 years and over,Males
+2020-04-25,New Brunswick,40,85 years and over,Females
+2020-05-02,New Brunswick,140,all ages,Both sexes
+2020-05-02,New Brunswick,75,all ages,Males
+2020-05-02,New Brunswick,60,all ages,Females
+2020-05-02,New Brunswick,10,0 to 44 years,Both sexes
+2020-05-02,New Brunswick,5,0 to 44 years,Males
+2020-05-02,New Brunswick,0,0 to 44 years,Females
+2020-05-02,New Brunswick,30,45 to 64 years,Both sexes
+2020-05-02,New Brunswick,20,45 to 64 years,Males
+2020-05-02,New Brunswick,15,45 to 64 years,Females
+2020-05-02,New Brunswick,40,65 to 84 years,Both sexes
+2020-05-02,New Brunswick,30,65 to 84 years,Males
+2020-05-02,New Brunswick,15,65 to 84 years,Females
+2020-05-02,New Brunswick,60,85 years and over,Both sexes
+2020-05-02,New Brunswick,20,85 years and over,Males
+2020-05-02,New Brunswick,35,85 years and over,Females
+2020-05-09,New Brunswick,150,all ages,Both sexes
+2020-05-09,New Brunswick,80,all ages,Males
+2020-05-09,New Brunswick,70,all ages,Females
+2020-05-09,New Brunswick,5,0 to 44 years,Both sexes
+2020-05-09,New Brunswick,5,0 to 44 years,Males
+2020-05-09,New Brunswick,0,0 to 44 years,Females
+2020-05-09,New Brunswick,20,45 to 64 years,Both sexes
+2020-05-09,New Brunswick,10,45 to 64 years,Males
+2020-05-09,New Brunswick,10,45 to 64 years,Females
+2020-05-09,New Brunswick,75,65 to 84 years,Both sexes
+2020-05-09,New Brunswick,50,65 to 84 years,Males
+2020-05-09,New Brunswick,25,65 to 84 years,Females
+2020-05-09,New Brunswick,45,85 years and over,Both sexes
+2020-05-09,New Brunswick,15,85 years and over,Males
+2020-05-09,New Brunswick,30,85 years and over,Females
+2020-05-16,New Brunswick,150,all ages,Both sexes
+2020-05-16,New Brunswick,90,all ages,Males
+2020-05-16,New Brunswick,60,all ages,Females
+2020-05-16,New Brunswick,5,0 to 44 years,Both sexes
+2020-05-16,New Brunswick,5,0 to 44 years,Males
+2020-05-16,New Brunswick,0,0 to 44 years,Females
+2020-05-16,New Brunswick,30,45 to 64 years,Both sexes
+2020-05-16,New Brunswick,20,45 to 64 years,Males
+2020-05-16,New Brunswick,5,45 to 64 years,Females
+2020-05-16,New Brunswick,70,65 to 84 years,Both sexes
+2020-05-16,New Brunswick,35,65 to 84 years,Males
+2020-05-16,New Brunswick,30,65 to 84 years,Females
+2020-05-16,New Brunswick,45,85 years and over,Both sexes
+2020-05-16,New Brunswick,25,85 years and over,Males
+2020-05-16,New Brunswick,20,85 years and over,Females
+2020-05-23,New Brunswick,140,all ages,Both sexes
+2020-05-23,New Brunswick,70,all ages,Males
+2020-05-23,New Brunswick,70,all ages,Females
+2020-05-23,New Brunswick,5,0 to 44 years,Both sexes
+2020-05-23,New Brunswick,5,0 to 44 years,Males
+2020-05-23,New Brunswick,0,0 to 44 years,Females
+2020-05-23,New Brunswick,25,45 to 64 years,Both sexes
+2020-05-23,New Brunswick,15,45 to 64 years,Males
+2020-05-23,New Brunswick,10,45 to 64 years,Females
+2020-05-23,New Brunswick,65,65 to 84 years,Both sexes
+2020-05-23,New Brunswick,35,65 to 84 years,Males
+2020-05-23,New Brunswick,30,65 to 84 years,Females
+2020-05-23,New Brunswick,50,85 years and over,Both sexes
+2020-05-23,New Brunswick,20,85 years and over,Males
+2020-05-23,New Brunswick,30,85 years and over,Females
+2020-05-30,New Brunswick,135,all ages,Both sexes
+2020-05-30,New Brunswick,70,all ages,Males
+2020-05-30,New Brunswick,60,all ages,Females
+2020-05-30,New Brunswick,5,0 to 44 years,Both sexes
+2020-05-30,New Brunswick,5,0 to 44 years,Males
+2020-05-30,New Brunswick,0,0 to 44 years,Females
+2020-05-30,New Brunswick,20,45 to 64 years,Both sexes
+2020-05-30,New Brunswick,15,45 to 64 years,Males
+2020-05-30,New Brunswick,10,45 to 64 years,Females
+2020-05-30,New Brunswick,75,65 to 84 years,Both sexes
+2020-05-30,New Brunswick,35,65 to 84 years,Males
+2020-05-30,New Brunswick,35,65 to 84 years,Females
+2020-05-30,New Brunswick,35,85 years and over,Both sexes
+2020-05-30,New Brunswick,20,85 years and over,Males
+2020-05-30,New Brunswick,20,85 years and over,Females
+2020-06-06,New Brunswick,130,all ages,Both sexes
+2020-06-06,New Brunswick,55,all ages,Males
+2020-06-06,New Brunswick,75,all ages,Females
+2020-06-06,New Brunswick,0,0 to 44 years,Both sexes
+2020-06-06,New Brunswick,0,0 to 44 years,Males
+2020-06-06,New Brunswick,0,0 to 44 years,Females
+2020-06-06,New Brunswick,20,45 to 64 years,Both sexes
+2020-06-06,New Brunswick,10,45 to 64 years,Males
+2020-06-06,New Brunswick,10,45 to 64 years,Females
+2020-06-06,New Brunswick,60,65 to 84 years,Both sexes
+2020-06-06,New Brunswick,30,65 to 84 years,Males
+2020-06-06,New Brunswick,30,65 to 84 years,Females
+2020-06-06,New Brunswick,50,85 years and over,Both sexes
+2020-06-06,New Brunswick,15,85 years and over,Males
+2020-06-06,New Brunswick,40,85 years and over,Females
+2020-06-13,New Brunswick,115,all ages,Both sexes
+2020-06-13,New Brunswick,60,all ages,Males
+2020-06-13,New Brunswick,50,all ages,Females
+2020-06-13,New Brunswick,0,0 to 44 years,Both sexes
+2020-06-13,New Brunswick,0,0 to 44 years,Males
+2020-06-13,New Brunswick,0,0 to 44 years,Females
+2020-06-13,New Brunswick,25,45 to 64 years,Both sexes
+2020-06-13,New Brunswick,20,45 to 64 years,Males
+2020-06-13,New Brunswick,10,45 to 64 years,Females
+2020-06-13,New Brunswick,55,65 to 84 years,Both sexes
+2020-06-13,New Brunswick,30,65 to 84 years,Males
+2020-06-13,New Brunswick,20,65 to 84 years,Females
+2020-06-13,New Brunswick,35,85 years and over,Both sexes
+2020-06-13,New Brunswick,15,85 years and over,Males
+2020-06-13,New Brunswick,20,85 years and over,Females
+2020-06-20,New Brunswick,145,all ages,Both sexes
+2020-06-20,New Brunswick,75,all ages,Males
+2020-06-20,New Brunswick,70,all ages,Females
+2020-06-20,New Brunswick,5,0 to 44 years,Both sexes
+2020-06-20,New Brunswick,5,0 to 44 years,Males
+2020-06-20,New Brunswick,0,0 to 44 years,Females
+2020-06-20,New Brunswick,15,45 to 64 years,Both sexes
+2020-06-20,New Brunswick,10,45 to 64 years,Males
+2020-06-20,New Brunswick,5,45 to 64 years,Females
+2020-06-20,New Brunswick,80,65 to 84 years,Both sexes
+2020-06-20,New Brunswick,40,65 to 84 years,Males
+2020-06-20,New Brunswick,40,65 to 84 years,Females
+2020-06-20,New Brunswick,40,85 years and over,Both sexes
+2020-06-20,New Brunswick,15,85 years and over,Males
+2020-06-20,New Brunswick,25,85 years and over,Females
+2020-06-27,New Brunswick,130,all ages,Both sexes
+2020-06-27,New Brunswick,70,all ages,Males
+2020-06-27,New Brunswick,60,all ages,Females
+2020-06-27,New Brunswick,10,0 to 44 years,Both sexes
+2020-06-27,New Brunswick,5,0 to 44 years,Males
+2020-06-27,New Brunswick,0,0 to 44 years,Females
+2020-06-27,New Brunswick,30,45 to 64 years,Both sexes
+2020-06-27,New Brunswick,20,45 to 64 years,Males
+2020-06-27,New Brunswick,5,45 to 64 years,Females
+2020-06-27,New Brunswick,55,65 to 84 years,Both sexes
+2020-06-27,New Brunswick,25,65 to 84 years,Males
+2020-06-27,New Brunswick,30,65 to 84 years,Females
+2020-06-27,New Brunswick,45,85 years and over,Both sexes
+2020-06-27,New Brunswick,20,85 years and over,Males
+2020-06-27,New Brunswick,25,85 years and over,Females
+2020-07-04,New Brunswick,125,all ages,Both sexes
+2020-07-04,New Brunswick,70,all ages,Males
+2020-07-04,New Brunswick,55,all ages,Females
+2020-07-04,New Brunswick,5,0 to 44 years,Both sexes
+2020-07-04,New Brunswick,5,0 to 44 years,Males
+2020-07-04,New Brunswick,0,0 to 44 years,Females
+2020-07-04,New Brunswick,15,45 to 64 years,Both sexes
+2020-07-04,New Brunswick,10,45 to 64 years,Males
+2020-07-04,New Brunswick,5,45 to 64 years,Females
+2020-07-04,New Brunswick,70,65 to 84 years,Both sexes
+2020-07-04,New Brunswick,45,65 to 84 years,Males
+2020-07-04,New Brunswick,25,65 to 84 years,Females
+2020-07-04,New Brunswick,40,85 years and over,Both sexes
+2020-07-04,New Brunswick,15,85 years and over,Males
+2020-07-04,New Brunswick,25,85 years and over,Females
+2020-07-11,New Brunswick,145,all ages,Both sexes
+2020-07-11,New Brunswick,75,all ages,Males
+2020-07-11,New Brunswick,75,all ages,Females
+2020-07-11,New Brunswick,5,0 to 44 years,Both sexes
+2020-07-11,New Brunswick,10,0 to 44 years,Males
+2020-07-11,New Brunswick,0,0 to 44 years,Females
+2020-07-11,New Brunswick,20,45 to 64 years,Both sexes
+2020-07-11,New Brunswick,10,45 to 64 years,Males
+2020-07-11,New Brunswick,15,45 to 64 years,Females
+2020-07-11,New Brunswick,60,65 to 84 years,Both sexes
+2020-07-11,New Brunswick,35,65 to 84 years,Males
+2020-07-11,New Brunswick,20,65 to 84 years,Females
+2020-07-11,New Brunswick,60,85 years and over,Both sexes
+2020-07-11,New Brunswick,20,85 years and over,Males
+2020-07-11,New Brunswick,40,85 years and over,Females
+2020-07-18,New Brunswick,130,all ages,Both sexes
+2020-07-18,New Brunswick,75,all ages,Males
+2020-07-18,New Brunswick,55,all ages,Females
+2020-07-18,New Brunswick,10,0 to 44 years,Both sexes
+2020-07-18,New Brunswick,5,0 to 44 years,Males
+2020-07-18,New Brunswick,5,0 to 44 years,Females
+2020-07-18,New Brunswick,15,45 to 64 years,Both sexes
+2020-07-18,New Brunswick,10,45 to 64 years,Males
+2020-07-18,New Brunswick,5,45 to 64 years,Females
+2020-07-18,New Brunswick,70,65 to 84 years,Both sexes
+2020-07-18,New Brunswick,45,65 to 84 years,Males
+2020-07-18,New Brunswick,30,65 to 84 years,Females
+2020-07-18,New Brunswick,40,85 years and over,Both sexes
+2020-07-18,New Brunswick,20,85 years and over,Males
+2020-07-18,New Brunswick,20,85 years and over,Females
+2020-07-25,New Brunswick,120,all ages,Both sexes
+2020-07-25,New Brunswick,65,all ages,Males
+2020-07-25,New Brunswick,55,all ages,Females
+2020-07-25,New Brunswick,5,0 to 44 years,Both sexes
+2020-07-25,New Brunswick,5,0 to 44 years,Males
+2020-07-25,New Brunswick,0,0 to 44 years,Females
+2020-07-25,New Brunswick,15,45 to 64 years,Both sexes
+2020-07-25,New Brunswick,5,45 to 64 years,Males
+2020-07-25,New Brunswick,5,45 to 64 years,Females
+2020-07-25,New Brunswick,65,65 to 84 years,Both sexes
+2020-07-25,New Brunswick,40,65 to 84 years,Males
+2020-07-25,New Brunswick,30,65 to 84 years,Females
+2020-07-25,New Brunswick,40,85 years and over,Both sexes
+2020-07-25,New Brunswick,20,85 years and over,Males
+2020-07-25,New Brunswick,25,85 years and over,Females
+2020-08-01,New Brunswick,130,all ages,Both sexes
+2020-08-01,New Brunswick,60,all ages,Males
+2020-08-01,New Brunswick,70,all ages,Females
+2020-08-01,New Brunswick,5,0 to 44 years,Both sexes
+2020-08-01,New Brunswick,0,0 to 44 years,Males
+2020-08-01,New Brunswick,5,0 to 44 years,Females
+2020-08-01,New Brunswick,20,45 to 64 years,Both sexes
+2020-08-01,New Brunswick,10,45 to 64 years,Males
+2020-08-01,New Brunswick,5,45 to 64 years,Females
+2020-08-01,New Brunswick,65,65 to 84 years,Both sexes
+2020-08-01,New Brunswick,30,65 to 84 years,Males
+2020-08-01,New Brunswick,30,65 to 84 years,Females
+2020-08-01,New Brunswick,45,85 years and over,Both sexes
+2020-08-01,New Brunswick,15,85 years and over,Males
+2020-08-01,New Brunswick,25,85 years and over,Females
+2020-08-08,New Brunswick,140,all ages,Both sexes
+2020-08-08,New Brunswick,75,all ages,Males
+2020-08-08,New Brunswick,65,all ages,Females
+2020-08-08,New Brunswick,10,0 to 44 years,Both sexes
+2020-08-08,New Brunswick,10,0 to 44 years,Males
+2020-08-08,New Brunswick,0,0 to 44 years,Females
+2020-08-08,New Brunswick,25,45 to 64 years,Both sexes
+2020-08-08,New Brunswick,15,45 to 64 years,Males
+2020-08-08,New Brunswick,10,45 to 64 years,Females
+2020-08-08,New Brunswick,65,65 to 84 years,Both sexes
+2020-08-08,New Brunswick,40,65 to 84 years,Males
+2020-08-08,New Brunswick,25,65 to 84 years,Females
+2020-08-08,New Brunswick,45,85 years and over,Both sexes
+2020-08-08,New Brunswick,20,85 years and over,Males
+2020-08-08,New Brunswick,25,85 years and over,Females
+2020-08-15,New Brunswick,150,all ages,Both sexes
+2020-08-15,New Brunswick,85,all ages,Males
+2020-08-15,New Brunswick,70,all ages,Females
+2020-08-15,New Brunswick,10,0 to 44 years,Both sexes
+2020-08-15,New Brunswick,5,0 to 44 years,Males
+2020-08-15,New Brunswick,5,0 to 44 years,Females
+2020-08-15,New Brunswick,25,45 to 64 years,Both sexes
+2020-08-15,New Brunswick,15,45 to 64 years,Males
+2020-08-15,New Brunswick,10,45 to 64 years,Females
+2020-08-15,New Brunswick,80,65 to 84 years,Both sexes
+2020-08-15,New Brunswick,40,65 to 84 years,Males
+2020-08-15,New Brunswick,40,65 to 84 years,Females
+2020-08-15,New Brunswick,40,85 years and over,Both sexes
+2020-08-15,New Brunswick,20,85 years and over,Males
+2020-08-15,New Brunswick,25,85 years and over,Females
+2020-08-22,New Brunswick,125,all ages,Both sexes
+2020-08-22,New Brunswick,55,all ages,Males
+2020-08-22,New Brunswick,70,all ages,Females
+2020-08-22,New Brunswick,5,0 to 44 years,Both sexes
+2020-08-22,New Brunswick,5,0 to 44 years,Males
+2020-08-22,New Brunswick,5,0 to 44 years,Females
+2020-08-22,New Brunswick,25,45 to 64 years,Both sexes
+2020-08-22,New Brunswick,15,45 to 64 years,Males
+2020-08-22,New Brunswick,10,45 to 64 years,Females
+2020-08-22,New Brunswick,55,65 to 84 years,Both sexes
+2020-08-22,New Brunswick,25,65 to 84 years,Males
+2020-08-22,New Brunswick,30,65 to 84 years,Females
+2020-08-22,New Brunswick,40,85 years and over,Both sexes
+2020-08-22,New Brunswick,15,85 years and over,Males
+2020-08-22,New Brunswick,25,85 years and over,Females
+2020-08-29,New Brunswick,150,all ages,Both sexes
+2020-08-29,New Brunswick,75,all ages,Males
+2020-08-29,New Brunswick,75,all ages,Females
+2020-08-29,New Brunswick,0,0 to 44 years,Both sexes
+2020-08-29,New Brunswick,0,0 to 44 years,Males
+2020-08-29,New Brunswick,0,0 to 44 years,Females
+2020-08-29,New Brunswick,25,45 to 64 years,Both sexes
+2020-08-29,New Brunswick,15,45 to 64 years,Males
+2020-08-29,New Brunswick,10,45 to 64 years,Females
+2020-08-29,New Brunswick,75,65 to 84 years,Both sexes
+2020-08-29,New Brunswick,45,65 to 84 years,Males
+2020-08-29,New Brunswick,35,65 to 84 years,Females
+2020-08-29,New Brunswick,50,85 years and over,Both sexes
+2020-08-29,New Brunswick,15,85 years and over,Males
+2020-08-29,New Brunswick,35,85 years and over,Females
+2020-09-05,New Brunswick,110,all ages,Both sexes
+2020-09-05,New Brunswick,60,all ages,Males
+2020-09-05,New Brunswick,55,all ages,Females
+2020-09-05,New Brunswick,5,0 to 44 years,Both sexes
+2020-09-05,New Brunswick,5,0 to 44 years,Males
+2020-09-05,New Brunswick,5,0 to 44 years,Females
+2020-09-05,New Brunswick,20,45 to 64 years,Both sexes
+2020-09-05,New Brunswick,5,45 to 64 years,Males
+2020-09-05,New Brunswick,10,45 to 64 years,Females
+2020-09-05,New Brunswick,45,65 to 84 years,Both sexes
+2020-09-05,New Brunswick,30,65 to 84 years,Males
+2020-09-05,New Brunswick,15,65 to 84 years,Females
+2020-09-05,New Brunswick,45,85 years and over,Both sexes
+2020-09-05,New Brunswick,20,85 years and over,Males
+2020-09-05,New Brunswick,25,85 years and over,Females
+2020-09-12,New Brunswick,130,all ages,Both sexes
+2020-09-12,New Brunswick,70,all ages,Males
+2020-09-12,New Brunswick,65,all ages,Females
+2020-09-12,New Brunswick,10,0 to 44 years,Both sexes
+2020-09-12,New Brunswick,5,0 to 44 years,Males
+2020-09-12,New Brunswick,0,0 to 44 years,Females
+2020-09-12,New Brunswick,15,45 to 64 years,Both sexes
+2020-09-12,New Brunswick,10,45 to 64 years,Males
+2020-09-12,New Brunswick,10,45 to 64 years,Females
+2020-09-12,New Brunswick,70,65 to 84 years,Both sexes
+2020-09-12,New Brunswick,40,65 to 84 years,Males
+2020-09-12,New Brunswick,25,65 to 84 years,Females
+2020-09-12,New Brunswick,40,85 years and over,Both sexes
+2020-09-12,New Brunswick,10,85 years and over,Males
+2020-09-12,New Brunswick,20,85 years and over,Females
+2020-09-19,New Brunswick,160,all ages,Both sexes
+2020-09-19,New Brunswick,85,all ages,Males
+2020-09-19,New Brunswick,80,all ages,Females
+2020-09-19,New Brunswick,5,0 to 44 years,Both sexes
+2020-09-19,New Brunswick,10,0 to 44 years,Males
+2020-09-19,New Brunswick,0,0 to 44 years,Females
+2020-09-19,New Brunswick,30,45 to 64 years,Both sexes
+2020-09-19,New Brunswick,15,45 to 64 years,Males
+2020-09-19,New Brunswick,15,45 to 64 years,Females
+2020-09-19,New Brunswick,70,65 to 84 years,Both sexes
+2020-09-19,New Brunswick,35,65 to 84 years,Males
+2020-09-19,New Brunswick,35,65 to 84 years,Females
+2020-09-19,New Brunswick,55,85 years and over,Both sexes
+2020-09-19,New Brunswick,25,85 years and over,Males
+2020-09-19,New Brunswick,30,85 years and over,Females
+2020-09-26,New Brunswick,140,all ages,Both sexes
+2020-09-26,New Brunswick,80,all ages,Males
+2020-09-26,New Brunswick,60,all ages,Females
+2020-09-26,New Brunswick,5,0 to 44 years,Both sexes
+2020-09-26,New Brunswick,5,0 to 44 years,Males
+2020-09-26,New Brunswick,5,0 to 44 years,Females
+2020-09-26,New Brunswick,15,45 to 64 years,Both sexes
+2020-09-26,New Brunswick,5,45 to 64 years,Males
+2020-09-26,New Brunswick,5,45 to 64 years,Females
+2020-09-26,New Brunswick,70,65 to 84 years,Both sexes
+2020-09-26,New Brunswick,40,65 to 84 years,Males
+2020-09-26,New Brunswick,25,65 to 84 years,Females
+2020-09-26,New Brunswick,50,85 years and over,Both sexes
+2020-09-26,New Brunswick,30,85 years and over,Males
+2020-09-26,New Brunswick,25,85 years and over,Females
+2020-10-03,New Brunswick,145,all ages,Both sexes
+2020-10-03,New Brunswick,75,all ages,Males
+2020-10-03,New Brunswick,70,all ages,Females
+2020-10-03,New Brunswick,5,0 to 44 years,Both sexes
+2020-10-03,New Brunswick,0,0 to 44 years,Males
+2020-10-03,New Brunswick,5,0 to 44 years,Females
+2020-10-03,New Brunswick,25,45 to 64 years,Both sexes
+2020-10-03,New Brunswick,15,45 to 64 years,Males
+2020-10-03,New Brunswick,10,45 to 64 years,Females
+2020-10-03,New Brunswick,70,65 to 84 years,Both sexes
+2020-10-03,New Brunswick,45,65 to 84 years,Males
+2020-10-03,New Brunswick,25,65 to 84 years,Females
+2020-10-03,New Brunswick,45,85 years and over,Both sexes
+2020-10-03,New Brunswick,15,85 years and over,Males
+2020-10-03,New Brunswick,25,85 years and over,Females
+2020-10-10,New Brunswick,130,all ages,Both sexes
+2020-10-10,New Brunswick,65,all ages,Males
+2020-10-10,New Brunswick,70,all ages,Females
+2020-10-10,New Brunswick,10,0 to 44 years,Both sexes
+2020-10-10,New Brunswick,5,0 to 44 years,Males
+2020-10-10,New Brunswick,0,0 to 44 years,Females
+2020-10-10,New Brunswick,10,45 to 64 years,Both sexes
+2020-10-10,New Brunswick,5,45 to 64 years,Males
+2020-10-10,New Brunswick,5,45 to 64 years,Females
+2020-10-10,New Brunswick,65,65 to 84 years,Both sexes
+2020-10-10,New Brunswick,35,65 to 84 years,Males
+2020-10-10,New Brunswick,35,65 to 84 years,Females
+2020-10-10,New Brunswick,45,85 years and over,Both sexes
+2020-10-10,New Brunswick,15,85 years and over,Males
+2020-10-10,New Brunswick,25,85 years and over,Females
+2020-10-17,New Brunswick,170,all ages,Both sexes
+2020-10-17,New Brunswick,85,all ages,Males
+2020-10-17,New Brunswick,85,all ages,Females
+2020-10-17,New Brunswick,5,0 to 44 years,Both sexes
+2020-10-17,New Brunswick,5,0 to 44 years,Males
+2020-10-17,New Brunswick,0,0 to 44 years,Females
+2020-10-17,New Brunswick,30,45 to 64 years,Both sexes
+2020-10-17,New Brunswick,15,45 to 64 years,Males
+2020-10-17,New Brunswick,10,45 to 64 years,Females
+2020-10-17,New Brunswick,80,65 to 84 years,Both sexes
+2020-10-17,New Brunswick,40,65 to 84 years,Males
+2020-10-17,New Brunswick,40,65 to 84 years,Females
+2020-10-17,New Brunswick,50,85 years and over,Both sexes
+2020-10-17,New Brunswick,20,85 years and over,Males
+2020-10-17,New Brunswick,30,85 years and over,Females
+2020-10-24,New Brunswick,140,all ages,Both sexes
+2020-10-24,New Brunswick,60,all ages,Males
+2020-10-24,New Brunswick,80,all ages,Females
+2020-10-24,New Brunswick,5,0 to 44 years,Both sexes
+2020-10-24,New Brunswick,0,0 to 44 years,Males
+2020-10-24,New Brunswick,5,0 to 44 years,Females
+2020-10-24,New Brunswick,25,45 to 64 years,Both sexes
+2020-10-24,New Brunswick,10,45 to 64 years,Males
+2020-10-24,New Brunswick,15,45 to 64 years,Females
+2020-10-24,New Brunswick,65,65 to 84 years,Both sexes
+2020-10-24,New Brunswick,40,65 to 84 years,Males
+2020-10-24,New Brunswick,30,65 to 84 years,Females
+2020-10-24,New Brunswick,45,85 years and over,Both sexes
+2020-10-24,New Brunswick,10,85 years and over,Males
+2020-10-24,New Brunswick,35,85 years and over,Females
+2020-10-31,New Brunswick,155,all ages,Both sexes
+2020-10-31,New Brunswick,75,all ages,Males
+2020-10-31,New Brunswick,80,all ages,Females
+2020-10-31,New Brunswick,10,0 to 44 years,Both sexes
+2020-10-31,New Brunswick,5,0 to 44 years,Males
+2020-10-31,New Brunswick,5,0 to 44 years,Females
+2020-10-31,New Brunswick,15,45 to 64 years,Both sexes
+2020-10-31,New Brunswick,10,45 to 64 years,Males
+2020-10-31,New Brunswick,10,45 to 64 years,Females
+2020-10-31,New Brunswick,85,65 to 84 years,Both sexes
+2020-10-31,New Brunswick,40,65 to 84 years,Males
+2020-10-31,New Brunswick,35,65 to 84 years,Females
+2020-10-31,New Brunswick,50,85 years and over,Both sexes
+2020-10-31,New Brunswick,15,85 years and over,Males
+2020-10-31,New Brunswick,35,85 years and over,Females
+2020-11-07,New Brunswick,155,all ages,Both sexes
+2020-11-07,New Brunswick,80,all ages,Males
+2020-11-07,New Brunswick,75,all ages,Females
+2020-11-07,New Brunswick,0,0 to 44 years,Both sexes
+2020-11-07,New Brunswick,0,0 to 44 years,Males
+2020-11-07,New Brunswick,5,0 to 44 years,Females
+2020-11-07,New Brunswick,25,45 to 64 years,Both sexes
+2020-11-07,New Brunswick,10,45 to 64 years,Males
+2020-11-07,New Brunswick,10,45 to 64 years,Females
+2020-11-07,New Brunswick,75,65 to 84 years,Both sexes
+2020-11-07,New Brunswick,50,65 to 84 years,Males
+2020-11-07,New Brunswick,25,65 to 84 years,Females
+2020-11-07,New Brunswick,55,85 years and over,Both sexes
+2020-11-07,New Brunswick,20,85 years and over,Males
+2020-11-07,New Brunswick,35,85 years and over,Females
+2020-11-14,New Brunswick,150,all ages,Both sexes
+2020-11-14,New Brunswick,75,all ages,Males
+2020-11-14,New Brunswick,75,all ages,Females
+2020-11-14,New Brunswick,10,0 to 44 years,Both sexes
+2020-11-14,New Brunswick,5,0 to 44 years,Males
+2020-11-14,New Brunswick,0,0 to 44 years,Females
+2020-11-14,New Brunswick,25,45 to 64 years,Both sexes
+2020-11-14,New Brunswick,15,45 to 64 years,Males
+2020-11-14,New Brunswick,10,45 to 64 years,Females
+2020-11-14,New Brunswick,70,65 to 84 years,Both sexes
+2020-11-14,New Brunswick,30,65 to 84 years,Males
+2020-11-14,New Brunswick,35,65 to 84 years,Females
+2020-11-14,New Brunswick,50,85 years and over,Both sexes
+2020-11-14,New Brunswick,20,85 years and over,Males
+2020-11-14,New Brunswick,30,85 years and over,Females
+2020-11-21,New Brunswick,150,all ages,Both sexes
+2020-11-21,New Brunswick,75,all ages,Males
+2020-11-21,New Brunswick,75,all ages,Females
+2020-11-21,New Brunswick,5,0 to 44 years,Both sexes
+2020-11-21,New Brunswick,5,0 to 44 years,Males
+2020-11-21,New Brunswick,0,0 to 44 years,Females
+2020-11-21,New Brunswick,25,45 to 64 years,Both sexes
+2020-11-21,New Brunswick,20,45 to 64 years,Males
+2020-11-21,New Brunswick,10,45 to 64 years,Females
+2020-11-21,New Brunswick,65,65 to 84 years,Both sexes
+2020-11-21,New Brunswick,30,65 to 84 years,Males
+2020-11-21,New Brunswick,40,65 to 84 years,Females
+2020-11-21,New Brunswick,50,85 years and over,Both sexes
+2020-11-21,New Brunswick,25,85 years and over,Males
+2020-11-21,New Brunswick,25,85 years and over,Females
+2020-11-28,New Brunswick,145,all ages,Both sexes
+2020-11-28,New Brunswick,80,all ages,Males
+2020-11-28,New Brunswick,65,all ages,Females
+2020-11-28,New Brunswick,10,0 to 44 years,Both sexes
+2020-11-28,New Brunswick,0,0 to 44 years,Males
+2020-11-28,New Brunswick,5,0 to 44 years,Females
+2020-11-28,New Brunswick,25,45 to 64 years,Both sexes
+2020-11-28,New Brunswick,15,45 to 64 years,Males
+2020-11-28,New Brunswick,5,45 to 64 years,Females
+2020-11-28,New Brunswick,65,65 to 84 years,Both sexes
+2020-11-28,New Brunswick,40,65 to 84 years,Males
+2020-11-28,New Brunswick,25,65 to 84 years,Females
+2020-11-28,New Brunswick,50,85 years and over,Both sexes
+2020-11-28,New Brunswick,25,85 years and over,Males
+2020-11-28,New Brunswick,25,85 years and over,Females
+2020-12-05,New Brunswick,150,all ages,Both sexes
+2020-12-05,New Brunswick,80,all ages,Males
+2020-12-05,New Brunswick,65,all ages,Females
+2020-12-05,New Brunswick,5,0 to 44 years,Both sexes
+2020-12-05,New Brunswick,5,0 to 44 years,Males
+2020-12-05,New Brunswick,5,0 to 44 years,Females
+2020-12-05,New Brunswick,30,45 to 64 years,Both sexes
+2020-12-05,New Brunswick,15,45 to 64 years,Males
+2020-12-05,New Brunswick,15,45 to 64 years,Females
+2020-12-05,New Brunswick,65,65 to 84 years,Both sexes
+2020-12-05,New Brunswick,40,65 to 84 years,Males
+2020-12-05,New Brunswick,30,65 to 84 years,Females
+2020-12-05,New Brunswick,45,85 years and over,Both sexes
+2020-12-05,New Brunswick,20,85 years and over,Males
+2020-12-05,New Brunswick,25,85 years and over,Females
+2020-12-12,New Brunswick,145,all ages,Both sexes
+2020-12-12,New Brunswick,75,all ages,Males
+2020-12-12,New Brunswick,70,all ages,Females
+2020-12-12,New Brunswick,5,0 to 44 years,Both sexes
+2020-12-12,New Brunswick,0,0 to 44 years,Males
+2020-12-12,New Brunswick,0,0 to 44 years,Females
+2020-12-12,New Brunswick,20,45 to 64 years,Both sexes
+2020-12-12,New Brunswick,10,45 to 64 years,Males
+2020-12-12,New Brunswick,5,45 to 64 years,Females
+2020-12-12,New Brunswick,75,65 to 84 years,Both sexes
+2020-12-12,New Brunswick,45,65 to 84 years,Males
+2020-12-12,New Brunswick,30,65 to 84 years,Females
+2020-12-12,New Brunswick,50,85 years and over,Both sexes
+2020-12-12,New Brunswick,15,85 years and over,Males
+2020-12-12,New Brunswick,35,85 years and over,Females
+2020-12-19,New Brunswick,140,all ages,Both sexes
+2020-12-19,New Brunswick,75,all ages,Males
+2020-12-19,New Brunswick,65,all ages,Females
+2020-12-19,New Brunswick,10,0 to 44 years,Both sexes
+2020-12-19,New Brunswick,5,0 to 44 years,Males
+2020-12-19,New Brunswick,0,0 to 44 years,Females
+2020-12-19,New Brunswick,20,45 to 64 years,Both sexes
+2020-12-19,New Brunswick,10,45 to 64 years,Males
+2020-12-19,New Brunswick,10,45 to 64 years,Females
+2020-12-19,New Brunswick,60,65 to 84 years,Both sexes
+2020-12-19,New Brunswick,35,65 to 84 years,Males
+2020-12-19,New Brunswick,25,65 to 84 years,Females
+2020-12-19,New Brunswick,50,85 years and over,Both sexes
+2020-12-19,New Brunswick,20,85 years and over,Males
+2020-12-19,New Brunswick,30,85 years and over,Females
+2020-12-26,New Brunswick,155,all ages,Both sexes
+2020-12-26,New Brunswick,75,all ages,Males
+2020-12-26,New Brunswick,85,all ages,Females
+2020-12-26,New Brunswick,5,0 to 44 years,Both sexes
+2020-12-26,New Brunswick,0,0 to 44 years,Males
+2020-12-26,New Brunswick,0,0 to 44 years,Females
+2020-12-26,New Brunswick,25,45 to 64 years,Both sexes
+2020-12-26,New Brunswick,20,45 to 64 years,Males
+2020-12-26,New Brunswick,10,45 to 64 years,Females
+2020-12-26,New Brunswick,80,65 to 84 years,Both sexes
+2020-12-26,New Brunswick,40,65 to 84 years,Males
+2020-12-26,New Brunswick,40,65 to 84 years,Females
+2020-12-26,New Brunswick,50,85 years and over,Both sexes
+2020-12-26,New Brunswick,20,85 years and over,Males
+2020-12-26,New Brunswick,30,85 years and over,Females
+2021-01-02,New Brunswick,125,all ages,Both sexes
+2021-01-02,New Brunswick,70,all ages,Males
+2021-01-02,New Brunswick,55,all ages,Females
+2021-01-02,New Brunswick,0,0 to 44 years,Both sexes
+2021-01-02,New Brunswick,0,0 to 44 years,Males
+2021-01-02,New Brunswick,0,0 to 44 years,Females
+2021-01-02,New Brunswick,20,45 to 64 years,Both sexes
+2021-01-02,New Brunswick,10,45 to 64 years,Males
+2021-01-02,New Brunswick,5,45 to 64 years,Females
+2021-01-02,New Brunswick,65,65 to 84 years,Both sexes
+2021-01-02,New Brunswick,40,65 to 84 years,Males
+2021-01-02,New Brunswick,25,65 to 84 years,Females
+2021-01-02,New Brunswick,40,85 years and over,Both sexes
+2021-01-02,New Brunswick,15,85 years and over,Males
+2021-01-02,New Brunswick,25,85 years and over,Females
+2021-01-09,New Brunswick,145,all ages,Both sexes
+2021-01-09,New Brunswick,75,all ages,Males
+2021-01-09,New Brunswick,65,all ages,Females
+2021-01-09,New Brunswick,10,0 to 44 years,Both sexes
+2021-01-09,New Brunswick,5,0 to 44 years,Males
+2021-01-09,New Brunswick,5,0 to 44 years,Females
+2021-01-09,New Brunswick,15,45 to 64 years,Both sexes
+2021-01-09,New Brunswick,5,45 to 64 years,Males
+2021-01-09,New Brunswick,10,45 to 64 years,Females
+2021-01-09,New Brunswick,80,65 to 84 years,Both sexes
+2021-01-09,New Brunswick,50,65 to 84 years,Males
+2021-01-09,New Brunswick,25,65 to 84 years,Females
+2021-01-09,New Brunswick,45,85 years and over,Both sexes
+2021-01-09,New Brunswick,15,85 years and over,Males
+2021-01-09,New Brunswick,30,85 years and over,Females
+2021-01-16,New Brunswick,160,all ages,Both sexes
+2021-01-16,New Brunswick,90,all ages,Males
+2021-01-16,New Brunswick,65,all ages,Females
+2021-01-16,New Brunswick,5,0 to 44 years,Both sexes
+2021-01-16,New Brunswick,5,0 to 44 years,Males
+2021-01-16,New Brunswick,0,0 to 44 years,Females
+2021-01-16,New Brunswick,30,45 to 64 years,Both sexes
+2021-01-16,New Brunswick,20,45 to 64 years,Males
+2021-01-16,New Brunswick,15,45 to 64 years,Females
+2021-01-16,New Brunswick,65,65 to 84 years,Both sexes
+2021-01-16,New Brunswick,40,65 to 84 years,Males
+2021-01-16,New Brunswick,25,65 to 84 years,Females
+2021-01-16,New Brunswick,50,85 years and over,Both sexes
+2021-01-16,New Brunswick,25,85 years and over,Males
+2021-01-16,New Brunswick,25,85 years and over,Females
+2021-01-23,New Brunswick,165,all ages,Both sexes
+2021-01-23,New Brunswick,80,all ages,Males
+2021-01-23,New Brunswick,80,all ages,Females
+2021-01-23,New Brunswick,5,0 to 44 years,Both sexes
+2021-01-23,New Brunswick,5,0 to 44 years,Males
+2021-01-23,New Brunswick,0,0 to 44 years,Females
+2021-01-23,New Brunswick,20,45 to 64 years,Both sexes
+2021-01-23,New Brunswick,15,45 to 64 years,Males
+2021-01-23,New Brunswick,10,45 to 64 years,Females
+2021-01-23,New Brunswick,90,65 to 84 years,Both sexes
+2021-01-23,New Brunswick,50,65 to 84 years,Males
+2021-01-23,New Brunswick,40,65 to 84 years,Females
+2021-01-23,New Brunswick,50,85 years and over,Both sexes
+2021-01-23,New Brunswick,15,85 years and over,Males
+2021-01-23,New Brunswick,35,85 years and over,Females
+2021-01-30,New Brunswick,190,all ages,Both sexes
+2021-01-30,New Brunswick,95,all ages,Males
+2021-01-30,New Brunswick,85,all ages,Females
+2021-01-30,New Brunswick,5,0 to 44 years,Both sexes
+2021-01-30,New Brunswick,0,0 to 44 years,Males
+2021-01-30,New Brunswick,0,0 to 44 years,Females
+2021-01-30,New Brunswick,30,45 to 64 years,Both sexes
+2021-01-30,New Brunswick,10,45 to 64 years,Males
+2021-01-30,New Brunswick,20,45 to 64 years,Females
+2021-01-30,New Brunswick,90,65 to 84 years,Both sexes
+2021-01-30,New Brunswick,60,65 to 84 years,Males
+2021-01-30,New Brunswick,35,65 to 84 years,Females
+2021-01-30,New Brunswick,60,85 years and over,Both sexes
+2021-01-30,New Brunswick,30,85 years and over,Males
+2021-01-30,New Brunswick,30,85 years and over,Females
+2021-02-06,New Brunswick,170,all ages,Both sexes
+2021-02-06,New Brunswick,75,all ages,Males
+2021-02-06,New Brunswick,85,all ages,Females
+2021-02-06,New Brunswick,5,0 to 44 years,Both sexes
+2021-02-06,New Brunswick,0,0 to 44 years,Males
+2021-02-06,New Brunswick,0,0 to 44 years,Females
+2021-02-06,New Brunswick,15,45 to 64 years,Both sexes
+2021-02-06,New Brunswick,5,45 to 64 years,Males
+2021-02-06,New Brunswick,10,45 to 64 years,Females
+2021-02-06,New Brunswick,85,65 to 84 years,Both sexes
+2021-02-06,New Brunswick,45,65 to 84 years,Males
+2021-02-06,New Brunswick,30,65 to 84 years,Females
+2021-02-06,New Brunswick,65,85 years and over,Both sexes
+2021-02-06,New Brunswick,20,85 years and over,Males
+2021-02-06,New Brunswick,40,85 years and over,Females
+2021-02-13,New Brunswick,155,all ages,Both sexes
+2021-02-13,New Brunswick,75,all ages,Males
+2021-02-13,New Brunswick,75,all ages,Females
+2021-02-13,New Brunswick,5,0 to 44 years,Both sexes
+2021-02-13,New Brunswick,0,0 to 44 years,Males
+2021-02-13,New Brunswick,,0 to 44 years,Females
+2021-02-13,New Brunswick,25,45 to 64 years,Both sexes
+2021-02-13,New Brunswick,15,45 to 64 years,Males
+2021-02-13,New Brunswick,15,45 to 64 years,Females
+2021-02-13,New Brunswick,75,65 to 84 years,Both sexes
+2021-02-13,New Brunswick,40,65 to 84 years,Males
+2021-02-13,New Brunswick,30,65 to 84 years,Females
+2021-02-13,New Brunswick,50,85 years and over,Both sexes
+2021-02-13,New Brunswick,20,85 years and over,Males
+2021-02-13,New Brunswick,30,85 years and over,Females
+2021-02-20,New Brunswick,155,all ages,Both sexes
+2021-02-20,New Brunswick,65,all ages,Males
+2021-02-20,New Brunswick,80,all ages,Females
+2021-02-20,New Brunswick,5,0 to 44 years,Both sexes
+2021-02-20,New Brunswick,0,0 to 44 years,Males
+2021-02-20,New Brunswick,0,0 to 44 years,Females
+2021-02-20,New Brunswick,30,45 to 64 years,Both sexes
+2021-02-20,New Brunswick,15,45 to 64 years,Males
+2021-02-20,New Brunswick,15,45 to 64 years,Females
+2021-02-20,New Brunswick,70,65 to 84 years,Both sexes
+2021-02-20,New Brunswick,30,65 to 84 years,Males
+2021-02-20,New Brunswick,35,65 to 84 years,Females
+2021-02-20,New Brunswick,55,85 years and over,Both sexes
+2021-02-20,New Brunswick,15,85 years and over,Males
+2021-02-20,New Brunswick,30,85 years and over,Females
+2021-02-27,New Brunswick,125,all ages,Both sexes
+2021-02-27,New Brunswick,75,all ages,Males
+2021-02-27,New Brunswick,50,all ages,Females
+2021-02-27,New Brunswick,5,0 to 44 years,Both sexes
+2021-02-27,New Brunswick,5,0 to 44 years,Males
+2021-02-27,New Brunswick,0,0 to 44 years,Females
+2021-02-27,New Brunswick,25,45 to 64 years,Both sexes
+2021-02-27,New Brunswick,20,45 to 64 years,Males
+2021-02-27,New Brunswick,10,45 to 64 years,Females
+2021-02-27,New Brunswick,60,65 to 84 years,Both sexes
+2021-02-27,New Brunswick,40,65 to 84 years,Males
+2021-02-27,New Brunswick,15,65 to 84 years,Females
+2021-02-27,New Brunswick,40,85 years and over,Both sexes
+2021-02-27,New Brunswick,15,85 years and over,Males
+2021-02-27,New Brunswick,25,85 years and over,Females
+2021-03-06,New Brunswick,165,all ages,Both sexes
+2021-03-06,New Brunswick,80,all ages,Males
+2021-03-06,New Brunswick,85,all ages,Females
+2021-03-06,New Brunswick,5,0 to 44 years,Both sexes
+2021-03-06,New Brunswick,5,0 to 44 years,Males
+2021-03-06,New Brunswick,0,0 to 44 years,Females
+2021-03-06,New Brunswick,25,45 to 64 years,Both sexes
+2021-03-06,New Brunswick,15,45 to 64 years,Males
+2021-03-06,New Brunswick,10,45 to 64 years,Females
+2021-03-06,New Brunswick,75,65 to 84 years,Both sexes
+2021-03-06,New Brunswick,35,65 to 84 years,Males
+2021-03-06,New Brunswick,35,65 to 84 years,Females
+2021-03-06,New Brunswick,55,85 years and over,Both sexes
+2021-03-06,New Brunswick,25,85 years and over,Males
+2021-03-06,New Brunswick,35,85 years and over,Females
+2021-03-13,New Brunswick,170,all ages,Both sexes
+2021-03-13,New Brunswick,85,all ages,Males
+2021-03-13,New Brunswick,75,all ages,Females
+2021-03-13,New Brunswick,10,0 to 44 years,Both sexes
+2021-03-13,New Brunswick,5,0 to 44 years,Males
+2021-03-13,New Brunswick,0,0 to 44 years,Females
+2021-03-13,New Brunswick,20,45 to 64 years,Both sexes
+2021-03-13,New Brunswick,15,45 to 64 years,Males
+2021-03-13,New Brunswick,0,45 to 64 years,Females
+2021-03-13,New Brunswick,85,65 to 84 years,Both sexes
+2021-03-13,New Brunswick,50,65 to 84 years,Males
+2021-03-13,New Brunswick,35,65 to 84 years,Females
+2021-03-13,New Brunswick,50,85 years and over,Both sexes
+2021-03-13,New Brunswick,20,85 years and over,Males
+2021-03-13,New Brunswick,35,85 years and over,Females
+2021-03-20,New Brunswick,155,all ages,Both sexes
+2021-03-20,New Brunswick,80,all ages,Males
+2021-03-20,New Brunswick,65,all ages,Females
+2021-03-20,New Brunswick,10,0 to 44 years,Both sexes
+2021-03-20,New Brunswick,5,0 to 44 years,Males
+2021-03-20,New Brunswick,0,0 to 44 years,Females
+2021-03-20,New Brunswick,20,45 to 64 years,Both sexes
+2021-03-20,New Brunswick,10,45 to 64 years,Males
+2021-03-20,New Brunswick,5,45 to 64 years,Females
+2021-03-20,New Brunswick,80,65 to 84 years,Both sexes
+2021-03-20,New Brunswick,45,65 to 84 years,Males
+2021-03-20,New Brunswick,30,65 to 84 years,Females
+2021-03-20,New Brunswick,45,85 years and over,Both sexes
+2021-03-20,New Brunswick,20,85 years and over,Males
+2021-03-20,New Brunswick,25,85 years and over,Females
+2021-03-27,New Brunswick,170,all ages,Both sexes
+2021-03-27,New Brunswick,80,all ages,Males
+2021-03-27,New Brunswick,80,all ages,Females
+2021-03-27,New Brunswick,10,0 to 44 years,Both sexes
+2021-03-27,New Brunswick,5,0 to 44 years,Males
+2021-03-27,New Brunswick,0,0 to 44 years,Females
+2021-03-27,New Brunswick,20,45 to 64 years,Both sexes
+2021-03-27,New Brunswick,15,45 to 64 years,Males
+2021-03-27,New Brunswick,10,45 to 64 years,Females
+2021-03-27,New Brunswick,80,65 to 84 years,Both sexes
+2021-03-27,New Brunswick,45,65 to 84 years,Males
+2021-03-27,New Brunswick,35,65 to 84 years,Females
+2021-03-27,New Brunswick,55,85 years and over,Both sexes
+2021-03-27,New Brunswick,25,85 years and over,Males
+2021-03-27,New Brunswick,30,85 years and over,Females
+2021-04-03,New Brunswick,155,all ages,Both sexes
+2021-04-03,New Brunswick,70,all ages,Males
+2021-04-03,New Brunswick,75,all ages,Females
+2021-04-03,New Brunswick,10,0 to 44 years,Both sexes
+2021-04-03,New Brunswick,5,0 to 44 years,Males
+2021-04-03,New Brunswick,0,0 to 44 years,Females
+2021-04-03,New Brunswick,25,45 to 64 years,Both sexes
+2021-04-03,New Brunswick,10,45 to 64 years,Males
+2021-04-03,New Brunswick,5,45 to 64 years,Females
+2021-04-03,New Brunswick,75,65 to 84 years,Both sexes
+2021-04-03,New Brunswick,35,65 to 84 years,Males
+2021-04-03,New Brunswick,35,65 to 84 years,Females
+2021-04-03,New Brunswick,50,85 years and over,Both sexes
+2021-04-03,New Brunswick,15,85 years and over,Males
+2021-04-03,New Brunswick,30,85 years and over,Females
+2021-04-10,New Brunswick,155,all ages,Both sexes
+2021-04-10,New Brunswick,75,all ages,Males
+2021-04-10,New Brunswick,65,all ages,Females
+2021-04-10,New Brunswick,5,0 to 44 years,Both sexes
+2021-04-10,New Brunswick,0,0 to 44 years,Males
+2021-04-10,New Brunswick,0,0 to 44 years,Females
+2021-04-10,New Brunswick,20,45 to 64 years,Both sexes
+2021-04-10,New Brunswick,10,45 to 64 years,Males
+2021-04-10,New Brunswick,5,45 to 64 years,Females
+2021-04-10,New Brunswick,80,65 to 84 years,Both sexes
+2021-04-10,New Brunswick,45,65 to 84 years,Males
+2021-04-10,New Brunswick,25,65 to 84 years,Females
+2021-04-10,New Brunswick,50,85 years and over,Both sexes
+2021-04-10,New Brunswick,15,85 years and over,Males
+2021-04-10,New Brunswick,30,85 years and over,Females
+2021-04-17,New Brunswick,145,all ages,Both sexes
+2021-04-17,New Brunswick,70,all ages,Males
+2021-04-17,New Brunswick,65,all ages,Females
+2021-04-17,New Brunswick,10,0 to 44 years,Both sexes
+2021-04-17,New Brunswick,0,0 to 44 years,Males
+2021-04-17,New Brunswick,5,0 to 44 years,Females
+2021-04-17,New Brunswick,25,45 to 64 years,Both sexes
+2021-04-17,New Brunswick,10,45 to 64 years,Males
+2021-04-17,New Brunswick,10,45 to 64 years,Females
+2021-04-17,New Brunswick,75,65 to 84 years,Both sexes
+2021-04-17,New Brunswick,45,65 to 84 years,Males
+2021-04-17,New Brunswick,30,65 to 84 years,Females
+2021-04-17,New Brunswick,45,85 years and over,Both sexes
+2021-04-17,New Brunswick,15,85 years and over,Males
+2021-04-17,New Brunswick,25,85 years and over,Females
+2021-04-24,New Brunswick,160,all ages,Both sexes
+2021-04-24,New Brunswick,75,all ages,Males
+2021-04-24,New Brunswick,70,all ages,Females
+2021-04-24,New Brunswick,5,0 to 44 years,Both sexes
+2021-04-24,New Brunswick,10,0 to 44 years,Males
+2021-04-24,New Brunswick,,0 to 44 years,Females
+2021-04-24,New Brunswick,25,45 to 64 years,Both sexes
+2021-04-24,New Brunswick,15,45 to 64 years,Males
+2021-04-24,New Brunswick,5,45 to 64 years,Females
+2021-04-24,New Brunswick,70,65 to 84 years,Both sexes
+2021-04-24,New Brunswick,35,65 to 84 years,Males
+2021-04-24,New Brunswick,30,65 to 84 years,Females
+2021-04-24,New Brunswick,55,85 years and over,Both sexes
+2021-04-24,New Brunswick,15,85 years and over,Males
+2021-04-24,New Brunswick,30,85 years and over,Females
+2021-05-01,New Brunswick,170,all ages,Both sexes
+2021-05-01,New Brunswick,80,all ages,Males
+2021-05-01,New Brunswick,75,all ages,Females
+2021-05-01,New Brunswick,10,0 to 44 years,Both sexes
+2021-05-01,New Brunswick,5,0 to 44 years,Males
+2021-05-01,New Brunswick,0,0 to 44 years,Females
+2021-05-01,New Brunswick,20,45 to 64 years,Both sexes
+2021-05-01,New Brunswick,10,45 to 64 years,Males
+2021-05-01,New Brunswick,10,45 to 64 years,Females
+2021-05-01,New Brunswick,90,65 to 84 years,Both sexes
+2021-05-01,New Brunswick,50,65 to 84 years,Males
+2021-05-01,New Brunswick,35,65 to 84 years,Females
+2021-05-01,New Brunswick,55,85 years and over,Both sexes
+2021-05-01,New Brunswick,20,85 years and over,Males
+2021-05-01,New Brunswick,30,85 years and over,Females
+2021-05-08,New Brunswick,150,all ages,Both sexes
+2021-05-08,New Brunswick,75,all ages,Males
+2021-05-08,New Brunswick,60,all ages,Females
+2021-05-08,New Brunswick,10,0 to 44 years,Both sexes
+2021-05-08,New Brunswick,0,0 to 44 years,Males
+2021-05-08,New Brunswick,5,0 to 44 years,Females
+2021-05-08,New Brunswick,15,45 to 64 years,Both sexes
+2021-05-08,New Brunswick,10,45 to 64 years,Males
+2021-05-08,New Brunswick,10,45 to 64 years,Females
+2021-05-08,New Brunswick,80,65 to 84 years,Both sexes
+2021-05-08,New Brunswick,45,65 to 84 years,Males
+2021-05-08,New Brunswick,25,65 to 84 years,Females
+2021-05-08,New Brunswick,50,85 years and over,Both sexes
+2021-05-08,New Brunswick,10,85 years and over,Males
+2021-05-08,New Brunswick,30,85 years and over,Females
+2021-05-15,New Brunswick,180,all ages,Both sexes
+2021-05-15,New Brunswick,75,all ages,Males
+2021-05-15,New Brunswick,85,all ages,Females
+2021-05-15,New Brunswick,5,0 to 44 years,Both sexes
+2021-05-15,New Brunswick,5,0 to 44 years,Males
+2021-05-15,New Brunswick,,0 to 44 years,Females
+2021-05-15,New Brunswick,25,45 to 64 years,Both sexes
+2021-05-15,New Brunswick,10,45 to 64 years,Males
+2021-05-15,New Brunswick,15,45 to 64 years,Females
+2021-05-15,New Brunswick,90,65 to 84 years,Both sexes
+2021-05-15,New Brunswick,40,65 to 84 years,Males
+2021-05-15,New Brunswick,35,65 to 84 years,Females
+2021-05-15,New Brunswick,60,85 years and over,Both sexes
+2021-05-15,New Brunswick,25,85 years and over,Males
+2021-05-15,New Brunswick,35,85 years and over,Females
+2021-05-22,New Brunswick,145,all ages,Both sexes
+2021-05-22,New Brunswick,70,all ages,Males
+2021-05-22,New Brunswick,55,all ages,Females
+2021-05-22,New Brunswick,5,0 to 44 years,Both sexes
+2021-05-22,New Brunswick,0,0 to 44 years,Males
+2021-05-22,New Brunswick,,0 to 44 years,Females
+2021-05-22,New Brunswick,20,45 to 64 years,Both sexes
+2021-05-22,New Brunswick,10,45 to 64 years,Males
+2021-05-22,New Brunswick,5,45 to 64 years,Females
+2021-05-22,New Brunswick,70,65 to 84 years,Both sexes
+2021-05-22,New Brunswick,35,65 to 84 years,Males
+2021-05-22,New Brunswick,30,65 to 84 years,Females
+2021-05-22,New Brunswick,55,85 years and over,Both sexes
+2021-05-22,New Brunswick,25,85 years and over,Males
+2021-05-22,New Brunswick,30,85 years and over,Females
+2021-05-29,New Brunswick,135,all ages,Both sexes
+2021-05-29,New Brunswick,70,all ages,Males
+2021-05-29,New Brunswick,55,all ages,Females
+2021-05-29,New Brunswick,5,0 to 44 years,Both sexes
+2021-05-29,New Brunswick,,0 to 44 years,Males
+2021-05-29,New Brunswick,0,0 to 44 years,Females
+2021-05-29,New Brunswick,15,45 to 64 years,Both sexes
+2021-05-29,New Brunswick,10,45 to 64 years,Males
+2021-05-29,New Brunswick,5,45 to 64 years,Females
+2021-05-29,New Brunswick,60,65 to 84 years,Both sexes
+2021-05-29,New Brunswick,35,65 to 84 years,Males
+2021-05-29,New Brunswick,20,65 to 84 years,Females
+2021-05-29,New Brunswick,55,85 years and over,Both sexes
+2021-05-29,New Brunswick,25,85 years and over,Males
+2021-05-29,New Brunswick,25,85 years and over,Females
+2021-06-05,New Brunswick,145,all ages,Both sexes
+2021-06-05,New Brunswick,65,all ages,Males
+2021-06-05,New Brunswick,65,all ages,Females
+2021-06-05,New Brunswick,15,0 to 44 years,Both sexes
+2021-06-05,New Brunswick,0,0 to 44 years,Males
+2021-06-05,New Brunswick,0,0 to 44 years,Females
+2021-06-05,New Brunswick,25,45 to 64 years,Both sexes
+2021-06-05,New Brunswick,15,45 to 64 years,Males
+2021-06-05,New Brunswick,5,45 to 64 years,Females
+2021-06-05,New Brunswick,60,65 to 84 years,Both sexes
+2021-06-05,New Brunswick,20,65 to 84 years,Males
+2021-06-05,New Brunswick,30,65 to 84 years,Females
+2021-06-05,New Brunswick,50,85 years and over,Both sexes
+2021-06-05,New Brunswick,25,85 years and over,Males
+2021-06-05,New Brunswick,20,85 years and over,Females
+2021-06-12,New Brunswick,150,all ages,Both sexes
+2021-06-12,New Brunswick,55,all ages,Males
+2021-06-12,New Brunswick,75,all ages,Females
+2021-06-12,New Brunswick,,0 to 44 years,Both sexes
+2021-06-12,New Brunswick,,0 to 44 years,Males
+2021-06-12,New Brunswick,,0 to 44 years,Females
+2021-06-12,New Brunswick,20,45 to 64 years,Both sexes
+2021-06-12,New Brunswick,10,45 to 64 years,Males
+2021-06-12,New Brunswick,5,45 to 64 years,Females
+2021-06-12,New Brunswick,70,65 to 84 years,Both sexes
+2021-06-12,New Brunswick,30,65 to 84 years,Males
+2021-06-12,New Brunswick,35,65 to 84 years,Females
+2021-06-12,New Brunswick,55,85 years and over,Both sexes
+2021-06-12,New Brunswick,20,85 years and over,Males
+2021-06-12,New Brunswick,35,85 years and over,Females
+2021-06-19,New Brunswick,135,all ages,Both sexes
+2021-06-19,New Brunswick,60,all ages,Males
+2021-06-19,New Brunswick,60,all ages,Females
+2021-06-19,New Brunswick,,0 to 44 years,Both sexes
+2021-06-19,New Brunswick,5,0 to 44 years,Males
+2021-06-19,New Brunswick,5,0 to 44 years,Females
+2021-06-19,New Brunswick,15,45 to 64 years,Both sexes
+2021-06-19,New Brunswick,10,45 to 64 years,Males
+2021-06-19,New Brunswick,0,45 to 64 years,Females
+2021-06-19,New Brunswick,65,65 to 84 years,Both sexes
+2021-06-19,New Brunswick,30,65 to 84 years,Males
+2021-06-19,New Brunswick,25,65 to 84 years,Females
+2021-06-19,New Brunswick,45,85 years and over,Both sexes
+2021-06-19,New Brunswick,15,85 years and over,Males
+2021-06-19,New Brunswick,20,85 years and over,Females
+2021-06-26,New Brunswick,150,all ages,Both sexes
+2021-06-26,New Brunswick,60,all ages,Males
+2021-06-26,New Brunswick,70,all ages,Females
+2021-06-26,New Brunswick,,0 to 44 years,Both sexes
+2021-06-26,New Brunswick,5,0 to 44 years,Males
+2021-06-26,New Brunswick,0,0 to 44 years,Females
+2021-06-26,New Brunswick,20,45 to 64 years,Both sexes
+2021-06-26,New Brunswick,5,45 to 64 years,Males
+2021-06-26,New Brunswick,10,45 to 64 years,Females
+2021-06-26,New Brunswick,85,65 to 84 years,Both sexes
+2021-06-26,New Brunswick,35,65 to 84 years,Males
+2021-06-26,New Brunswick,35,65 to 84 years,Females
+2021-06-26,New Brunswick,35,85 years and over,Both sexes
+2021-06-26,New Brunswick,15,85 years and over,Males
+2021-06-26,New Brunswick,25,85 years and over,Females
+2021-07-03,New Brunswick,155,all ages,Both sexes
+2021-07-03,New Brunswick,60,all ages,Males
+2021-07-03,New Brunswick,60,all ages,Females
+2021-07-03,New Brunswick,,0 to 44 years,Both sexes
+2021-07-03,New Brunswick,0,0 to 44 years,Males
+2021-07-03,New Brunswick,0,0 to 44 years,Females
+2021-07-03,New Brunswick,20,45 to 64 years,Both sexes
+2021-07-03,New Brunswick,5,45 to 64 years,Males
+2021-07-03,New Brunswick,5,45 to 64 years,Females
+2021-07-03,New Brunswick,75,65 to 84 years,Both sexes
+2021-07-03,New Brunswick,35,65 to 84 years,Males
+2021-07-03,New Brunswick,25,65 to 84 years,Females
+2021-07-03,New Brunswick,50,85 years and over,Both sexes
+2021-07-03,New Brunswick,15,85 years and over,Males
+2021-07-03,New Brunswick,25,85 years and over,Females
+2021-07-10,New Brunswick,130,all ages,Both sexes
+2021-07-10,New Brunswick,55,all ages,Males
+2021-07-10,New Brunswick,60,all ages,Females
+2021-07-10,New Brunswick,,0 to 44 years,Both sexes
+2021-07-10,New Brunswick,0,0 to 44 years,Males
+2021-07-10,New Brunswick,0,0 to 44 years,Females
+2021-07-10,New Brunswick,25,45 to 64 years,Both sexes
+2021-07-10,New Brunswick,10,45 to 64 years,Males
+2021-07-10,New Brunswick,5,45 to 64 years,Females
+2021-07-10,New Brunswick,55,65 to 84 years,Both sexes
+2021-07-10,New Brunswick,20,65 to 84 years,Males
+2021-07-10,New Brunswick,25,65 to 84 years,Females
+2021-07-10,New Brunswick,45,85 years and over,Both sexes
+2021-07-10,New Brunswick,20,85 years and over,Males
+2021-07-10,New Brunswick,20,85 years and over,Females
+2021-07-17,New Brunswick,155,all ages,Both sexes
+2021-07-17,New Brunswick,75,all ages,Males
+2021-07-17,New Brunswick,50,all ages,Females
+2021-07-17,New Brunswick,,0 to 44 years,Both sexes
+2021-07-17,New Brunswick,5,0 to 44 years,Males
+2021-07-17,New Brunswick,5,0 to 44 years,Females
+2021-07-17,New Brunswick,20,45 to 64 years,Both sexes
+2021-07-17,New Brunswick,15,45 to 64 years,Males
+2021-07-17,New Brunswick,5,45 to 64 years,Females
+2021-07-17,New Brunswick,75,65 to 84 years,Both sexes
+2021-07-17,New Brunswick,35,65 to 84 years,Males
+2021-07-17,New Brunswick,20,65 to 84 years,Females
+2021-07-17,New Brunswick,50,85 years and over,Both sexes
+2021-07-17,New Brunswick,15,85 years and over,Males
+2021-07-17,New Brunswick,20,85 years and over,Females
+2021-07-24,New Brunswick,150,all ages,Both sexes
+2021-07-24,New Brunswick,70,all ages,Males
+2021-07-24,New Brunswick,60,all ages,Females
+2021-07-24,New Brunswick,,0 to 44 years,Both sexes
+2021-07-24,New Brunswick,,0 to 44 years,Males
+2021-07-24,New Brunswick,5,0 to 44 years,Females
+2021-07-24,New Brunswick,20,45 to 64 years,Both sexes
+2021-07-24,New Brunswick,15,45 to 64 years,Males
+2021-07-24,New Brunswick,5,45 to 64 years,Females
+2021-07-24,New Brunswick,70,65 to 84 years,Both sexes
+2021-07-24,New Brunswick,40,65 to 84 years,Males
+2021-07-24,New Brunswick,20,65 to 84 years,Females
+2021-07-24,New Brunswick,50,85 years and over,Both sexes
+2021-07-24,New Brunswick,20,85 years and over,Males
+2021-07-24,New Brunswick,25,85 years and over,Females
+2021-07-31,New Brunswick,165,all ages,Both sexes
+2021-07-31,New Brunswick,65,all ages,Males
+2021-07-31,New Brunswick,70,all ages,Females
+2021-07-31,New Brunswick,,0 to 44 years,Both sexes
+2021-07-31,New Brunswick,5,0 to 44 years,Males
+2021-07-31,New Brunswick,,0 to 44 years,Females
+2021-07-31,New Brunswick,20,45 to 64 years,Both sexes
+2021-07-31,New Brunswick,5,45 to 64 years,Males
+2021-07-31,New Brunswick,10,45 to 64 years,Females
+2021-07-31,New Brunswick,70,65 to 84 years,Both sexes
+2021-07-31,New Brunswick,35,65 to 84 years,Males
+2021-07-31,New Brunswick,30,65 to 84 years,Females
+2021-07-31,New Brunswick,65,85 years and over,Both sexes
+2021-07-31,New Brunswick,20,85 years and over,Males
+2021-07-31,New Brunswick,35,85 years and over,Females
+2021-08-07,New Brunswick,155,all ages,Both sexes
+2021-08-07,New Brunswick,60,all ages,Males
+2021-08-07,New Brunswick,60,all ages,Females
+2021-08-07,New Brunswick,,0 to 44 years,Both sexes
+2021-08-07,New Brunswick,,0 to 44 years,Males
+2021-08-07,New Brunswick,0,0 to 44 years,Females
+2021-08-07,New Brunswick,20,45 to 64 years,Both sexes
+2021-08-07,New Brunswick,10,45 to 64 years,Males
+2021-08-07,New Brunswick,5,45 to 64 years,Females
+2021-08-07,New Brunswick,80,65 to 84 years,Both sexes
+2021-08-07,New Brunswick,35,65 to 84 years,Males
+2021-08-07,New Brunswick,30,65 to 84 years,Females
+2021-08-07,New Brunswick,45,85 years and over,Both sexes
+2021-08-07,New Brunswick,15,85 years and over,Males
+2021-08-07,New Brunswick,25,85 years and over,Females
+2021-08-14,New Brunswick,155,all ages,Both sexes
+2021-08-14,New Brunswick,75,all ages,Males
+2021-08-14,New Brunswick,50,all ages,Females
+2021-08-14,New Brunswick,,0 to 44 years,Both sexes
+2021-08-14,New Brunswick,5,0 to 44 years,Males
+2021-08-14,New Brunswick,,0 to 44 years,Females
+2021-08-14,New Brunswick,15,45 to 64 years,Both sexes
+2021-08-14,New Brunswick,5,45 to 64 years,Males
+2021-08-14,New Brunswick,5,45 to 64 years,Females
+2021-08-14,New Brunswick,85,65 to 84 years,Both sexes
+2021-08-14,New Brunswick,50,65 to 84 years,Males
+2021-08-14,New Brunswick,25,65 to 84 years,Females
+2021-08-14,New Brunswick,50,85 years and over,Both sexes
+2021-08-14,New Brunswick,20,85 years and over,Males
+2021-08-14,New Brunswick,25,85 years and over,Females
+2021-08-21,New Brunswick,160,all ages,Both sexes
+2021-08-21,New Brunswick,55,all ages,Males
+2021-08-21,New Brunswick,60,all ages,Females
+2021-08-21,New Brunswick,,0 to 44 years,Both sexes
+2021-08-21,New Brunswick,0,0 to 44 years,Males
+2021-08-21,New Brunswick,0,0 to 44 years,Females
+2021-08-21,New Brunswick,40,45 to 64 years,Both sexes
+2021-08-21,New Brunswick,15,45 to 64 years,Males
+2021-08-21,New Brunswick,10,45 to 64 years,Females
+2021-08-21,New Brunswick,65,65 to 84 years,Both sexes
+2021-08-21,New Brunswick,20,65 to 84 years,Males
+2021-08-21,New Brunswick,30,65 to 84 years,Females
+2021-08-21,New Brunswick,50,85 years and over,Both sexes
+2021-08-21,New Brunswick,20,85 years and over,Males
+2021-08-21,New Brunswick,25,85 years and over,Females
+2021-08-28,New Brunswick,150,all ages,Both sexes
+2021-08-28,New Brunswick,65,all ages,Males
+2021-08-28,New Brunswick,45,all ages,Females
+2021-08-28,New Brunswick,,0 to 44 years,Both sexes
+2021-08-28,New Brunswick,5,0 to 44 years,Males
+2021-08-28,New Brunswick,0,0 to 44 years,Females
+2021-08-28,New Brunswick,30,45 to 64 years,Both sexes
+2021-08-28,New Brunswick,15,45 to 64 years,Males
+2021-08-28,New Brunswick,5,45 to 64 years,Females
+2021-08-28,New Brunswick,70,65 to 84 years,Both sexes
+2021-08-28,New Brunswick,35,65 to 84 years,Males
+2021-08-28,New Brunswick,25,65 to 84 years,Females
+2021-08-28,New Brunswick,40,85 years and over,Both sexes
+2021-08-28,New Brunswick,10,85 years and over,Males
+2021-08-28,New Brunswick,20,85 years and over,Females
+2021-09-04,New Brunswick,200,all ages,Both sexes
+2021-09-04,New Brunswick,75,all ages,Males
+2021-09-04,New Brunswick,80,all ages,Females
+2021-09-04,New Brunswick,,0 to 44 years,Both sexes
+2021-09-04,New Brunswick,5,0 to 44 years,Males
+2021-09-04,New Brunswick,5,0 to 44 years,Females
+2021-09-04,New Brunswick,30,45 to 64 years,Both sexes
+2021-09-04,New Brunswick,15,45 to 64 years,Males
+2021-09-04,New Brunswick,5,45 to 64 years,Females
+2021-09-04,New Brunswick,100,65 to 84 years,Both sexes
+2021-09-04,New Brunswick,40,65 to 84 years,Males
+2021-09-04,New Brunswick,40,65 to 84 years,Females
+2021-09-04,New Brunswick,65,85 years and over,Both sexes
+2021-09-04,New Brunswick,20,85 years and over,Males
+2021-09-04,New Brunswick,30,85 years and over,Females
+2021-09-11,New Brunswick,190,all ages,Both sexes
+2021-09-11,New Brunswick,70,all ages,Males
+2021-09-11,New Brunswick,70,all ages,Females
+2021-09-11,New Brunswick,,0 to 44 years,Both sexes
+2021-09-11,New Brunswick,0,0 to 44 years,Males
+2021-09-11,New Brunswick,,0 to 44 years,Females
+2021-09-11,New Brunswick,25,45 to 64 years,Both sexes
+2021-09-11,New Brunswick,10,45 to 64 years,Males
+2021-09-11,New Brunswick,5,45 to 64 years,Females
+2021-09-11,New Brunswick,95,65 to 84 years,Both sexes
+2021-09-11,New Brunswick,40,65 to 84 years,Males
+2021-09-11,New Brunswick,30,65 to 84 years,Females
+2021-09-11,New Brunswick,70,85 years and over,Both sexes
+2021-09-11,New Brunswick,20,85 years and over,Males
+2021-09-11,New Brunswick,35,85 years and over,Females
+2021-09-18,New Brunswick,185,all ages,Both sexes
+2021-09-18,New Brunswick,65,all ages,Males
+2021-09-18,New Brunswick,65,all ages,Females
+2021-09-18,New Brunswick,,0 to 44 years,Both sexes
+2021-09-18,New Brunswick,0,0 to 44 years,Males
+2021-09-18,New Brunswick,0,0 to 44 years,Females
+2021-09-18,New Brunswick,30,45 to 64 years,Both sexes
+2021-09-18,New Brunswick,10,45 to 64 years,Males
+2021-09-18,New Brunswick,5,45 to 64 years,Females
+2021-09-18,New Brunswick,85,65 to 84 years,Both sexes
+2021-09-18,New Brunswick,40,65 to 84 years,Males
+2021-09-18,New Brunswick,25,65 to 84 years,Females
+2021-09-18,New Brunswick,60,85 years and over,Both sexes
+2021-09-18,New Brunswick,10,85 years and over,Males
+2021-09-18,New Brunswick,30,85 years and over,Females
+2021-09-25,New Brunswick,170,all ages,Both sexes
+2021-09-25,New Brunswick,65,all ages,Males
+2021-09-25,New Brunswick,60,all ages,Females
+2021-09-25,New Brunswick,,0 to 44 years,Both sexes
+2021-09-25,New Brunswick,5,0 to 44 years,Males
+2021-09-25,New Brunswick,0,0 to 44 years,Females
+2021-09-25,New Brunswick,25,45 to 64 years,Both sexes
+2021-09-25,New Brunswick,10,45 to 64 years,Males
+2021-09-25,New Brunswick,15,45 to 64 years,Females
+2021-09-25,New Brunswick,75,65 to 84 years,Both sexes
+2021-09-25,New Brunswick,30,65 to 84 years,Males
+2021-09-25,New Brunswick,25,65 to 84 years,Females
+2021-09-25,New Brunswick,60,85 years and over,Both sexes
+2021-09-25,New Brunswick,25,85 years and over,Males
+2021-09-25,New Brunswick,20,85 years and over,Females
+2021-10-02,New Brunswick,215,all ages,Both sexes
+2021-10-02,New Brunswick,85,all ages,Males
+2021-10-02,New Brunswick,75,all ages,Females
+2021-10-02,New Brunswick,,0 to 44 years,Both sexes
+2021-10-02,New Brunswick,0,0 to 44 years,Males
+2021-10-02,New Brunswick,0,0 to 44 years,Females
+2021-10-02,New Brunswick,30,45 to 64 years,Both sexes
+2021-10-02,New Brunswick,10,45 to 64 years,Males
+2021-10-02,New Brunswick,5,45 to 64 years,Females
+2021-10-02,New Brunswick,110,65 to 84 years,Both sexes
+2021-10-02,New Brunswick,50,65 to 84 years,Males
+2021-10-02,New Brunswick,35,65 to 84 years,Females
+2021-10-02,New Brunswick,65,85 years and over,Both sexes
+2021-10-02,New Brunswick,20,85 years and over,Males
+2021-10-02,New Brunswick,30,85 years and over,Females
+2021-10-09,New Brunswick,195,all ages,Both sexes
+2021-10-09,New Brunswick,60,all ages,Males
+2021-10-09,New Brunswick,55,all ages,Females
+2021-10-09,New Brunswick,,0 to 44 years,Both sexes
+2021-10-09,New Brunswick,0,0 to 44 years,Males
+2021-10-09,New Brunswick,,0 to 44 years,Females
+2021-10-09,New Brunswick,30,45 to 64 years,Both sexes
+2021-10-09,New Brunswick,10,45 to 64 years,Males
+2021-10-09,New Brunswick,5,45 to 64 years,Females
+2021-10-09,New Brunswick,90,65 to 84 years,Both sexes
+2021-10-09,New Brunswick,35,65 to 84 years,Males
+2021-10-09,New Brunswick,30,65 to 84 years,Females
+2021-10-09,New Brunswick,60,85 years and over,Both sexes
+2021-10-09,New Brunswick,15,85 years and over,Males
+2021-10-09,New Brunswick,20,85 years and over,Females
+2021-10-16,New Brunswick,180,all ages,Both sexes
+2021-10-16,New Brunswick,15,all ages,Males
+2021-10-16,New Brunswick,10,all ages,Females
+2021-10-16,New Brunswick,,0 to 44 years,Both sexes
+2021-10-16,New Brunswick,,0 to 44 years,Males
+2021-10-16,New Brunswick,0,0 to 44 years,Females
+2021-10-16,New Brunswick,20,45 to 64 years,Both sexes
+2021-10-16,New Brunswick,,45 to 64 years,Males
+2021-10-16,New Brunswick,0,45 to 64 years,Females
+2021-10-16,New Brunswick,95,65 to 84 years,Both sexes
+2021-10-16,New Brunswick,10,65 to 84 years,Males
+2021-10-16,New Brunswick,5,65 to 84 years,Females
+2021-10-16,New Brunswick,55,85 years and over,Both sexes
+2021-10-16,New Brunswick,5,85 years and over,Males
+2021-10-16,New Brunswick,0,85 years and over,Females
+2021-10-23,New Brunswick,205,all ages,Both sexes
+2021-10-23,New Brunswick,10,all ages,Males
+2021-10-23,New Brunswick,15,all ages,Females
+2021-10-23,New Brunswick,,0 to 44 years,Both sexes
+2021-10-23,New Brunswick,,0 to 44 years,Males
+2021-10-23,New Brunswick,0,0 to 44 years,Females
+2021-10-23,New Brunswick,25,45 to 64 years,Both sexes
+2021-10-23,New Brunswick,0,45 to 64 years,Males
+2021-10-23,New Brunswick,5,45 to 64 years,Females
+2021-10-23,New Brunswick,105,65 to 84 years,Both sexes
+2021-10-23,New Brunswick,5,65 to 84 years,Males
+2021-10-23,New Brunswick,5,65 to 84 years,Females
+2021-10-23,New Brunswick,55,85 years and over,Both sexes
+2021-10-23,New Brunswick,5,85 years and over,Males
+2021-10-23,New Brunswick,5,85 years and over,Females
+2021-10-30,New Brunswick,160,all ages,Both sexes
+2021-10-30,New Brunswick,10,all ages,Males
+2021-10-30,New Brunswick,5,all ages,Females
+2021-10-30,New Brunswick,,0 to 44 years,Both sexes
+2021-10-30,New Brunswick,,0 to 44 years,Males
+2021-10-30,New Brunswick,,0 to 44 years,Females
+2021-10-30,New Brunswick,20,45 to 64 years,Both sexes
+2021-10-30,New Brunswick,5,45 to 64 years,Males
+2021-10-30,New Brunswick,0,45 to 64 years,Females
+2021-10-30,New Brunswick,85,65 to 84 years,Both sexes
+2021-10-30,New Brunswick,5,65 to 84 years,Males
+2021-10-30,New Brunswick,0,65 to 84 years,Females
+2021-10-30,New Brunswick,50,85 years and over,Both sexes
+2021-10-30,New Brunswick,5,85 years and over,Males
+2021-10-30,New Brunswick,5,85 years and over,Females
+2021-11-06,New Brunswick,190,all ages,Both sexes
+2021-11-06,New Brunswick,5,all ages,Males
+2021-11-06,New Brunswick,0,all ages,Females
+2021-11-06,New Brunswick,,0 to 44 years,Both sexes
+2021-11-06,New Brunswick,,0 to 44 years,Males
+2021-11-06,New Brunswick,,0 to 44 years,Females
+2021-11-06,New Brunswick,25,45 to 64 years,Both sexes
+2021-11-06,New Brunswick,0,45 to 64 years,Males
+2021-11-06,New Brunswick,,45 to 64 years,Females
+2021-11-06,New Brunswick,90,65 to 84 years,Both sexes
+2021-11-06,New Brunswick,,65 to 84 years,Males
+2021-11-06,New Brunswick,0,65 to 84 years,Females
+2021-11-06,New Brunswick,60,85 years and over,Both sexes
+2021-11-06,New Brunswick,0,85 years and over,Males
+2021-11-06,New Brunswick,,85 years and over,Females
+2021-11-13,New Brunswick,200,all ages,Both sexes
+2021-11-13,New Brunswick,,all ages,Males
+2021-11-13,New Brunswick,5,all ages,Females
+2021-11-13,New Brunswick,,0 to 44 years,Both sexes
+2021-11-13,New Brunswick,,0 to 44 years,Males
+2021-11-13,New Brunswick,0,0 to 44 years,Females
+2021-11-13,New Brunswick,25,45 to 64 years,Both sexes
+2021-11-13,New Brunswick,,45 to 64 years,Males
+2021-11-13,New Brunswick,,45 to 64 years,Females
+2021-11-13,New Brunswick,95,65 to 84 years,Both sexes
+2021-11-13,New Brunswick,,65 to 84 years,Males
+2021-11-13,New Brunswick,0,65 to 84 years,Females
+2021-11-13,New Brunswick,70,85 years and over,Both sexes
+2021-11-13,New Brunswick,,85 years and over,Males
+2021-11-13,New Brunswick,5,85 years and over,Females
+2021-11-20,New Brunswick,185,all ages,Both sexes
+2021-11-20,New Brunswick,,all ages,Males
+2021-11-20,New Brunswick,,all ages,Females
+2021-11-20,New Brunswick,,0 to 44 years,Both sexes
+2021-11-20,New Brunswick,,0 to 44 years,Males
+2021-11-20,New Brunswick,,0 to 44 years,Females
+2021-11-20,New Brunswick,30,45 to 64 years,Both sexes
+2021-11-20,New Brunswick,,45 to 64 years,Males
+2021-11-20,New Brunswick,,45 to 64 years,Females
+2021-11-20,New Brunswick,80,65 to 84 years,Both sexes
+2021-11-20,New Brunswick,,65 to 84 years,Males
+2021-11-20,New Brunswick,,65 to 84 years,Females
+2021-11-20,New Brunswick,65,85 years and over,Both sexes
+2021-11-20,New Brunswick,,85 years and over,Males
+2021-11-20,New Brunswick,,85 years and over,Females
+2021-11-27,New Brunswick,175,all ages,Both sexes
+2021-11-27,New Brunswick,0,all ages,Males
+2021-11-27,New Brunswick,,all ages,Females
+2021-11-27,New Brunswick,,0 to 44 years,Both sexes
+2021-11-27,New Brunswick,,0 to 44 years,Males
+2021-11-27,New Brunswick,,0 to 44 years,Females
+2021-11-27,New Brunswick,,45 to 64 years,Both sexes
+2021-11-27,New Brunswick,,45 to 64 years,Males
+2021-11-27,New Brunswick,,45 to 64 years,Females
+2021-11-27,New Brunswick,85,65 to 84 years,Both sexes
+2021-11-27,New Brunswick,,65 to 84 years,Males
+2021-11-27,New Brunswick,,65 to 84 years,Females
+2021-11-27,New Brunswick,55,85 years and over,Both sexes
+2021-11-27,New Brunswick,0,85 years and over,Males
+2021-11-27,New Brunswick,,85 years and over,Females
+2021-12-04,New Brunswick,,all ages,Both sexes
+2021-12-04,New Brunswick,,all ages,Males
+2021-12-04,New Brunswick,,all ages,Females
+2021-12-04,New Brunswick,,0 to 44 years,Both sexes
+2021-12-04,New Brunswick,,0 to 44 years,Males
+2021-12-04,New Brunswick,,0 to 44 years,Females
+2021-12-04,New Brunswick,,45 to 64 years,Both sexes
+2021-12-04,New Brunswick,,45 to 64 years,Males
+2021-12-04,New Brunswick,,45 to 64 years,Females
+2021-12-04,New Brunswick,,65 to 84 years,Both sexes
+2021-12-04,New Brunswick,,65 to 84 years,Males
+2021-12-04,New Brunswick,,65 to 84 years,Females
+2021-12-04,New Brunswick,,85 years and over,Both sexes
+2021-12-04,New Brunswick,,85 years and over,Males
+2021-12-04,New Brunswick,,85 years and over,Females
+2021-12-11,New Brunswick,,all ages,Both sexes
+2021-12-11,New Brunswick,,all ages,Males
+2021-12-11,New Brunswick,,all ages,Females
+2021-12-11,New Brunswick,,0 to 44 years,Both sexes
+2021-12-11,New Brunswick,,0 to 44 years,Males
+2021-12-11,New Brunswick,,0 to 44 years,Females
+2021-12-11,New Brunswick,,45 to 64 years,Both sexes
+2021-12-11,New Brunswick,,45 to 64 years,Males
+2021-12-11,New Brunswick,,45 to 64 years,Females
+2021-12-11,New Brunswick,,65 to 84 years,Both sexes
+2021-12-11,New Brunswick,,65 to 84 years,Males
+2021-12-11,New Brunswick,,65 to 84 years,Females
+2021-12-11,New Brunswick,,85 years and over,Both sexes
+2021-12-11,New Brunswick,,85 years and over,Males
+2021-12-11,New Brunswick,,85 years and over,Females
+2021-12-18,New Brunswick,,all ages,Both sexes
+2021-12-18,New Brunswick,,all ages,Males
+2021-12-18,New Brunswick,,all ages,Females
+2021-12-18,New Brunswick,,0 to 44 years,Both sexes
+2021-12-18,New Brunswick,,0 to 44 years,Males
+2021-12-18,New Brunswick,,0 to 44 years,Females
+2021-12-18,New Brunswick,,45 to 64 years,Both sexes
+2021-12-18,New Brunswick,,45 to 64 years,Males
+2021-12-18,New Brunswick,,45 to 64 years,Females
+2021-12-18,New Brunswick,,65 to 84 years,Both sexes
+2021-12-18,New Brunswick,,65 to 84 years,Males
+2021-12-18,New Brunswick,,65 to 84 years,Females
+2021-12-18,New Brunswick,,85 years and over,Both sexes
+2021-12-18,New Brunswick,,85 years and over,Males
+2021-12-18,New Brunswick,,85 years and over,Females
+2021-12-25,New Brunswick,,all ages,Both sexes
+2021-12-25,New Brunswick,,all ages,Males
+2021-12-25,New Brunswick,,all ages,Females
+2021-12-25,New Brunswick,,0 to 44 years,Both sexes
+2021-12-25,New Brunswick,,0 to 44 years,Males
+2021-12-25,New Brunswick,,0 to 44 years,Females
+2021-12-25,New Brunswick,,45 to 64 years,Both sexes
+2021-12-25,New Brunswick,,45 to 64 years,Males
+2021-12-25,New Brunswick,,45 to 64 years,Females
+2021-12-25,New Brunswick,,65 to 84 years,Both sexes
+2021-12-25,New Brunswick,,65 to 84 years,Males
+2021-12-25,New Brunswick,,65 to 84 years,Females
+2021-12-25,New Brunswick,,85 years and over,Both sexes
+2021-12-25,New Brunswick,,85 years and over,Males
+2021-12-25,New Brunswick,,85 years and over,Females
+2022-01-01,New Brunswick,,all ages,Both sexes
+2022-01-01,New Brunswick,,all ages,Males
+2022-01-01,New Brunswick,,all ages,Females
+2022-01-01,New Brunswick,,0 to 44 years,Both sexes
+2022-01-01,New Brunswick,,0 to 44 years,Males
+2022-01-01,New Brunswick,,0 to 44 years,Females
+2022-01-01,New Brunswick,,45 to 64 years,Both sexes
+2022-01-01,New Brunswick,,45 to 64 years,Males
+2022-01-01,New Brunswick,,45 to 64 years,Females
+2022-01-01,New Brunswick,,65 to 84 years,Both sexes
+2022-01-01,New Brunswick,,65 to 84 years,Males
+2022-01-01,New Brunswick,,65 to 84 years,Females
+2022-01-01,New Brunswick,,85 years and over,Both sexes
+2022-01-01,New Brunswick,,85 years and over,Males
+2022-01-01,New Brunswick,,85 years and over,Females
+2022-01-08,New Brunswick,,all ages,Both sexes
+2022-01-08,New Brunswick,,all ages,Males
+2022-01-08,New Brunswick,,all ages,Females
+2022-01-08,New Brunswick,,0 to 44 years,Both sexes
+2022-01-08,New Brunswick,,0 to 44 years,Males
+2022-01-08,New Brunswick,,0 to 44 years,Females
+2022-01-08,New Brunswick,,45 to 64 years,Both sexes
+2022-01-08,New Brunswick,,45 to 64 years,Males
+2022-01-08,New Brunswick,,45 to 64 years,Females
+2022-01-08,New Brunswick,,65 to 84 years,Both sexes
+2022-01-08,New Brunswick,,65 to 84 years,Males
+2022-01-08,New Brunswick,,65 to 84 years,Females
+2022-01-08,New Brunswick,,85 years and over,Both sexes
+2022-01-08,New Brunswick,,85 years and over,Males
+2022-01-08,New Brunswick,,85 years and over,Females
+2022-01-15,New Brunswick,,all ages,Both sexes
+2022-01-15,New Brunswick,,all ages,Males
+2022-01-15,New Brunswick,,all ages,Females
+2022-01-15,New Brunswick,,0 to 44 years,Both sexes
+2022-01-15,New Brunswick,,0 to 44 years,Males
+2022-01-15,New Brunswick,,0 to 44 years,Females
+2022-01-15,New Brunswick,,45 to 64 years,Both sexes
+2022-01-15,New Brunswick,,45 to 64 years,Males
+2022-01-15,New Brunswick,,45 to 64 years,Females
+2022-01-15,New Brunswick,,65 to 84 years,Both sexes
+2022-01-15,New Brunswick,,65 to 84 years,Males
+2022-01-15,New Brunswick,,65 to 84 years,Females
+2022-01-15,New Brunswick,,85 years and over,Both sexes
+2022-01-15,New Brunswick,,85 years and over,Males
+2022-01-15,New Brunswick,,85 years and over,Females
+2022-01-22,New Brunswick,,all ages,Both sexes
+2022-01-22,New Brunswick,,all ages,Males
+2022-01-22,New Brunswick,,all ages,Females
+2022-01-22,New Brunswick,,0 to 44 years,Both sexes
+2022-01-22,New Brunswick,,0 to 44 years,Males
+2022-01-22,New Brunswick,,0 to 44 years,Females
+2022-01-22,New Brunswick,,45 to 64 years,Both sexes
+2022-01-22,New Brunswick,,45 to 64 years,Males
+2022-01-22,New Brunswick,,45 to 64 years,Females
+2022-01-22,New Brunswick,,65 to 84 years,Both sexes
+2022-01-22,New Brunswick,,65 to 84 years,Males
+2022-01-22,New Brunswick,,65 to 84 years,Females
+2022-01-22,New Brunswick,,85 years and over,Both sexes
+2022-01-22,New Brunswick,,85 years and over,Males
+2022-01-22,New Brunswick,,85 years and over,Females
+2022-01-29,New Brunswick,,all ages,Both sexes
+2022-01-29,New Brunswick,,all ages,Males
+2022-01-29,New Brunswick,,all ages,Females
+2022-01-29,New Brunswick,,0 to 44 years,Both sexes
+2022-01-29,New Brunswick,,0 to 44 years,Males
+2022-01-29,New Brunswick,,0 to 44 years,Females
+2022-01-29,New Brunswick,,45 to 64 years,Both sexes
+2022-01-29,New Brunswick,,45 to 64 years,Males
+2022-01-29,New Brunswick,,45 to 64 years,Females
+2022-01-29,New Brunswick,,65 to 84 years,Both sexes
+2022-01-29,New Brunswick,,65 to 84 years,Males
+2022-01-29,New Brunswick,,65 to 84 years,Females
+2022-01-29,New Brunswick,,85 years and over,Both sexes
+2022-01-29,New Brunswick,,85 years and over,Males
+2022-01-29,New Brunswick,,85 years and over,Females
+2022-02-05,New Brunswick,,all ages,Both sexes
+2022-02-05,New Brunswick,,all ages,Males
+2022-02-05,New Brunswick,,all ages,Females
+2022-02-05,New Brunswick,,0 to 44 years,Both sexes
+2022-02-05,New Brunswick,,0 to 44 years,Males
+2022-02-05,New Brunswick,,0 to 44 years,Females
+2022-02-05,New Brunswick,,45 to 64 years,Both sexes
+2022-02-05,New Brunswick,,45 to 64 years,Males
+2022-02-05,New Brunswick,,45 to 64 years,Females
+2022-02-05,New Brunswick,,65 to 84 years,Both sexes
+2022-02-05,New Brunswick,,65 to 84 years,Males
+2022-02-05,New Brunswick,,65 to 84 years,Females
+2022-02-05,New Brunswick,,85 years and over,Both sexes
+2022-02-05,New Brunswick,,85 years and over,Males
+2022-02-05,New Brunswick,,85 years and over,Females
+2022-02-12,New Brunswick,,all ages,Both sexes
+2022-02-12,New Brunswick,,all ages,Males
+2022-02-12,New Brunswick,,all ages,Females
+2022-02-12,New Brunswick,,0 to 44 years,Both sexes
+2022-02-12,New Brunswick,,0 to 44 years,Males
+2022-02-12,New Brunswick,,0 to 44 years,Females
+2022-02-12,New Brunswick,,45 to 64 years,Both sexes
+2022-02-12,New Brunswick,,45 to 64 years,Males
+2022-02-12,New Brunswick,,45 to 64 years,Females
+2022-02-12,New Brunswick,,65 to 84 years,Both sexes
+2022-02-12,New Brunswick,,65 to 84 years,Males
+2022-02-12,New Brunswick,,65 to 84 years,Females
+2022-02-12,New Brunswick,,85 years and over,Both sexes
+2022-02-12,New Brunswick,,85 years and over,Males
+2022-02-12,New Brunswick,,85 years and over,Females
+2022-02-19,New Brunswick,,all ages,Both sexes
+2022-02-19,New Brunswick,,all ages,Males
+2022-02-19,New Brunswick,,all ages,Females
+2022-02-19,New Brunswick,,0 to 44 years,Both sexes
+2022-02-19,New Brunswick,,0 to 44 years,Males
+2022-02-19,New Brunswick,,0 to 44 years,Females
+2022-02-19,New Brunswick,,45 to 64 years,Both sexes
+2022-02-19,New Brunswick,,45 to 64 years,Males
+2022-02-19,New Brunswick,,45 to 64 years,Females
+2022-02-19,New Brunswick,,65 to 84 years,Both sexes
+2022-02-19,New Brunswick,,65 to 84 years,Males
+2022-02-19,New Brunswick,,65 to 84 years,Females
+2022-02-19,New Brunswick,,85 years and over,Both sexes
+2022-02-19,New Brunswick,,85 years and over,Males
+2022-02-19,New Brunswick,,85 years and over,Females
+2022-02-26,New Brunswick,,all ages,Both sexes
+2022-02-26,New Brunswick,,all ages,Males
+2022-02-26,New Brunswick,,all ages,Females
+2022-02-26,New Brunswick,,0 to 44 years,Both sexes
+2022-02-26,New Brunswick,,0 to 44 years,Males
+2022-02-26,New Brunswick,,0 to 44 years,Females
+2022-02-26,New Brunswick,,45 to 64 years,Both sexes
+2022-02-26,New Brunswick,,45 to 64 years,Males
+2022-02-26,New Brunswick,,45 to 64 years,Females
+2022-02-26,New Brunswick,,65 to 84 years,Both sexes
+2022-02-26,New Brunswick,,65 to 84 years,Males
+2022-02-26,New Brunswick,,65 to 84 years,Females
+2022-02-26,New Brunswick,,85 years and over,Both sexes
+2022-02-26,New Brunswick,,85 years and over,Males
+2022-02-26,New Brunswick,,85 years and over,Females
+2022-03-05,New Brunswick,,all ages,Both sexes
+2022-03-05,New Brunswick,,all ages,Males
+2022-03-05,New Brunswick,,all ages,Females
+2022-03-05,New Brunswick,,0 to 44 years,Both sexes
+2022-03-05,New Brunswick,,0 to 44 years,Males
+2022-03-05,New Brunswick,,0 to 44 years,Females
+2022-03-05,New Brunswick,,45 to 64 years,Both sexes
+2022-03-05,New Brunswick,,45 to 64 years,Males
+2022-03-05,New Brunswick,,45 to 64 years,Females
+2022-03-05,New Brunswick,,65 to 84 years,Both sexes
+2022-03-05,New Brunswick,,65 to 84 years,Males
+2022-03-05,New Brunswick,,65 to 84 years,Females
+2022-03-05,New Brunswick,,85 years and over,Both sexes
+2022-03-05,New Brunswick,,85 years and over,Males
+2022-03-05,New Brunswick,,85 years and over,Females
