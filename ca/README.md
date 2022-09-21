@@ -1,6 +1,7 @@
 [PHAC1]  Cases following vaccination, COVID-19 Daily Epidemiology Update, Public Health Agency of Canada, 																									
 https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html.   
 Archived reports: web.archive.org		
+NB: URL changed in June 2022 to https://health-infobase.canada.ca/covid-19/
 
 Table 2. Characteristics and severe outcomes among unvaccinated, partially vaccinated, fully vaccinated, and fully vaccinated with additional dose confirmed cases reported to PHAC																									
 	https://docs.google.com/spreadsheets/d/1lSO5jJwTkMNGl9kk6Y5jeGORGS11KzEE5yTxBGrGYKw (public - this file)																								
